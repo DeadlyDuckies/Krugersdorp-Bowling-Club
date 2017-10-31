@@ -1,6 +1,0 @@
-Change calender.html
-	FROM: THIS IS WHERE THE CALENDAR GOES
-	TO: <iframe src="https://calendar.google.com/calendar/embed?src=ejn1ck2542o8vrtnve2va3n4po%40group.calendar.google.com&ctz=Africa/Johannesburg" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-	FROM:THIS IS WHERE THE CLUB COMPETITIONS GO
-	TO: http://www.josephsworld.com/tts/tourn.html
