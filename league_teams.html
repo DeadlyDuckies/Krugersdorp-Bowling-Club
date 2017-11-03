@@ -17,7 +17,7 @@
         <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
     </head>
 
-    <body>
+    <body onload="loadLeagueTeams()">
         <section class="menu cid-qyCBItOw5q" once="menu" id="menu1-9" data-rv-view="114">
             <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
@@ -141,12 +141,13 @@
             </nav>
         </section>
 
-        <section class="mbr-section content4 cid-qztSogXpZy" id="content4-1z" data-rv-view="127">
+        <section class="mbr-section content4 cid-qztSogXpZy" id="content4-1z" data-rv-view="130">
             <div class="container">
                 <div class="media-container-row">
                     <div class="title col-12 col-md-8">
-                        <h2 class="align-center pb-3 mbr-fonts-style display-2">
-                            League Teams
+                        <h2 id="title" class="align-center pb-3 mbr-fonts-style display-2">
+                        </h2>
+                        <h2 id="title_date" class="align-center pb-3 mbr-fonts-style display-2">
                         </h2>
                         <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">
                             Men
@@ -159,206 +160,8 @@
         <section class="section-table cid-qztItQMCpK" id="table1-1t" data-rv-view="84">
             <div class="container container-table">
                 <div class="table-wrapper">
-                    <div class="container scroll">
-                        <table class="table isSearch" cellspacing="0">
-                            <thead>
-                                <tr class="table-heads ">
-                                    <th class="head-item mbr-fonts-style display-7">
-                                        Super 7's - Division 2
-                                    </th>
-                                    <th class="head-item mbr-fonts-style display-7">
-                                        Krugersdorp 1
-                                    </th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Cobus Smit</td>
-                                    <td class="body-item mbr-fonts-style display-7">Alan Lyall</td>
-                                </tr>
-                                <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Jaco van Deventer</td>
-                                    <td class="body-item mbr-fonts-style display-7"></td>
-                                </tr>
-                                <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Dylan Leader</td>
-                                    <td class="body-item mbr-fonts-style display-7">Steve Turner</td>
-                                </tr>
-                                <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Willie Shaw</td>
-                                    <td class="body-item mbr-fonts-style display-7">Glenn Minnaar</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                    <div class="container table-info-container">
-                        <div class="row info">
-                            <div class="col-md-6">
-                                <div class="dataTables_info mbr-fonts-style display-7">
-                                    <div>Venue: Honeydew</div>
-                                    <div>Opponent: Rust Imp</div>
-                                    <div>Depart: 12:30</div>
-                                    <div>Captain: Alan Lyall</div>
-                                </div>
-                            </div>
-                            <div class="col-md-6"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="section-table cid-qztItQMCpK" id="table1-1t" data-rv-view="84">
-            <div class="container container-table">
-                <div class="table-wrapper">
-                    <div class="container scroll">
-                        <table class="table isSearch" cellspacing="0">
-                            <thead>
-                                <tr class="table-heads ">
-                                    <th class="head-item mbr-fonts-style display-7">
-                                        Super 7's - Division 4
-                                    </th>
-                                    <th class="head-item mbr-fonts-style display-7">
-                                        Krugersdorp 2
-                                    </th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Joe Price</td>
-                                    <td class="body-item mbr-fonts-style display-7">Ray Green</td>
-                                </tr>
-                                <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Johan Landman</td>
-                                    <td class="body-item mbr-fonts-style display-7"></td>
-                                </tr>
-                                <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Andy Selby</td>
-                                    <td class="body-item mbr-fonts-style display-7">Coenie Pieterse</td>
-                                </tr>
-                                <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Martin Janse</td>
-                                    <td class="body-item mbr-fonts-style display-7">Rick van Zyl</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                    <div class="container table-info-container">
-                        <div class="row info">
-                            <div class="col-md-6">
-                                <div class="dataTables_info mbr-fonts-style display-7">
-                                    <div>Venue: Krugersdorp</div>
-                                    <div>Opponent: Krugersdorp (3)</div>
-                                    <div>Depart: N/A</div>
-                                    <div>Captain: Ray Green</div>
-                                </div>
-                            </div>
-                            <div class="col-md-6"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="section-table cid-qztItQMCpK" id="table1-1t" data-rv-view="84">
-            <div class="container container-table">
-                <div class="table-wrapper">
-                    <div class="container scroll">
-                        <table class="table isSearch" cellspacing="0">
-                            <thead>
-                                <tr class="table-heads ">
-                                    <th class="head-item mbr-fonts-style display-7">
-                                        Super 7's - Division 4
-                                    </th>
-                                    <th class="head-item mbr-fonts-style display-7">
-                                        Krugersdorp 3
-                                    </th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Ron McAslin</td>
-                                    <td class="body-item mbr-fonts-style display-7">Zane Smith</td>
-                                </tr>
-                                <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Trevor Leader</td>
-                                    <td class="body-item mbr-fonts-style display-7"></td>
-                                </tr>
-                                <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Herman Sliep</td>
-                                    <td class="body-item mbr-fonts-style display-7">Tom Kneen</td>
-                                </tr>
-                                <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Stitch Economakis</td>
-                                    <td class="body-item mbr-fonts-style display-7">James Mnyalira</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                    <div class="container table-info-container">
-                        <div class="row info">
-                            <div class="col-md-6">
-                                <div class="dataTables_info mbr-fonts-style display-7">
-                                    <div>Venue: Krugersdorp</div>
-                                    <div>Opponent: Krugersdorp (2)</div>
-                                    <div>Depart: N/A</div>
-                                    <div>Captain: Ron McAslin</div>
-                                </div>
-                            </div>
-                            <div class="col-md-6"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="section-table cid-qztItQMCpK" id="table1-1t" data-rv-view="84">
-            <div class="container container-table">
-                <div class="table-wrapper">
-                    <div class="container scroll">
-                        <table class="table isSearch" cellspacing="0">
-                            <thead>
-                                <tr class="table-heads ">
-                                    <th class="head-item mbr-fonts-style display-7">
-                                        Super 4's - Division 2
-                                    </th>
-                                    <th class="head-item mbr-fonts-style display-7">
-                                        Krugersdorp 4
-                                    </th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Peter Jacobs</td>
-                                    <td class="body-item mbr-fonts-style display-7"></td>
-                                </tr>
-                                <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Brian Muldoon</td>
-                                    <td class="body-item mbr-fonts-style display-7"></td>
-                                </tr>
-                                <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Sydney Rust</td>
-                                    <td class="body-item mbr-fonts-style display-7"></td>
-                                </tr>
-                                <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Barry Rheeder</td>
-                                    <td class="body-item mbr-fonts-style display-7"></td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                    <div class="container table-info-container">
-                        <div class="row info">
-                            <div class="col-md-6">
-                                <div class="dataTables_info mbr-fonts-style display-7">
-                                    <div>Venue: Noordheuwel</div>
-                                    <div>Opponent: Honeydew</div>
-                                    <div>Depart: 13:00</div>
-                                    <div>Captain: Peter Jacobs</div>
-                                </div>
-                            </div>
-                            <div class="col-md-6"></div>
-                        </div>
+                    <div class="container">
+                        <div id="men_league_html"></div>
                     </div>
                 </div>
             </div>
@@ -379,50 +182,8 @@
         <section class="section-table cid-qztItQMCpK" id="table1-1t" data-rv-view="84">
             <div class="container container-table">
                 <div class="table-wrapper">
-                    <div class="container scroll">
-                        <table class="table isSearch" cellspacing="0">
-                            <thead>
-                            <tr class="table-heads ">
-                                <th class="head-item mbr-fonts-style display-7">
-                                    Super 7's - Division 3
-                                </th>
-                                <th class="head-item mbr-fonts-style display-7">
-                                    Krugersdorp
-                                </th>
-                            </tr>
-                            </thead>
-                            <tbody>
-                            <tr>
-                                <td class="body-item mbr-fonts-style display-7">Eleanor Syme</td>
-                                <td class="body-item mbr-fonts-style display-7">Annie Turner</td>
-                            </tr>
-                            <tr>
-                                <td class="body-item mbr-fonts-style display-7">Amanda Bekker</td>
-                                <td class="body-item mbr-fonts-style display-7"></td>
-                            </tr>
-                            <tr>
-                                <td class="body-item mbr-fonts-style display-7">Maureen Love</td>
-                                <td class="body-item mbr-fonts-style display-7">Shauna Sliep</td>
-                            </tr>
-                            <tr>
-                                <td class="body-item mbr-fonts-style display-7">Karen Pieterse</td>
-                                <td class="body-item mbr-fonts-style display-7">Kirstin Leader</td>
-                            </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                    <div class="container table-info-container">
-                        <div class="row info">
-                            <div class="col-md-6">
-                                <div class="dataTables_info mbr-fonts-style display-7">
-                                    <div>Venue: Florida North</div>
-                                    <div>Opponent: Florida North</div>
-                                    <div>Depart: 12:30</div>
-                                    <div>Captain: Eleanor Syme</div>
-                                </div>
-                            </div>
-                            <div class="col-md-6"></div>
-                        </div>
+                    <div class="container">
+                        <div id="ladies_league_html"></div>
                     </div>
                 </div>
             </div>
@@ -473,6 +234,6 @@
         <script src="assets/dropdown/js/script.min.js"></script>
         <script src="assets/touch-swipe/jquery.touch-swipe.min.js"></script>
         <script src="assets/theme/js/script.js"></script>
-
+        <script src="assets/javascript/league_teams.js"></script>
     </body>
 </html>
