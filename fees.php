@@ -174,16 +174,52 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Junior Member</td>
-                                    <td class="body-item mbr-fonts-style display-7">R xxx.xx</td>
+                                    <td class="body-item mbr-fonts-style display-7">Entrance fee under 25 years</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 0.00</td>
                                 </tr>
                                 <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Full Member</td>
-                                    <td class="body-item mbr-fonts-style display-7">R xxx.xx</td>
+                                    <td class="body-item mbr-fonts-style display-7">Entrance fee over 25 years</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 100.00</td>
                                 </tr>
                                 <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Social Member</td>
-                                    <td class="body-item mbr-fonts-style display-7">R xxx.xx</td>
+                                    <td class="body-item mbr-fonts-style display-7">Subs under 25 years</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 550.00</td>
+                                </tr>
+                                <tr>
+                                    <td class="body-item mbr-fonts-style display-7">Subs between 25 - 59 years</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 1,170.00</td>
+                                </tr>
+                                <tr>
+                                    <td class="body-item mbr-fonts-style display-7">Subs between 60 - 79 years</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 1,070.00</td>
+                                </tr>
+                                <tr>
+                                    <td class="body-item mbr-fonts-style display-7">Subs over 80 years</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 650.00</td>
+                                </tr>
+                                <tr>
+                                    <td class="body-item mbr-fonts-style display-7">Life members</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 650.00</td>
+                                </tr>
+                                <tr>
+                                    <td class="body-item mbr-fonts-style display-7">Rebate for married couples</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 100.00 <strong>-</strong></td>
+                                </tr>
+                                <tr>
+                                    <td class="body-item mbr-fonts-style display-7">BSA fee</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 210.00</td>
+                                </tr>
+                                <tr>
+                                    <td class="body-item mbr-fonts-style display-7">Sables fee under 60 years</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 265.00</td>
+                                </tr>
+                                <tr>
+                                    <td class="body-item mbr-fonts-style display-7">Sables fee between 60 - 79 years</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 214.00</td>
+                                </tr>
+                                <tr>
+                                    <td class="body-item mbr-fonts-style display-7">Sables fee over 80 years</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 0.00</td>
                                 </tr>
                             </tbody>
                         </table>

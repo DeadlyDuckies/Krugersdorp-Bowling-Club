@@ -86,6 +86,10 @@
                         Events
                     </a>
                     <div class="dropdown-menu">
+                        <a class="dropdown-item text-primary display-4" href="upcoming_events.php" aria-expanded="false">
+                            <span class="mbri-idea mbr-iconfont mbr-iconfont-btn"></span>
+                            Upcoming events
+                        </a>
                         <a class="dropdown-item text-primary display-4" href="calendar.php" aria-expanded="false">
                             <span class="mbri-calendar mbr-iconfont mbr-iconfont-btn"></span>
                             Calendar
