@@ -1,74 +1,80 @@
 function loadLeagueTeams() {
     loadXMLTitle();
     loadXMLTitleDate();
-    loadXMLData('men');
+    loadXMLData('mens');
     loadXMLData('ladies');
+    loadXMLSelectionCommittee('mens');
+    loadXMLSelectionCommittee('ladies');
 }
 
 function loadXMLTitle() {
-    var xmlhttp = new XMLHttpRequest();
-    xmlhttp.onreadystatechange = function() {
+    var xmlHttp = new XMLHttpRequest();
+    xmlHttp.onreadystatechange = function() {
         if (this.readyState === 4 && this.status === 200) {
             var xmlDoc = this.responseXML;
             document.getElementById("title").innerHTML = xmlDoc.getElementsByTagName("title")[0].childNodes[0].nodeValue;
         }
     };
-    xmlhttp.open("GET", "league_teams.xml", true);
-    xmlhttp.send();
+    xmlHttp.open("GET", "../config/league_teams.xml", true);
+    xmlHttp.send();
 }
 
 function loadXMLTitleDate() {
-    var xmlhttp = new XMLHttpRequest();
-    xmlhttp.onreadystatechange = function() {
+    var xmlHttp = new XMLHttpRequest();
+    xmlHttp.onreadystatechange = function() {
         if (this.readyState === 4 && this.status === 200) {
             var xmlDoc = this.responseXML;
             document.getElementById("title_date").innerHTML = xmlDoc.getElementsByTagName("date")[0].childNodes[0].nodeValue;
         }
     };
-    xmlhttp.open("GET", "league_teams.xml", true);
-    xmlhttp.send();
+    xmlHttp.open("GET", "../config/league_teams.xml", true);
+    xmlHttp.send();
 }
 
 function loadXMLData(type) {
-    var xmlhttp = new XMLHttpRequest();
-    xmlhttp.onreadystatechange = function() {
+    var xmlHttp = new XMLHttpRequest();
+    xmlHttp.onreadystatechange = function() {
         if (this.readyState === 4 && this.status === 200) {
-            myFunction(this, type);
+            populateLeagueTeams(this, type);
         }
     };
-    xmlhttp.open("GET", "league_teams.xml", true);
-    xmlhttp.send();
+    xmlHttp.open("GET", "../config/league_teams.xml", true);
+    xmlHttp.send();
 }
 
-function myFunction(xml, type) {
+function populateLeagueTeams(xml, type) {
     var i;
     var xmlDoc = xml.responseXML;
 
-    var men = xmlDoc.getElementsByTagName(type);
-    var teams = men[0].getElementsByTagName("team");
+    var menLadies = xmlDoc.getElementsByTagName(type);
+    var teams = menLadies[0].getElementsByTagName("team");
     var html = "";
 
     for (i = 0; i < teams.length; i++) {
-        var team_no = i + 1;
+        if (teams[i].getElementsByTagName("division_type").length === 0) {
+            continue;
+        }
+
+        var teamNo = i + 1;
 
         var fours = teams[i].getElementsByTagName("fours");
         var trips = teams[i].getElementsByTagName("trips");
 
-        var division_type = teams[i].getElementsByTagName("division_type")[0].childNodes[0].nodeValue;
+        var divisionType = teams[i].getElementsByTagName("division_type")[0].childNodes[0].nodeValue;
         var division = teams[i].getElementsByTagName("division_no")[0].childNodes[0].nodeValue;
 
-        var fours_skip = fours[0].getElementsByTagName("skip")[0].childNodes[0].nodeValue;
-        var fours_third = fours[0].getElementsByTagName("third")[0].childNodes[0].nodeValue;
-        var fours_second = fours[0].getElementsByTagName("second")[0].childNodes[0].nodeValue;
-        var fours_lead = fours[0].getElementsByTagName("lead")[0].childNodes[0].nodeValue;
+        var foursSkip = fours[0].getElementsByTagName("skip")[0].childNodes[0].nodeValue;
+        var foursThird = fours[0].getElementsByTagName("third")[0].childNodes[0].nodeValue;
+        var foursSecond = fours[0].getElementsByTagName("second")[0].childNodes[0].nodeValue;
+        var foursLead = fours[0].getElementsByTagName("lead")[0].childNodes[0].nodeValue;
 
-        var trips_skip = "";
-        var trips_second = "";
-        var trips_lead = "";
+        var tripsSkip = "";
+        var tripsSecond = "";
+        var tripsLead = "";
         if (trips.length > 0) {
-            trips_skip = trips[0].getElementsByTagName("skip")[0].childNodes[0].nodeValue;
-            trips_second = trips[0].getElementsByTagName("second")[0].childNodes[0].nodeValue;
-            trips_lead = trips[0].getElementsByTagName("lead")[0].childNodes[0].nodeValue;
+            tripsSkip = trips[0].getElementsByTagName("skip")[0].childNodes[0].nodeValue;
+            tripsSecond = trips[0].getElementsByTagName("second")[0].childNodes[0].nodeValue;
+            tripsLead = trips[0].getElementsByTagName("lead")[0].childNodes[0].nodeValue;
         }
 
         var venue = teams[i].getElementsByTagName("venue")[0].childNodes[0].nodeValue;
@@ -80,26 +86,26 @@ function myFunction(xml, type) {
             "<table id=\"league_html\" class=\"table isSearch\" cellspacing=\"0\">" +
             "<thead>" +
             "<tr class=\"table-heads \">" +
-            "<th class=\"head-item mbr-fonts-style display-7\">" + division_type + " - " + "Division " + division + "</th>" +
-            "<th class=\"head-item mbr-fonts-style display-7\">" + "Krugersdorp " + team_no + "</th>" +
+            "<th class=\"head-item mbr-fonts-style display-7\">" + divisionType + " - " + "Division " + division + "</th>" +
+            "<th class=\"head-item mbr-fonts-style display-7\">" + "Krugersdorp " + teamNo + "</th>" +
             "</tr>" +
             "</thead>" +
             "<tbody>" +
             "<tr>" +
-            "<td class=\"body-item mbr-fonts-style display-7\">" + fours_skip + "</td>" +
-            "<td class=\"body-item mbr-fonts-style display-7\">" + trips_skip + "</td>" +
+            "<td class=\"body-item mbr-fonts-style display-7\">" + foursSkip + "</td>" +
+            "<td class=\"body-item mbr-fonts-style display-7\">" + tripsSkip + "</td>" +
             "</tr>" +
             "<tr>" +
-            "<td class=\"body-item mbr-fonts-style display-7\">" + fours_third + "</td>" +
+            "<td class=\"body-item mbr-fonts-style display-7\">" + foursThird + "</td>" +
             "<td class=\"body-item mbr-fonts-style display-7\"></td>" +
             "</tr>" +
             "<tr>" +
-            "<td class=\"body-item mbr-fonts-style display-7\">" + fours_second + "</td>" +
-            "<td class=\"body-item mbr-fonts-style display-7\">" + trips_second + "</td>" +
+            "<td class=\"body-item mbr-fonts-style display-7\">" + foursSecond + "</td>" +
+            "<td class=\"body-item mbr-fonts-style display-7\">" + tripsSecond + "</td>" +
             "</tr>" +
             "<tr>" +
-            "<td class=\"body-item mbr-fonts-style display-7\">" + fours_lead + "</td>" +
-            "<td class=\"body-item mbr-fonts-style display-7\">" + trips_lead + "</td>" +
+            "<td class=\"body-item mbr-fonts-style display-7\">" + foursLead + "</td>" +
+            "<td class=\"body-item mbr-fonts-style display-7\">" + tripsLead + "</td>" +
             "</tr>" +
             "</tbody>" +
             "</table>" +
@@ -117,6 +123,44 @@ function myFunction(xml, type) {
             "</div>" +
             "</div>";
     }
+    
+    var reserves = "";
+    if (menLadies[0].getElementsByTagName("reserves")[0].childNodes.length > 0) {
+        reserves = menLadies[0].getElementsByTagName("reserves")[0].childNodes[0].nodeValue;
+    }
+    var unavailable = "";
+    if (menLadies[0].getElementsByTagName("unavailable")[0].childNodes.length > 0) {
+        unavailable = menLadies[0].getElementsByTagName("unavailable")[0].childNodes[0].nodeValue;
+    }
+
+    html += "<div class=\"container table-info-container\">" +
+            "<div class=\"row info\">" +
+            "<div class=\"col-md-6\">" +
+            "<div class=\"dataTables_info mbr-fonts-style display-7\">" +
+            "<p>Reserves: " + reserves + "<br> Unavailable: " + unavailable + "</p>" +
+            "</div>" +
+            "</div>" +
+            "</div>" +
+            "</div>";
 
     document.getElementById(type + "_league_html").innerHTML = html;
 }
+
+function loadXMLSelectionCommittee(type) {
+    var xmlHttp = new XMLHttpRequest();
+    xmlHttp.onreadystatechange = function() {
+        if (this.readyState === 4 && this.status === 200) {
+            var xmlDoc = this.responseXML;
+            var menLadies = xmlDoc.getElementsByTagName(type);
+            document.getElementById(type + "_league_selection_committee").innerHTML = "<strong>" + convertToCamelCase(type) + "</strong><br>" + menLadies[0].getElementsByTagName("selectionCommittee")[0].childNodes[0].nodeValue;
+        }
+    };
+    xmlHttp.open("GET", "../config/league_teams.xml", true);
+    xmlHttp.send();
+}
+
+function convertToCamelCase(string) {
+    return string.toLowerCase().replace(/(?:^|\s)[a-z]/g, function (m) {
+        return m.toUpperCase();
+    });
+};

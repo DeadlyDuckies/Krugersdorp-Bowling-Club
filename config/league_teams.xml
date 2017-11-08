@@ -1,0 +1,111 @@
+<league>
+    <title>Krugersdorp Bowling Club League Teams</title>
+    <date>2017/11/04</date>
+    <mens>
+        <team id="1">
+            <division_type>Super 7's</division_type>
+            <division_no>2</division_no>
+            <fours>
+                <skip>Cobus Smit</skip>
+                <third>Jaco van Deventer</third>
+                <second>Dylan Leader</second>
+                <lead>Willie Shaw</lead>
+            </fours>
+            <trips>
+                <skip>Alan Lyall</skip>
+                <second>Steve Turner</second>
+                <lead>Glenn Minnaar</lead>
+            </trips>
+            <venue>Honeydew</venue>
+            <opponent>Rustenburg Impala</opponent>
+            <depart>12:30</depart>
+            <captain>Alan Lyall</captain>
+        </team>
+        <team id="2">
+            <division_type>Super 7's</division_type>
+            <division_no>4</division_no>
+            <fours>
+                <skip>Joe Price</skip>
+                <third>Johan Landman</third>
+                <second>Andy Selby</second>
+                <lead>Martin Janse</lead>
+            </fours>
+            <trips>
+                <skip>Ray Green</skip>
+                <second>Coenie Pieterse</second>
+                <lead>Rick van Zyl</lead>
+            </trips>
+            <venue>Krugersdorp</venue>
+            <opponent>Krugersdorp (3)</opponent>
+            <depart>N/A</depart>
+            <captain>Ray Green</captain>
+        </team>
+        <team id="3">
+            <division_type>Super 7's</division_type>
+            <division_no>4</division_no>
+            <fours>
+                <skip>Ron McAslin</skip>
+                <third>Trevor Leader</third>
+                <second>Herman Sliep</second>
+                <lead>Stitch Economakis</lead>
+            </fours>
+            <trips>
+                <skip>Zane Smith</skip>
+                <second>Tom Kneen</second>
+                <lead>James Mnyalira</lead>
+            </trips>
+            <venue>Krugersdorp</venue>
+            <opponent>Krugersdorp (2)</opponent>
+            <depart>N/A</depart>
+            <captain>Ron McAslin</captain>
+        </team>
+        <team id="4">
+            <division_type>Super 4's</division_type>
+            <division_no>2</division_no>
+            <fours>
+                <skip>Peter Jacobs</skip>
+                <third>Brian Muldoon</third>
+                <second>Sydney Rust</second>
+                <lead>Barry Rheeder</lead>
+            </fours>
+            <venue>Noordheuwel</venue>
+            <opponent>Honeydew</opponent>
+            <depart>13:00</depart>
+            <captain>Peter Jacobs</captain>
+        </team>
+        <reserves>Ken Beveridge, Mike Goosen, Gino Lok, Manny Perreira</reserves>
+        <unavailable>Rodney Gray, Ian McLaren, Philip Truter</unavailable>
+        <selectionCommittee>Rodney Gray, Dylan Leader, Ronnie McAslin, Zane Smith, Jaco van Deventer (Convener)</selectionCommittee>
+    </mens>
+    <ladies>
+        <team id="1">
+            <division_type>Super 7's</division_type>
+            <division_no>3</division_no>
+            <fours>
+                <skip>Eleanor Syme</skip>
+                <third>Amanda Bekker</third>
+                <second>Maureen Love</second>
+                <lead>Karen Pieterse</lead>
+            </fours>
+            <trips>
+                <skip>Annie Turner</skip>
+                <second>Shauna Sliep</second>
+                <lead>Kirstin Leader</lead>
+            </trips>
+            <venue>Florida North</venue>
+            <opponent>Florida North</opponent>
+            <depart>12:30</depart>
+            <captain>Eleanor Syme</captain>
+        </team>
+        <team id="2"></team>
+        <reserves>Denise Clarence, Hester Hattingh, Theresa Klein</reserves>
+        <unavailable></unavailable>
+        <selectionCommittee>Amanda Bekker, Denise Clarence, Gina du Plooy, Shauna Sliep, Annie Turner</selectionCommittee>
+    </ladies>
+    <notes>
+        <note id="1">1. CAPTAINS, PLEASE ENSURE PLAYERS IN YOUR TEAM ARE INFORMED ABOUT VENUE AND DEPARTURE TIME.</note>
+        <note id="2">2. CAPTAINS, PLEASE ENSURE THAT THE VENUES AND OPPONENTS ARE CORRECT.</note>
+        <note id="3">3. CAPTAINS, PLEASE PROVIDE FEEDBACK TO A SELECTOR ON YOUR TEAMS AND INDIVIDUAL PERFORMANCES BEFORE MONDAY.</note>
+        <note id="4">4. PLEASE TICK OFF YOUR NAMES IF YOU ARE GOING STRAIGHT TO THE VENUE.</note>
+    </notes>
+</league>
