@@ -41,7 +41,7 @@
                             <br>
                             Tel No: (011) 664 6062
                             <br>
-                            Email Address: info@kbcbowls.co.za
+                            Email Address: info@krugersdorpbowlingclub.co.za
                             <br>
                             Like us on Facebook:
                             <a class="navbar-caption text-primary display-7" href="https://www.facebook.com/Krugersdorp-Bowling-Club-338275893029764" target="_blank">
