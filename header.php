@@ -13,13 +13,13 @@
         <div class="menu-logo">
             <div class="navbar-brand">
                 <span class="navbar-logo">
-                    <a href="index.php">
+                    <a href="index">
                          <img src="assets/images/kbc-logo-trans-181x172.png" alt="Home" title="Home" media-simple="true"
                               style="height: 4rem;">
                     </a>
                 </span>
                 <span class="navbar-caption-wrap">
-                    <a class="navbar-caption text-primary display-7" href="index.php" target="_blank">
+                    <a class="navbar-caption text-primary display-7" href="index" target="_blank">
                         <p>
                             <br>
                             KRUGERSDORP BOWLING CLUB
@@ -36,12 +36,12 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true">
                 <li class="nav-item">
-                    <a class="nav-link link text-primary display-4" href="contact.php" aria-expanded="false">
+                    <a class="nav-link link text-primary display-4" href="contact" aria-expanded="false">
                         Phone: (011) 664 6062
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link link text-primary display-4" href="index.php" aria-expanded="false">
+                    <a class="nav-link link text-primary display-4" href="index" aria-expanded="false">
                         <span class="mbri-home mbr-iconfont mbr-iconfont-btn"></span>
                         Home
                     </a>
@@ -53,27 +53,27 @@
                         About Us
                     </a>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item text-primary display-4" href="history.php">
+                        <a class="dropdown-item text-primary display-4" href="history">
                             <span class="mbri-align-left mbr-iconfont mbr-iconfont-btn"></span>
                             History
                         </a>
-                        <a class="dropdown-item text-primary display-4" href="constitution.php">
+                        <a class="dropdown-item text-primary display-4" href="constitution">
                             <span class="mbri-briefcase mbr-iconfont mbr-iconfont-btn"></span>
                             Constitution
                         </a>
-                        <a class="dropdown-item text-primary display-4" href="committee.php">
+                        <a class="dropdown-item text-primary display-4" href="committee">
                             <span class="mbri-add-submenu mbr-iconfont mbr-iconfont-btn"></span>
                             Committee
                         </a>
-                        <a class="dropdown-item text-primary display-4" href="coaches.php">
+                        <a class="dropdown-item text-primary display-4" href="coaches">
                             <span class="mbri-features mbr-iconfont mbr-iconfont-btn"></span>
                             Coaches
                         </a>
-                        <a class="dropdown-item text-primary display-4" href="dress.php">
+                        <a class="dropdown-item text-primary display-4" href="dress">
                             <span  class="mbri-users mbr-iconfont mbr-iconfont-btn"></span>
                             Dress Code
                         </a>
-                        <a class="dropdown-item text-primary display-4" href="fees.php">
+                        <a class="dropdown-item text-primary display-4" href="fees">
                             <span class="mbri-cash mbr-iconfont mbr-iconfont-btn"></span>
                             Fees and Subs
                         </a>
@@ -86,36 +86,36 @@
                         Events
                     </a>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item text-primary display-4" href="upcoming_events.php" aria-expanded="false">
+                        <a class="dropdown-item text-primary display-4" href="upcoming_events" aria-expanded="false">
                             <span class="mbri-idea mbr-iconfont mbr-iconfont-btn"></span>
                             Upcoming events
                         </a>
-                        <a class="dropdown-item text-primary display-4" href="calendar.php" aria-expanded="false">
+                        <a class="dropdown-item text-primary display-4" href="calendar" aria-expanded="false">
                             <span class="mbri-calendar mbr-iconfont mbr-iconfont-btn"></span>
                             Calendar
                         </a>
-                        <a class="dropdown-item text-primary display-4" href="news.php" aria-expanded="false">
+                        <a class="dropdown-item text-primary display-4" href="news" aria-expanded="false">
                             <span class="mbri-file mbr-iconfont mbr-iconfont-btn"></span>
                             Club News
                         </a>
-                        <a class="dropdown-item text-primary display-4" href="competitions.php" aria-expanded="false">
+                        <a class="dropdown-item text-primary display-4" href="competitions" aria-expanded="false">
                             <span class="mbri-extension mbr-iconfont mbr-iconfont-btn"></span>
                             Club Competitions
                         </a>
-                        <a class="dropdown-item text-primary display-4" href="league_teams.php" aria-expanded="false">
+                        <a class="dropdown-item text-primary display-4" href="league_teams" aria-expanded="false">
                             <span class="mbri-edit mbr-iconfont mbr-iconfont-btn"></span>
                             League Teams
                         </a>
                     </div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link link text-primary display-4" href="venue.php" aria-expanded="false">
+                    <a class="nav-link link text-primary display-4" href="venue" aria-expanded="false">
                         <span class="mbri-laptop mbr-iconfont mbr-iconfont-btn"></span>
                         Venue Hire
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link link text-primary display-4" href="contact.php" aria-expanded="false">
+                    <a class="nav-link link text-primary display-4" href="contact" aria-expanded="false">
                         <span class="mbri-sites mbr-iconfont mbr-iconfont-btn"></span>
                         Contact Us
                     </a>
