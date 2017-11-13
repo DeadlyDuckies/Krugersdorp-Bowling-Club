@@ -20,11 +20,52 @@
     <body>
         <?php include "header.php"; ?>
 
-        <section class="mbr-section article content1 cid-qztQNxbtGh" id="content1-1y" data-rv-view="124">
-            <div class="container">
-                <div class="media-container-row">
-                    <div class="mbr-text col-12 col-md-8 mbr-fonts-style display-7">
-                        <div><strong>Club Competitions have not yet started</strong><span style="font-size: 1rem;"></span></div>
+        <section class="features14 cid-qz0hh78xtG" id="features14-1l" data-rv-view="56">
+            <div class="container align-center">
+                <h2 class="mbr-section-title pb-3 mbr-fonts-style display-2">
+                    Club Competitions
+                </h2>
+                <div class="media-container-column">
+                    <div class="row justify-content-center">
+                        <div class="card p-4 col-12 col-md-6 col-lg-4">
+                            <div class="media pb-3">
+                                <div class="card-img align-self-center">
+                                    <span class="mbr-iconfont mbri-users" style="color: rgb(12, 55, 155);"
+                                          media-simple="true"></span>
+                                </div>
+                                <div class="media-body">
+                                    <h4 class="card-title py-2 align-left mbr-fonts-style display-5">
+                                        <strong>Men and Ladies Pairs</strong>
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="card-box align-left">
+                                <p class="mbr-text mbr-fonts-style display-7">
+                                    <strong>Entries Closing Date: </strong>16/11/2017 @ 17:00
+                                    <br>
+                                    <strong>Draw Date: </strong>17/11/2017 @ 18:00
+                                    <br>
+                                    <br>
+                                    <strong>Additional Info:</strong>
+                                    <br>
+                                    The 1st round of the men's and ladies pairs will be held on Saturday 18/11/2017
+                                    @ 13:30 (normal tabs in time).
+                                    <br>
+                                    <br>
+                                    All members who can play on the 18th must please do so - those who can't make it on
+                                    the 18th, have until the 02/12/2017 to finish the first round.
+                                    <br>
+                                    <br>
+                                    <strong>NO</strong> excuses will be accepted if the games are not finished by 02/12/2017 and those
+                                    teams who have not played by then, will be scratched.
+                                    <br>
+                                    <br>
+                                    <strong>Draw: </strong>
+                                    <br>
+                                    <i>TBC</i>
+                                </p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

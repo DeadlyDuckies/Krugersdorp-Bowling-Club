@@ -58,7 +58,9 @@
                             <div class="col-md-6">
                                 <div class="dataTables_filter">
                                     <label class="searchInfo mbr-fonts-style display-7">Search:</label>
-                                    <input class="form-control input-sm" disabled="">
+                                    <label>
+                                        <input class="form-control input-sm" disabled="">
+                                    </label>
                                 </div>
                             </div>
                         </div>
@@ -154,7 +156,9 @@
                             <div class="col-md-6">
                                 <div class="dataTables_filter">
                                     <label class="searchInfo mbr-fonts-style display-7">Search:</label>
-                                    <input class="form-control input-sm" disabled="">
+                                    <label>
+                                        <input class="form-control input-sm" disabled="">
+                                    </label>
                                 </div>
                             </div>
                         </div>

@@ -52,9 +52,9 @@
                             <br>
                             <br>
                             We at Krugersdorp Bowling Club pride ourselves on being a competitive club as much as we do
-                            being a social attraction. We currently have 3 of our members representing our district at the Bowls
-                            South Africa inter-district tournament and 2 of our members that represent our district in
-                            the u/35 inter-districts.
+                            being a social attraction. We currently have 4 of our members representing our district at
+                            the Bowls South Africa inter-district tournament and 3 of our members that represent
+                            our district in the u/30 inter-districts.
                             <br>
                             <br>
                             Our bar as at many bowling clubs is the heart of the club, open 7 days at week with

@@ -42,7 +42,7 @@
                     <div class="mbr-text col-12 col-md-8 mbr-fonts-style display-7"><strong>PO BOX 1862, NOORDHEUWEL, 1756
                     </strong>
                         <div>
-                            <strong>TELE: 011 - 664 6062</strong>
+                            <strong>TEL: 011 - 664 6062</strong>
                         </div>
                         <div>
                             <strong>

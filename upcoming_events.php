@@ -20,6 +20,18 @@
     <body>
         <?php include "header.php"; ?>
 
+        <section class="mbr-section content4 cid-qztw6cbZZn2" id="content4-1p" data-rv-view="14">
+            <div class="container">
+                <div class="media-container-row">
+                    <div class="title col-12 col-md-8">
+                        <h2 class="align-center pb-3 mbr-fonts-style display-2">
+                            Upcoming Events
+                        </h2>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <section class="mbr-section article content1 cid-qztQNxbtGh" id="content1-1y" data-rv-view="124">
             <div class="container">
                 <div class="media-container-row">

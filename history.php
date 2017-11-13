@@ -37,7 +37,7 @@
                 <div class="media-container-row">
                     <div class="mbr-text col-12 col-md-8 mbr-fonts-style display-7">
                         <div>
-                            <strong>· 1913 - </strong>£250.00 was paid to lay the first bowling green in isugersdorp.
+                            <strong>· 1913 - </strong>£250.00 was paid to lay the first bowling green in Krugersdorp.
                         </div>
                         <div><br></div>
                         <div>
@@ -92,7 +92,7 @@
                         </div>
                         <div><br></div>
                         <div>
-                            <strong>· 1951 – </strong>Mr Sharp was duly elected a Honarary life member, he had been a
+                            <strong>· 1951 – </strong>Mr Sharp was duly elected a Honorary life member, he had been a
                             member since 1915.
                         </div>
                         <div><br></div>

@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="shortcut icon" href="assets/images/kbc-logo-trans-181x172.png" type="image/x-icon">
-        <meta name="description" content="Krugersdorp Bowling Club Commitee">
+        <meta name="description" content="Krugersdorp Bowling Club Committee">
         <title>Committee - Krugersdorp Bowling Club</title>
         <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
         <link rel="stylesheet" href="assets/tether/tether.min.css">
@@ -37,7 +37,7 @@
                 <div class="row media-row">
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/commitee/andy.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/andy.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -52,7 +52,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/commitee/trevor.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/trevor.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -67,7 +67,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/commitee/ingrid.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/ingrid.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -82,7 +82,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/commitee/melana.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/melana.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -104,7 +104,7 @@
                 <div class="row media-row">
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/commitee/dylan.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/dylan.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -113,13 +113,13 @@
                                 </p>
                             </div>
                             <div class="item-role px-2">
-                                <p>Commitee Member</p>
+                                <p>Committee Member</p>
                             </div>
                         </div>
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/commitee/maureen.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/maureen.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -128,13 +128,13 @@
                                 </p>
                             </div>
                             <div class="item-role px-2">
-                                <p>Commitee Member</p>
+                                <p>Committee Member</p>
                             </div>
                         </div>
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/commitee/alan.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/alan.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -143,13 +143,13 @@
                                 </p>
                             </div>
                             <div class="item-role px-2">
-                                <p>Commitee Member</p>
+                                <p>Committee Member</p>
                             </div>
                         </div>
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/commitee/barbara.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/barbara.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -158,7 +158,7 @@
                                 </p>
                             </div>
                             <div class="item-role px-2">
-                                <p>Commitee Member</p>
+                                <p>Committee Member</p>
                             </div>
                         </div>
                     </div>
@@ -171,7 +171,7 @@
                 <div class="row media-row">
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/commitee/matt.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/matt.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -180,13 +180,13 @@
                                 </p>
                             </div>
                             <div class="item-role px-2">
-                                <p>Commitee Member</p>
+                                <p>Committee Member</p>
                             </div>
                         </div>
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/commitee/coenie.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/coenie.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -195,13 +195,13 @@
                                 </p>
                             </div>
                             <div class="item-role px-2">
-                                <p>Commitee Member</p>
+                                <p>Committee Member</p>
                             </div>
                         </div>
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/commitee/rick.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/rick.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -210,7 +210,7 @@
                                 </p>
                             </div>
                             <div class="item-role px-2">
-                                <p>Commitee Member</p>
+                                <p>Committee Member</p>
                             </div>
                         </div>
                     </div>

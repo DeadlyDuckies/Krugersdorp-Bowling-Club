@@ -63,7 +63,7 @@
                         </a>
                         <a class="dropdown-item text-primary display-4" href="committee.php">
                             <span class="mbri-add-submenu mbr-iconfont mbr-iconfont-btn"></span>
-                            Commitee
+                            Committee
                         </a>
                         <a class="dropdown-item text-primary display-4" href="coaches.php">
                             <span class="mbri-features mbr-iconfont mbr-iconfont-btn"></span>
