@@ -30,7 +30,7 @@
                         <h3 class="mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style display-5">
                             Address:
                             <br>
-                            Down Street
+                            Cnr Down and Clew Street
                             <br>
                             Kenmare
                             <br>
@@ -41,7 +41,10 @@
                             <br>
                             Tel No: (011) 664 6062
                             <br>
-                            Email Address: info@krugersdorpbowlingclub.co.za
+                            Email Address:
+                            <a href="mailto:info@krugersdorpbowlingclub.co.za" target="_blank">
+                                info@krugersdorpbowlingclub.co.za
+                            </a>
                             <br>
                             Like us on Facebook:
                             <a class="navbar-caption text-primary display-7" href="https://www.facebook.com/Krugersdorp-Bowling-Club-338275893029764" target="_blank">

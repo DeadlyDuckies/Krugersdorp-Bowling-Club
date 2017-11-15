@@ -34,10 +34,31 @@
 
         <section class="cid-qztagOMwAz" id="image2-1m" data-rv-view="8">
             <figure class="mbr-figure container">
-                <div class="image-block" style="width: 100%;">
-                    <img src="assets/images/img-70-1024x483.jpg" alt="Home" title="" media-simple="true">
-
+                <div class="w3-content w3-display-container w3-section">
+                    <img class="mySlides" src="assets/images/homePage.jpg" style="width:100%">
+                    <img class="mySlides" src="assets/images/GoldRush2017Winners.jpeg" style="width:100%">
                 </div>
+                <script>
+                    var myIndex = 1;
+                    carousel(myIndex);
+
+                    function plusDivs(n) {
+                        myIndex += n;
+                        carousel(myIndex);
+                    }
+
+                    function carousel() {
+                        var i;
+                        var x = document.getElementsByClassName("mySlides");
+                        for (i = 0; i < x.length; i++) {
+                            x[i].style.display = "none";
+                        }
+                        myIndex++;
+                        if (myIndex > x.length) {myIndex = 1}
+                        x[myIndex-1].style.display = "block";
+                        setTimeout(carousel, 15000); // Change image every 15 seconds
+                    }
+                </script>
             </figure>
         </section>
 
@@ -80,31 +101,33 @@
                             <br>
                             <br>
                         </div>
-                        <div style="text-align: center">
-                            <strong><u>From the desk of the Club President</u></strong>
-                        </div>
-                        <div>
-                            It is a great honour and privilege to be the President of Krugersdorp Bowling Club, a
-                            wonderful club in all aspects.
-                            <br>
-                            <br>
-                            Krugersdorp Bowling Club's members and committee, has a huge emphasis on friendliness and
-                            enjoyment. We strive to achieve that through everything we do, from social fun days to the
-                            more serious tournament days.
-                            <br>
-                            <br>
-                            At Krugersdorp bowling club our motto is “<strong>what you want in a club</strong>”. We at
-                            Krugersdorp Bowling Club are driven to ensure that every member, visitor or fellow bowler
-                            have such an enjoyed experience that it will bring them back again.
-                            <br>
-                            <br>
-                        </div>
-                        <div>
-                            Yours in Bowls
-                            <br>
-                            Andy Selby
-                            <br>
-                            Club President
+                        <div style="border-style: solid; padding-left: 1%;">
+                            <div style="text-align: center">
+                                <strong><u>From the desk of the Club President</u></strong>
+                            </div>
+                            <div>
+                                It is a great honour and privilege to be the President of Krugersdorp Bowling Club, a
+                                wonderful club in all aspects.
+                                <br>
+                                <br>
+                                Krugersdorp Bowling Club's members and committee, has a huge emphasis on friendliness and
+                                enjoyment. We strive to achieve that through everything we do, from social fun days to the
+                                more serious tournament days.
+                                <br>
+                                <br>
+                                At Krugersdorp bowling club our motto is “<strong>what you want in a club</strong>”. We at
+                                Krugersdorp Bowling Club are driven to ensure that every member, visitor or fellow bowler
+                                have such an enjoyed experience that it will bring them back again.
+                                <br>
+                                <br>
+                            </div>
+                            <div>
+                                Yours in Bowls
+                                <br>
+                                Andy Selby
+                                <br>
+                                Club President
+                            </div>
                         </div>
                     </div>
                 </div>
