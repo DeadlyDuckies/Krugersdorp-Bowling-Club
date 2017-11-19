@@ -61,6 +61,45 @@
                                     <br>
                                     <br>
                                     <strong>Draw: </strong>
+                                    <i>Updated 17/11/2017</i>
+                                    <br>
+                                    <a href="assets/competitions/Mens_Pairs_2017_2018.pdf" download>
+                                        Mens Pairs:
+                                        <img border="0" src="assets/images/Adobe_PDF_file_icon_24x24.png" alt="Mens Pairs">
+                                    </a>
+                                    <br>
+                                    <a href="assets/competitions/Ladies_Pairs_2017_2018.pdf" download>
+                                        Ladies Pairs:
+                                        <img border="0" src="assets/images/Adobe_PDF_file_icon_24x24.png" alt="Ladies Pairs">
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="card p-4 col-12 col-md-6 col-lg-4">
+                            <div class="media pb-3">
+                                <div class="card-img align-self-center">
+                                    <span class="mbr-iconfont mbri-extension" style="color: rgb(12, 55, 155);"
+                                          media-simple="true"></span>
+                                </div>
+                                <div class="media-body">
+                                    <h4 class="card-title py-2 align-left mbr-fonts-style display-5">
+                                        <strong>Other Competitions</strong>
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="card-box align-left">
+                                <p class="mbr-text mbr-fonts-style display-7">
+                                    <strong>Entries Closing Date: </strong>17/12/2017
+                                    <br>
+                                    <strong>Draw Date: </strong>18/12/2017
+                                    <br>
+                                    <br>
+                                    <strong>Additional Info:</strong>
+                                    <br>
+                                    The lists for remaining club competitions entries are on the notice board.
+                                    <br>
+                                    <br>
+                                    <strong>Draw: </strong>
                                     <br>
                                     <i>TBC</i>
                                 </p>
