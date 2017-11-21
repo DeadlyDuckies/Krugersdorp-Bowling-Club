@@ -61,7 +61,7 @@
                                     <br>
                                     <br>
                                     <strong>Draw: </strong>
-                                    <i>Updated 17/11/2017</i>
+                                    <i>Updated 21/11/2017</i>
                                     <br>
                                     <a href="assets/competitions/Mens_Pairs_2017_2018.pdf" download>
                                         Mens Pairs:
