@@ -1,6 +1,6 @@
 <league>
     <title>Krugersdorp Bowling Club League Teams</title>
-    <date>2017/11/04</date>
+    <date>2017/11/25</date>
     <mens>
         <team id="1">
             <division_type>Super 7's</division_type>
@@ -14,10 +14,10 @@
             <trips>
                 <skip>Alan Lyall</skip>
                 <second>Steve Turner</second>
-                <lead>Glenn Minnaar</lead>
+                <lead>Rodney Gray</lead>
             </trips>
-            <venue>Honeydew</venue>
-            <opponent>Rustenburg Impala</opponent>
+            <venue>Leases</venue>
+            <opponent>Discovery (4)</opponent>
             <depart>12:30</depart>
             <captain>Alan Lyall</captain>
         </team>
@@ -35,9 +35,9 @@
                 <second>Coenie Pieterse</second>
                 <lead>Rick van Zyl</lead>
             </trips>
-            <venue>Krugersdorp</venue>
-            <opponent>Krugersdorp (3)</opponent>
-            <depart>N/A</depart>
+            <venue>Florida North</venue>
+            <opponent>Maraisburg</opponent>
+            <depart>12:30</depart>
             <captain>Ray Green</captain>
         </team>
         <team id="3">
@@ -54,9 +54,9 @@
                 <second>Tom Kneen</second>
                 <lead>James Mnyalira</lead>
             </trips>
-            <venue>Krugersdorp</venue>
-            <opponent>Krugersdorp (2)</opponent>
-            <depart>N/A</depart>
+            <venue>Florida North</venue>
+            <opponent>Witpoortjie</opponent>
+            <depart>12:30</depart>
             <captain>Ron McAslin</captain>
         </team>
         <team id="4">
@@ -68,13 +68,13 @@
                 <second>Sydney Rust</second>
                 <lead>Barry Rheeder</lead>
             </fours>
-            <venue>Noordheuwel</venue>
-            <opponent>Honeydew</opponent>
-            <depart>13:00</depart>
+            <venue>Honeydew</venue>
+            <opponent>Ruimsig (2)</opponent>
+            <depart>12:30</depart>
             <captain>Peter Jacobs</captain>
         </team>
-        <reserves>Ken Beveridge, Mike Goosen, Gino Lok, Manny Perreira</reserves>
-        <unavailable>Rodney Gray, Ian McLaren, Philip Truter</unavailable>
+        <reserves>Gino Lok, Ian McLaren, Manny Perreira, Philip Truter</reserves>
+        <unavailable>Glenn Minnaar</unavailable>
         <selectionCommittee>Rodney Gray, Dylan Leader, Ronnie McAslin, Zane Smith, Jaco van Deventer (Convener)</selectionCommittee>
     </mens>
     <ladies>
@@ -83,17 +83,17 @@
             <division_no>3</division_no>
             <fours>
                 <skip>Eleanor Syme</skip>
-                <third>Amanda Bekker</third>
-                <second>Maureen Love</second>
+                <third>Maureen Love</third>
+                <second>Shauna Sliep</second>
                 <lead>Karen Pieterse</lead>
             </fours>
             <trips>
                 <skip>Annie Turner</skip>
-                <second>Shauna Sliep</second>
+                <second>Amanda Bekker</second>
                 <lead>Kirstin Leader</lead>
             </trips>
-            <venue>Florida North</venue>
-            <opponent>Florida North</opponent>
+            <venue>Randfontein</venue>
+            <opponent>Discovery (3)</opponent>
             <depart>12:30</depart>
             <captain>Eleanor Syme</captain>
         </team>
