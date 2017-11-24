@@ -25,9 +25,9 @@
             <division_type>Super 7's</division_type>
             <division_no>4</division_no>
             <fours>
-                <skip>Joe Price</skip>
-                <third>Johan Landman</third>
-                <second>Andy Selby</second>
+                <skip>Johan Landman</skip>
+                <third>Andy Selby</third>
+                <second>Gino Lok</second>
                 <lead>Martin Janse</lead>
             </fours>
             <trips>
@@ -73,8 +73,8 @@
             <depart>12:30</depart>
             <captain>Peter Jacobs</captain>
         </team>
-        <reserves>Gino Lok, Ian McLaren, Manny Perreira, Philip Truter</reserves>
-        <unavailable>Glenn Minnaar</unavailable>
+        <reserves>Ian McLaren, Manny Perreira, Philip Truter</reserves>
+        <unavailable>Glenn Minnaar, Joe Price</unavailable>
         <selectionCommittee>Rodney Gray, Dylan Leader, Ronnie McAslin, Zane Smith, Jaco van Deventer (Convener)</selectionCommittee>
     </mens>
     <ladies>
