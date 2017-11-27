@@ -1,6 +1,6 @@
 <league>
     <title>Krugersdorp Bowling Club League Teams</title>
-    <date>2017/11/25</date>
+    <date>2017/12/02</date>
     <mens>
         <team id="1">
             <division_type>Super 7's</division_type>
@@ -16,9 +16,9 @@
                 <second>Steve Turner</second>
                 <lead>Rodney Gray</lead>
             </trips>
-            <venue>Leases</venue>
-            <opponent>Discovery (4)</opponent>
-            <depart>12:30</depart>
+            <venue>Rustenburg</venue>
+            <opponent>Discovery (3)</opponent>
+            <depart>11:30</depart>
             <captain>Alan Lyall</captain>
         </team>
         <team id="2">
@@ -26,26 +26,26 @@
             <division_no>4</division_no>
             <fours>
                 <skip>Johan Landman</skip>
-                <third>Andy Selby</third>
-                <second>Gino Lok</second>
+                <third>Trevor Leader</third>
+                <second>Andy Selby</second>
                 <lead>Martin Janse</lead>
             </fours>
             <trips>
                 <skip>Ray Green</skip>
                 <second>Coenie Pieterse</second>
-                <lead>Rick van Zyl</lead>
+                <lead>Glenn Minnaar</lead>
             </trips>
-            <venue>Florida North</venue>
-            <opponent>Maraisburg</opponent>
-            <depart>12:30</depart>
+            <venue>Witpoortjie</venue>
+            <opponent>Ruimsig (3)</opponent>
+            <depart>12:00</depart>
             <captain>Ray Green</captain>
         </team>
         <team id="3">
             <division_type>Super 7's</division_type>
             <division_no>4</division_no>
             <fours>
-                <skip>Ron McAslin</skip>
-                <third>Trevor Leader</third>
+                <skip>Joe Price</skip>
+                <third>Gino Lok</third>
                 <second>Herman Sliep</second>
                 <lead>Stitch Economakis</lead>
             </fours>
@@ -54,10 +54,10 @@
                 <second>Tom Kneen</second>
                 <lead>James Mnyalira</lead>
             </trips>
-            <venue>Florida North</venue>
-            <opponent>Witpoortjie</opponent>
-            <depart>12:30</depart>
-            <captain>Ron McAslin</captain>
+            <venue>Witpoortjie</venue>
+            <opponent>Maraisburg</opponent>
+            <depart>12:00</depart>
+            <captain>Zane Smith</captain>
         </team>
         <team id="4">
             <division_type>Super 4's</division_type>
@@ -66,15 +66,15 @@
                 <skip>Peter Jacobs</skip>
                 <third>Brian Muldoon</third>
                 <second>Sydney Rust</second>
-                <lead>Barry Rheeder</lead>
+                <lead>Philip Truter</lead>
             </fours>
-            <venue>Honeydew</venue>
-            <opponent>Ruimsig (2)</opponent>
-            <depart>12:30</depart>
+            <venue>Witpoortjie</venue>
+            <opponent>Witpoortjie</opponent>
+            <depart>12:00</depart>
             <captain>Peter Jacobs</captain>
         </team>
-        <reserves>Ian McLaren, Manny Perreira, Philip Truter</reserves>
-        <unavailable>Glenn Minnaar, Joe Price</unavailable>
+        <reserves>Ian McLaren, Manny Perreira</reserves>
+        <unavailable>Ron McAslin, Barry Rheeder, Rick van Zyl</unavailable>
         <selectionCommittee>Rodney Gray, Dylan Leader, Ronnie McAslin, Zane Smith, Jaco van Deventer (Convener)</selectionCommittee>
     </mens>
     <ladies>
@@ -83,8 +83,8 @@
             <division_no>3</division_no>
             <fours>
                 <skip>Eleanor Syme</skip>
-                <third>Maureen Love</third>
-                <second>Shauna Sliep</second>
+                <third>Shauna Sliep</third>
+                <second>Denise Clarence</second>
                 <lead>Karen Pieterse</lead>
             </fours>
             <trips>
@@ -92,14 +92,14 @@
                 <second>Amanda Bekker</second>
                 <lead>Kirstin Leader</lead>
             </trips>
-            <venue>Randfontein</venue>
-            <opponent>Discovery (3)</opponent>
-            <depart>12:30</depart>
+            <venue>Discovery</venue>
+            <opponent>Randfontein</opponent>
+            <depart>11:45</depart>
             <captain>Eleanor Syme</captain>
         </team>
         <team id="2"></team>
-        <reserves>Denise Clarence, Hester Hattingh, Theresa Klein</reserves>
-        <unavailable></unavailable>
+        <reserves>Hester Hattingh, Theresa Klein</reserves>
+        <unavailable>Maureen Love</unavailable>
         <selectionCommittee>Amanda Bekker, Denise Clarence, Gina du Plooy, Shauna Sliep, Annie Turner</selectionCommittee>
     </ladies>
     <notes>
