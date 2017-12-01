@@ -44,9 +44,9 @@
             <division_type>Super 7's</division_type>
             <division_no>4</division_no>
             <fours>
-                <skip>Joe Price</skip>
-                <third>Gino Lok</third>
-                <second>Herman Sliep</second>
+                <skip>Gino Lok</skip>
+                <third>Herman Sliep</third>
+                <second>Manny Perreira</second>
                 <lead>Stitch Economakis</lead>
             </fours>
             <trips>
@@ -73,8 +73,8 @@
             <depart>12:45</depart>
             <captain>Peter Jacobs</captain>
         </team>
-        <reserves>Manny Perreira</reserves>
-        <unavailable>Ron McAslin, Barry Rheeder, Philip Truter, Rick van Zyl</unavailable>
+        <reserves></reserves>
+        <unavailable>Ron McAslin, Joe Price, Barry Rheeder, Philip Truter, Rick van Zyl</unavailable>
         <selectionCommittee>Rodney Gray, Dylan Leader, Ronnie McAslin, Zane Smith, Jaco van Deventer (Convener)</selectionCommittee>
     </mens>
     <ladies>
