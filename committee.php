@@ -37,7 +37,7 @@
                 <div class="row media-row">
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee/andy.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/andy_2.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -52,7 +52,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee/trevor.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/trevor_2.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -67,7 +67,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee/ingrid.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/ingrid_2.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -82,7 +82,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee/melana.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/melana_2.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -104,7 +104,7 @@
                 <div class="row media-row">
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee/dylan.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/dylan_2.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -119,7 +119,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee/maureen.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/maureen_2.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -134,7 +134,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee/alan.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/alan_2.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -149,7 +149,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee/barbara.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/barbara_2.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -171,7 +171,7 @@
                 <div class="row media-row">
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee/matt.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/matt_2.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -186,7 +186,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee/coenie.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/coenie_2.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -201,7 +201,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee/rick.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee/rick_2.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">

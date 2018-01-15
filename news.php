@@ -40,6 +40,187 @@
                                    aria-expanded="false" aria-controls="collapse1">
                                     <h4 class="mbr-fonts-style display-5">
                                         <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                        Newsletter - January 2018
+                                    </h4>
+                                </a>
+                            </div>
+                            <div id="goldRush2017Content" class="panel-collapse noScroll collapse" role="tabpanel"
+                                 aria-labelledby="goldRush2017Heading">
+                                <div class="panel-body p-4">
+                                    <p class="mbr-fonts-style panel-text display-7">
+                                        <strong>Fellow Bowlers</strong>
+                                        <br>
+                                        It is some time since I put “pen to paper”, but there are some points to make.
+                                        <br>
+                                        Firstly welcome back to a new bowling season. To those of you that managed to
+                                        get away from the rat race for a well-deserved break, welcome home.
+                                        <br>
+                                        I hope you all had a great Christmas and that the New Year gives you everything
+                                        you hoped for. We are going to make 2018 even better than 2017.
+                                        <br>
+                                        We are very fortunate at Krugersdorp Bowling Club to have a great club with a
+                                        good competitive club spirit; the committee, clubhouse, greens and grounds are
+                                        the best in the district and our bowling performances overall, both in district
+                                        and national competitions is improving all the time. Keep up the good work let
+                                        us improve even more during the rest of the season.
+                                        <br>
+                                        The suggestion box at the end of the hall is there to be used. Any improvements
+                                        you may think needs to be looked at and attended to, just complete the form and
+                                        put it in the box. <ins>You will</ins> receive a written reply.
+                                        <br>
+                                        I have a couple of items which I have already been mentioned over the past year
+                                        or so, but I think need to be repeated.
+                                        <br>
+                                        <br>
+                                        <strong>Calendar and Club Competitions</strong>
+                                        <br>
+                                        Our new bowling calendar is looking even more busy than usual. The Sables
+                                        leagues restart at the end of January, which gives us some time to get our club
+                                        competitions underway. The first couple of rounds of the club pairs have been
+                                        completed and the next round must be finalised by the end of February. Rick,
+                                        our Club Competition Secretary has been busy finalising the first few rounds of
+                                        the Club singles games, the open, handicap and novices. We have until the end of
+                                        January to complete these rounds. See the notice board for completion dates.
+                                        <br>
+                                        Already, after just a few games we have seen some surprising results, with I’m
+                                        sure a lot more to come.
+                                        <br>
+                                        <br>
+                                        <strong>Inclement Weather</strong>
+                                        <br>
+                                        Recently we had cause to ring the bell on the veranda and there seemed to be
+                                        reluctance on the part of some players to leave the green. This is unacceptable.
+                                        The club is responsible to ensure that nobody sustains an injury due to a
+                                        lightning strike.
+                                        <br>
+                                        Krugersdorp BC has a Bye law which covers the event of lightning intervention
+                                        however there are two vitally important points which I must make and by now you
+                                        all must be aware of them.
+                                        <br>
+                                        1) The fact that the club is in possession of a “lightning meter” and
+                                        <br>
+                                        2) Should at any time the bell be rung, this means that lightning is in the
+                                        vicinity and no further bowls may be played from that point.
+                                        <br>
+                                        <ins>No one is permitted to bowl another bowl.</ins> Everyone will leave the
+                                        green as quickly as possible and move to the clubhouse for protection.
+                                        <br>
+                                        I must make it perfectly clear that if we are playing bowls, be it social,
+                                        league or a district competition the above must happen. A storm can easily move
+                                        20kms in a matter of minutes. The senior player from Krugersdorp BC will be
+                                        responsible to ensure that green is vacated immediately.
+                                        <br>
+                                        <br>
+                                        <strong>Umpires</strong>
+                                        <br>
+                                        When an umpire, if one is available, is called to the rink that you are playing
+                                        on to confirm the shot bowl, give them space to do their job. It is not
+                                        etiquette to stand and watch over their shoulder. Umpires are totally impartial
+                                        and their word is final. Should an umpire not be available and someone is called
+                                        from the next rink to assist the same applies, move away from the head let him
+                                        do his job.
+                                        <br>
+                                        <br>
+                                        <strong>Sundowner Bowls</strong>
+                                        <br>
+                                        We have just completed a few weeks of Sundowner Bowls. Dylan has to be
+                                        congratulated on the format of play he devised.
+                                        <br>
+                                        <br>
+                                        <strong>League</strong>
+                                        <br>
+                                        League will restart on the 27th January. Should we have any new or not so new
+                                        bowlers who wish to be considered to play for the remainder of the season,
+                                        please add your name to the league list or speak to one of the selectors.
+                                        <br>
+                                        <br>
+                                        <strong>New Year’s Day Breakfast</strong>
+                                        <br>
+                                        It was good to see club members together with their friends and family attending
+                                        this function. The breakfast was great and good value for money. My thanks to
+                                        the Life Members of Krugersdorp Bowling club for putting in the effort to attend
+                                        and making the day a special one. We are privileged to have active Life Members.
+                                        Many clubs have Life members but they are there in name only and even members do
+                                        not know who their Life Members are.
+                                        <br>
+                                        <br>
+                                        <strong>Ladies Day</strong>
+                                        <br>
+                                        This is our first function of the New Year. It will be taking place on the 25th
+                                        January, starting at 08h00 with a breakfast, bowls then lunch. Don’t miss out,
+                                        make sure you have entered your teams.
+                                        <br>
+                                        <br>
+                                        <strong>Our Club and Improvements</strong>
+                                        <br>
+                                        If you take the time to look around, you will see that your new committee has
+                                        been really busy making our club the best in the district. We sometimes take a
+                                        lot for granted, the committee included. A few changes to mention are
+                                        <br>
+                                        1) The new extension to the bar now has some pictures of bowls on the walls
+                                        together with a TV,
+                                        <br>
+                                        2) the veranda ceiling has been repainted,
+                                        <br>
+                                        3) the Suggestion Box,
+                                        <br>
+                                        4) the trophy cabinet has been relocated and we now have a
+                                        <br>
+                                        5) notice board with the bowls calendar,
+                                        <br>
+                                        6) new seating arrangements under the tree,
+                                        <br>
+                                        7) gates are now in fully working order. Ingrid has already sent us the code for
+                                        the gate.
+                                        <br>
+                                        Matt has project sheet which as the project is completed it gets ticked off. As
+                                        we raise money for the club so projects get completed.
+                                        <br>
+                                        <br>
+                                        <strong>Social Bowls</strong>
+                                        <br>
+                                        We do on occasions receive complaints from members that the draw for social
+                                        bowls has been fixed, is too one sided or not like it used to be years ago.
+                                        Coenie is our Tabs Master and the draw is usually done under his supervision in
+                                        the form of an open draw. The members who assist him do the draw to the best of
+                                        their ability and as the grading’s allow.
+                                        <br>
+                                        Each members grading has recently looked at by our Selection Committee. On a
+                                        social day all the tabs are laid out in sides from Skips to Leads. There are
+                                        occasions where we have too many players in one or other of the categories, and
+                                        in this instance some bowlers may find themselves playing in a position
+                                        different to which they have been graded. 'Balancing' of the sides is frowned
+                                        upon and will only take place when we have a player who is a specialist lead
+                                        drawn against a new novice bowler. Even then on occasions this will backfire on
+                                        you. Players are in and out of form even on a daily basis, so balancing even the
+                                        so called obvious choices, e.g. our new bowlers, can be hopelessly wrong.
+                                        <br>
+                                        We have to believe that the grading’s are now correct or as close as they can
+                                        be. As a final comment from me, we must all realize that this is social bowls.
+                                        Many of our social bowlers are here for the exercise, a cup of tea and a chat
+                                        and the eventual outcome of the game is of minor consequence. To play the game
+                                        to the best of one’s ability have fun and enjoy the company you are in is what
+                                        it’s all about. For the really competitive bowlers I say use social bowls as a
+                                        practice, play shots you may not normally play and try for better consistency.
+                                        To our new bowlers practice getting the line and weight right and to our Skips,
+                                        relax and enjoy the game.
+                                        <br>
+                                        <br>
+                                        Cheers for now,
+                                        <br>
+                                        <br>
+                                        Alan Lyall
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" role="tab" id="goldRush2017Heading">
+                                <a role="button" class="panel-title collapsed text-black" data-toggle="collapse"
+                                   data-parent="#bootstrap-accordion_33" data-core="" href="#goldRush2017Content"
+                                   aria-expanded="false" aria-controls="collapse1">
+                                    <h4 class="mbr-fonts-style display-5">
+                                        <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
                                         Gold Rush 2017
                                     </h4>
                                 </a>
@@ -125,7 +306,7 @@
                                    aria-expanded="false" aria-controls="collapse1">
                                     <h4 class="mbr-fonts-style display-5">
                                         <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
-                                        August 2017
+                                        Newsletter - August 2017
                                     </h4>
                                 </a>
                             </div>

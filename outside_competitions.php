@@ -5,8 +5,8 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="shortcut icon" href="assets/images/kbc-logo-trans-181x172.png" type="image/x-icon">
-        <meta name="description" content="Krugersdorp Bowling Club Upcoming Events">
-        <title>Upcoming Events - Krugersdorp Bowling Club</title>
+        <meta name="description" content="Krugersdorp Bowling Club Outside Competitions">
+        <title>Outside Competitions - Krugersdorp Bowling Club</title>
         <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
         <link rel="stylesheet" href="assets/tether/tether.min.css">
         <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
@@ -26,7 +26,7 @@
                 <div class="media-container-row">
                     <div class="title col-12 col-md-8">
                         <h2 class="align-center pb-3 mbr-fonts-style display-2">
-                            Upcoming Events
+                            Outside Competitions
                         </h2>
                     </div>
                 </div>
@@ -42,7 +42,9 @@
                     </div>
                 </div>
                 <div class="w3-content w3-display-container w3-section">
-                    <img class="upcomingSlides" src="assets/images/sundowner_bowls_poster_2017.jpg" style="width:100%">
+                    <img class="upcomingSlides" src="assets/images/tower_poster_2018.jpg" style="width:100%">
+                    <img class="upcomingSlides" src="assets/images/All_Cape_Poster_2018.jpg" style="width:100%">
+                    <img class="upcomingSlides" src="assets/images/CBCOB_Shamrock_Challenge_2018.jpg" style="width:100%">
                 </div>
                 <script>
                     var myIndex = 0;

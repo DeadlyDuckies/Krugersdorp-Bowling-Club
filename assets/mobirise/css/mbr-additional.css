@@ -3750,6 +3750,10 @@ body {
     font-weight: 300;
 }
 
+.cid-qz0hh78xtG p {
+    color: #0c379b;
+}
+
 .cid-qz0hh78xtG .card-img {
     width: initial;
 }
@@ -6378,6 +6382,11 @@ body {
 
 .cid-qztSogXpZy H2 {
     color: #0c379b;
+}
+
+.cid-qztSogXpZy p {
+    color: #0c379b;
+    text-align: center;
 }
 
 .cid-qztSMBVlAJ {
@@ -10209,4 +10218,9 @@ body {
     .cid-qyCBItOw5q .menu-logo {
         flex-shrink: 0;
     }
+}
+
+@media print
+{
+    .noPrint  {display:none}
 }

@@ -1,4 +1,4 @@
-<section class="menu cid-qyCBItOw5q" once="menu" id="menu1-9" data-rv-view="114">
+<section class="menu cid-qyCBItOw5q noPrint" once="menu" id="menu1-9" data-rv-view="114">
     <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
                 data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -69,9 +69,9 @@
                             <span class="mbri-features mbr-iconfont mbr-iconfont-btn"></span>
                             Coaches
                         </a>
-                        <a class="dropdown-item text-primary display-4" href="dress">
+                        <a class="dropdown-item text-primary display-4" href="clothing">
                             <span  class="mbri-users mbr-iconfont mbr-iconfont-btn"></span>
-                            Dress Code
+                            Clothing & Dress Code
                         </a>
                         <a class="dropdown-item text-primary display-4" href="fees">
                             <span class="mbri-cash mbr-iconfont mbr-iconfont-btn"></span>
@@ -89,6 +89,10 @@
                         <a class="dropdown-item text-primary display-4" href="upcoming_events" aria-expanded="false">
                             <span class="mbri-idea mbr-iconfont mbr-iconfont-btn"></span>
                             Upcoming events
+                        </a>
+                        <a class="dropdown-item text-primary display-4" href="outside_competitions" aria-expanded="false">
+                            <span class="mbri-share mbr-iconfont mbr-iconfont-btn"></span>
+                            Outside Competitions
                         </a>
                         <a class="dropdown-item text-primary display-4" href="calendar" aria-expanded="false">
                             <span class="mbri-calendar mbr-iconfont mbr-iconfont-btn"></span>

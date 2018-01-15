@@ -25,6 +25,9 @@
                 <h2 class="mbr-section-title pb-3 mbr-fonts-style display-2">
                     Dress Code
                 </h2>
+<!--                <p>-->
+<!--                    This is to be worn when representing the club, during club competitions and Saturday social bowls.-->
+<!--                </p>-->
                 <div class="media-container-column">
                     <div class="row justify-content-center">
                         <div class="card p-4 col-12 col-md-6 col-lg-4">
@@ -88,8 +91,9 @@
                                     <br>
                                     <strong>2. Trousers</strong>
                                     <br>
-                                    White or cream long tailored trousers or tailored shorts. Rugby, soccer or
-                                    running shorts are not acceptable. If a belt is required to be worn, it shall be white.
+                                    White, navy or cream long tailored trousers, tailored shorts, BRT quad shorts or
+                                    BRT long track pants. Rugby, soccer or running shorts are not acceptable. If a belt
+                                    is required to be worn, it shall be white.
                                     <br>
                                     <br>
                                     <strong>3. Socks</strong>
@@ -116,8 +120,8 @@
                                 <p class="mbr-text mbr-fonts-style display-7">
                                     <strong>1. Dress or slacks</strong>
                                     <br>
-                                    A white or cream bowling dress with collar or skirt, divided skirt or walking
-                                    shorts or tailored slacks of any length in white, cream or black.
+                                    A bowling dress with collar or skirt, divided skirt, walking shorts, tailored slacks
+                                    of any length, BRT quad shorts or BRT long track pants in white, navy, cream or black.
                                     <br>
                                     <br>
                                     <strong>2. Blouse or Shirts</strong>
