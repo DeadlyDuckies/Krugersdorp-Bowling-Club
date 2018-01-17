@@ -1600,6 +1600,7 @@ body {
     background: #ffffff;
     transition: none;
     min-height: 77px;
+    position: fixed;
 }
 
 .cid-qyCBItOw5q .navbar-dropdown.bg-color.transparent.opened {
@@ -6414,6 +6415,13 @@ body {
     background-color: #ffffff;
 }
 
+.cid-qztSxSN3he span {
+    display: block;
+    height: 100px; /*same height as header*/
+    /*margin-top: -100px !important; !*same height as header*!*/
+    visibility: hidden;
+}
+
 .cid-qztSxSN3he .mbr-section-subtitle {
     color: #767676;
 }
@@ -10223,4 +10231,154 @@ body {
 @media print
 {
     .noPrint  {display:none}
+}
+
+.competitionKnockout {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: #ffffff;
+}
+
+.competitionKnockout span {
+    display: block;
+    height: 2000px !important; /*same height as header*/
+    margin-top: -2000px !important; /*same height as header*/
+    visibility: hidden;
+}
+
+.competitionKnockout .mbr-section-subtitle {
+    color: #767676;
+}
+
+.competitionKnockout .container-table {
+    margin: 0 auto;
+}
+
+.competitionKnockout .scroll {
+    overflow-x: auto;
+    padding: 0;
+}
+
+.competitionKnockout .dataTables_wrapper {
+    display: block;
+}
+
+.competitionKnockout .dataTables_wrapper .search {
+    margin-bottom: .5rem;
+}
+
+.competitionKnockout .dataTables_wrapper .table {
+    overflow-x: auto;
+}
+
+.competitionKnockout table {
+    width: 100% !important;
+    margin-top: 6px;
+    margin-bottom: 0;
+}
+
+.competitionKnockout table th {
+    border: 1px solid #cccccc;
+    transition: all .2s;
+}
+
+.competitionKnockout table th:hover {
+    background: #cccccc;
+    color: #000000;
+}
+
+.competitionKnockout table td {
+    border: none;
+    line-height: 14px;
+}
+
+.competitionKnockout table.table {
+    background: #ffffff;
+}
+
+.competitionKnockout .dataTables_filter {
+    text-align: right;
+    margin-bottom: .5rem;
+}
+
+.competitionKnockout .dataTables_filter label {
+    display: inline;
+    white-space: normal !important;
+}
+
+.competitionKnockout .dataTables_filter input {
+    display: inline;
+    width: auto;
+    margin-left: .5rem;
+    border-radius: 100px;
+    padding-left: 1rem;
+}
+
+.competitionKnockout .dataTables_info {
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    white-space: normal !important;
+    color: #767676;
+}
+
+@media (max-width: 992px) {
+    .competitionKnockout .dataTables_filter {
+        text-align: center;
+    }
+}
+
+@media (max-width: 350px) {
+    .competitionKnockout .dataTables_filter {
+        text-align: center;
+    }
+
+    .competitionKnockout .dataTables_filter input {
+        width: 100% !important;
+        margin-left: 0 !important;
+    }
+}
+
+.competitionKnockout .mbr-section-title {
+    color: #0c379b;
+}
+
+.competitionKnockout .head-item {
+    text-align: center;
+    color: #0c379b;
+}
+
+.competitionKnockout .body-item {
+    text-align: center;
+    color: #0c379b;
+}
+
+.competitionKnockout .body-text {
+    text-align: center;
+    color: #0c379b;
+    border: 2px solid #0c379b !important;
+}
+
+.competitionKnockout .winner-body-text {
+    text-align: center;
+    color: #0c379b;
+    border: 2px solid #0c379b !important;
+    /*background-color: #fbffce;*/
+    background-color: #ffce41;
+}
+
+.competitionKnockout .empty-text {
+    text-align: center;
+    color: #cccccc;
+    border: 2px solid #0c379b !important;
+}
+
+.competitionKnockout .right-border {
+    text-align: center;
+    color: #0c379b;
+    border-right: 2px solid #0c379b;
+}
+
+.competitionKnockout p {
+    text-align: left;
+    color: #0c379b;
 }

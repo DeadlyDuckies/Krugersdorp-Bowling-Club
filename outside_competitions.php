@@ -37,14 +37,15 @@
             <figure class="mbr-figure container">
                 <div class="w3-center">
                     <div class="w3-section">
-                        <button class="w3-button w3-light-grey" onclick="plusDivs(-1)">❮ Prev</button>
-                        <button class="w3-button w3-light-grey" onclick="plusDivs(1)">Next ❯</button>
+                        <button class="btn btn-form btn-secondary display-7" onclick="plusDivs(-1)">❮ Prev</button>
+                        <button class="btn btn-form btn-secondary display-7" onclick="plusDivs(1)">Next ❯</button>
                     </div>
                 </div>
                 <div class="w3-content w3-display-container w3-section">
                     <img class="upcomingSlides" src="assets/images/tower_poster_2018.jpg" style="width:100%">
                     <img class="upcomingSlides" src="assets/images/All_Cape_Poster_2018.jpg" style="width:100%">
                     <img class="upcomingSlides" src="assets/images/CBCOB_Shamrock_Challenge_2018.jpg" style="width:100%">
+                    <img class="upcomingSlides" src="assets/images/Roosevelt_Park_Easter_Tournament.JPG" style="width:100%">
                 </div>
                 <script>
                     var myIndex = 0;

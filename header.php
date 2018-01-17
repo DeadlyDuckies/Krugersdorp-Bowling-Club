@@ -77,6 +77,10 @@
                             <span class="mbri-cash mbr-iconfont mbr-iconfont-btn"></span>
                             Fees and Subs
                         </a>
+                        <a class="dropdown-item text-primary display-4" href="markers_guide">
+                            <span class="mbri-bookmark mbr-iconfont mbr-iconfont-btn"></span>
+                            Markers Guide
+                        </a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
