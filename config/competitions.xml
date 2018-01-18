@@ -440,7 +440,7 @@
             <game id="3">
                 <home>5</home>
                 <away>6</away>
-                <winner>5</winner>
+                <winner>6</winner>
             </game>
             <game id="4">
                 <home>7</home>
@@ -983,7 +983,7 @@
             <captain>Barry</captain>
         </team>
         <team id="21">
-            <captain>Ronnie</captain>
+            <captain>Ronnie (Withdrawn)</captain>
         </team>
         <team id="22">
             <captain>Matt</captain>
@@ -998,7 +998,7 @@
             <captain>Hans B</captain>
         </team>
         <team id="26">
-            <captain>Eric</captain>
+            <captain>Eric (Withdrawn)</captain>
         </team>
         <team id="27">
             <captain>Andy</captain>
