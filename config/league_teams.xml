@@ -1,6 +1,6 @@
 <league>
     <title>Krugersdorp Bowling Club League Teams</title>
-    <date>2017/12/02</date>
+    <date>2017/01/24</date>
     <mens>
         <team id="1">
             <division_type>Super 7's</division_type>
@@ -79,12 +79,12 @@
     </mens>
     <ladies>
         <team id="1">
-            <division_type>Super 7's</division_type>
+            <division_type>Saturday Super 7's</division_type>
             <division_no>3</division_no>
             <fours>
                 <skip>Eleanor Syme</skip>
                 <third>Shauna Sliep</third>
-                <second>Denise Clarence</second>
+                <second>Hester Hattingh</second>
                 <lead>Karen Pieterse</lead>
             </fours>
             <trips>
@@ -92,20 +92,34 @@
                 <second>Amanda Bekker</second>
                 <lead>Kirstin Leader</lead>
             </trips>
-            <venue>Discovery</venue>
-            <opponent>Randfontein</opponent>
-            <depart>12:30</depart>
+            <venue>Krugersdorp</venue>
+            <opponent>Florida North</opponent>
+            <depart>N/A</depart>
             <captain>Eleanor Syme</captain>
         </team>
-        <team id="2"></team>
-        <reserves>Hester Hattingh, Theresa Klein</reserves>
-        <unavailable>Maureen Love</unavailable>
+        <team id="2">
+            <division_type>Wednesday Super 4's</division_type>
+            <division_no>2</division_no>
+            <fours>
+                <skip>Eleanor Syme</skip>
+                <third>Shauna Sliep</third>
+                <second>Hester Hattingh</second>
+                <lead>Gina du Plooy</lead>
+            </fours>
+            <venue>Witpoortjie</venue>
+            <opponent>Noordheuwel</opponent>
+            <depart>08:00</depart>
+            <captain>Eleanor Syme</captain>
+        </team>
+        <reserves></reserves>
+        <unavailable>Theresa Klein</unavailable>
         <selectionCommittee>Amanda Bekker, Denise Clarence, Gina du Plooy, Shauna Sliep (Convener), Annie Turner</selectionCommittee>
     </ladies>
     <notes>
-        <note id="1">1. CAPTAINS, PLEASE ENSURE PLAYERS IN YOUR TEAM ARE INFORMED ABOUT VENUE AND DEPARTURE TIME.</note>
-        <note id="2">2. CAPTAINS, PLEASE ENSURE THAT THE VENUES AND OPPONENTS ARE CORRECT.</note>
-        <note id="3">3. CAPTAINS, PLEASE PROVIDE FEEDBACK TO A SELECTOR ON YOUR TEAMS AND INDIVIDUAL PERFORMANCES BEFORE MONDAY.</note>
-        <note id="4">4. PLEASE TICK OFF YOUR NAMES IF YOU ARE GOING STRAIGHT TO THE VENUE.</note>
+        <note id="1">1. NB! Please tick off your names if you are going straight to the venue.</note>
+        <note id="2">2. League selections are available on our website - http://www.krugersdorpbowlingclub.co.za/league_teams</note>
+        <note id="3">3. Captains, Please ensure players in your team are informed about venue and departure time.</note>
+        <note id="4">4. Captains, Please ensure that the venues and opponents are correct.</note>
+        <note id="5">5. Captains, Please provide feedback to a selector on your teams and individual performances before Monday.</note>
     </notes>
 </league>
