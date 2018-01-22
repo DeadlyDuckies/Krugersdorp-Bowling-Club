@@ -13,21 +13,21 @@
             </fours>
             <trips>
                 <skip>Alan Lyall</skip>
-                <second>Steve Turner</second>
-                <lead>Rodney Gray</lead>
+                <second>Rudo Botha</second>
+                <lead>Andy Selby</lead>
             </trips>
-            <venue>Rustenburg</venue>
-            <opponent>Discovery (3)</opponent>
-            <depart>11:30</depart>
+            <venue>Krugersdorp</venue>
+            <opponent>Honeydew (1)</opponent>
+            <depart>N/A</depart>
             <captain>Alan Lyall</captain>
         </team>
         <team id="2">
             <division_type>Super 7's</division_type>
             <division_no>4</division_no>
             <fours>
-                <skip>Johan Landman</skip>
+                <skip>Rodney Gray</skip>
                 <third>Trevor Leader</third>
-                <second>Andy Selby</second>
+                <second>Johan Landman</second>
                 <lead>Martin Janse</lead>
             </fours>
             <trips>
@@ -35,8 +35,8 @@
                 <second>Coenie Pieterse</second>
                 <lead>Glenn Minnaar</lead>
             </trips>
-            <venue>Witpoortjie</venue>
-            <opponent>Ruimsig (3)</opponent>
+            <venue>Ruimsig</venue>
+            <opponent>Witpoortjie</opponent>
             <depart>12:45</depart>
             <captain>Ray Green</captain>
         </team>
@@ -44,9 +44,9 @@
             <division_type>Super 7's</division_type>
             <division_no>4</division_no>
             <fours>
-                <skip>Gino Lok</skip>
-                <third>Herman Sliep</third>
-                <second>Manny Perreira</second>
+                <skip>Steve Turner</skip>
+                <third>Ron McAslin</third>
+                <second>Herman Sliep</second>
                 <lead>Stitch Economakis</lead>
             </fours>
             <trips>
@@ -54,8 +54,8 @@
                 <second>Tom Kneen</second>
                 <lead>James Mnyalira</lead>
             </trips>
-            <venue>Witpoortjie</venue>
-            <opponent>Maraisburg</opponent>
+            <venue>Ruimsig</venue>
+            <opponent>Florida North</opponent>
             <depart>12:45</depart>
             <captain>Zane Smith</captain>
         </team>
@@ -63,18 +63,18 @@
             <division_type>Super 4's</division_type>
             <division_no>2</division_no>
             <fours>
-                <skip>Peter Jacobs</skip>
+                <skip>Gino Lok</skip>
                 <third>Brian Muldoon</third>
                 <second>Sydney Rust</second>
-                <lead>Ian McLaren</lead>
+                <lead>Barry Rheeder</lead>
             </fours>
-            <venue>Witpoortjie</venue>
-            <opponent>Witpoortjie</opponent>
+            <venue>Discovery</venue>
+            <opponent>Noordheuwel (2)</opponent>
             <depart>12:45</depart>
-            <captain>Peter Jacobs</captain>
+            <captain>Brian Muldoon</captain>
         </team>
-        <reserves></reserves>
-        <unavailable>Ron McAslin, Joe Price, Barry Rheeder, Philip Truter, Rick van Zyl</unavailable>
+        <reserves>Rick van Zyl</reserves>
+        <unavailable>Peter Jacobs, Ian McLaren, Joe Price, Philip Truter</unavailable>
         <selectionCommittee>Rodney Gray, Dylan Leader, Ronnie McAslin, Zane Smith, Jaco van Deventer (Convener)</selectionCommittee>
     </mens>
     <ladies>
