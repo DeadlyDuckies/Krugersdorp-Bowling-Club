@@ -14,7 +14,7 @@
             <trips>
                 <skip>Alan Lyall</skip>
                 <second>Rudo Botha</second>
-                <lead>Andy Selby</lead>
+                <lead>Rodney Gray</lead>
             </trips>
             <venue>Krugersdorp</venue>
             <opponent>Honeydew (1)</opponent>
@@ -25,9 +25,9 @@
             <division_type>Super 7's</division_type>
             <division_no>4</division_no>
             <fours>
-                <skip>Rodney Gray</skip>
+                <skip>Steve Turner</skip>
                 <third>Trevor Leader</third>
-                <second>Johan Landman</second>
+                <second>Andy Selby</second>
                 <lead>Martin Janse</lead>
             </fours>
             <trips>
@@ -44,14 +44,14 @@
             <division_type>Super 7's</division_type>
             <division_no>4</division_no>
             <fours>
-                <skip>Steve Turner</skip>
-                <third>Ron McAslin</third>
+                <skip>Ron McAslin</skip>
+                <third>Johan Landman</third>
                 <second>Herman Sliep</second>
                 <lead>Stitch Economakis</lead>
             </fours>
             <trips>
                 <skip>Zane Smith</skip>
-                <second>Tom Kneen</second>
+                <second>Lee Barnes</second>
                 <lead>James Mnyalira</lead>
             </trips>
             <venue>Ruimsig</venue>
@@ -63,17 +63,17 @@
             <division_type>Super 4's</division_type>
             <division_no>2</division_no>
             <fours>
-                <skip>Gino Lok</skip>
+                <skip>Tom Kneen</skip>
                 <third>Brian Muldoon</third>
                 <second>Sydney Rust</second>
-                <lead>Barry Rheeder</lead>
+                <lead>Hans Bakker</lead>
             </fours>
             <venue>Discovery</venue>
             <opponent>Noordheuwel (2)</opponent>
             <depart>12:45</depart>
             <captain>Brian Muldoon</captain>
         </team>
-        <reserves>Rick van Zyl</reserves>
+        <reserves>Gino Lok, Barry Rheeder, Rick van Zyl</reserves>
         <unavailable>Peter Jacobs, Ian McLaren, Joe Price, Philip Truter</unavailable>
         <selectionCommittee>Rodney Gray, Dylan Leader, Ronnie McAslin, Zane Smith, Jaco van Deventer (Convener)</selectionCommittee>
     </mens>
