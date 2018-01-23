@@ -171,21 +171,6 @@
                 <div class="row media-row">
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee/matt_2.jpg" alt="" title="" media-simple="true">
-                        </div>
-                        <div class="item-caption py-3">
-                            <div class="item-name px-2">
-                                <p class="mbr-fonts-style display-5">
-                                    Matthew Noone
-                                </p>
-                            </div>
-                            <div class="item-role px-2">
-                                <p>Committee Member</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="team-item col-lg-3 col-md-6">
-                        <div class="item-image">
                             <img src="assets/images/committee/coenie_2.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
