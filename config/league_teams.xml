@@ -9,7 +9,7 @@
                 <skip>Cobus Smit</skip>
                 <third>Jaco van Deventer</third>
                 <second>Dylan Leader</second>
-                <lead>Willie Shaw</lead>
+                <lead>Andy Selby</lead>
             </fours>
             <trips>
                 <skip>Alan Lyall</skip>
@@ -27,8 +27,8 @@
             <fours>
                 <skip>Steve Turner</skip>
                 <third>Trevor Leader</third>
-                <second>Andy Selby</second>
-                <lead>Martin Janse</lead>
+                <second>Martin Janse</second>
+                <lead>Stitch Economakis</lead>
             </fours>
             <trips>
                 <skip>Ray Green</skip>
@@ -47,11 +47,11 @@
                 <skip>Ron McAslin</skip>
                 <third>Johan Landman</third>
                 <second>Herman Sliep</second>
-                <lead>Stitch Economakis</lead>
+                <lead>Lee Barnes</lead>
             </fours>
             <trips>
                 <skip>Zane Smith</skip>
-                <second>Lee Barnes</second>
+                <second>Joe Price</second>
                 <lead>James Mnyalira</lead>
             </trips>
             <venue>Krugersdorp</venue>
@@ -63,7 +63,7 @@
             <division_type>Super 4's</division_type>
             <division_no>2</division_no>
             <fours>
-                <skip>Tom Kneen</skip>
+                <skip>Peter Jacobs</skip>
                 <third>Brian Muldoon</third>
                 <second>Sydney Rust</second>
                 <lead>Hans Bakker</lead>
@@ -73,8 +73,8 @@
             <depart>12:30</depart>
             <captain>Tom Kneen</captain>
         </team>
-        <reserves>Gino Lok, Barry Rheeder, Rick van Zyl</reserves>
-        <unavailable>Peter Jacobs, Ian McLaren, Joe Price, Philip Truter</unavailable>
+        <reserves>Tom Kneen, Gino Lok, Ian McLaren, Barry Rheeder, Rick van Zyl</reserves>
+        <unavailable>Willie Shaw, Philip Truter</unavailable>
         <selectionCommittee>Rodney Gray, Dylan Leader, Ronnie McAslin, Zane Smith, Jaco van Deventer (Convener)</selectionCommittee>
     </mens>
     <ladies>
@@ -111,8 +111,8 @@
             <depart>08:00</depart>
             <captain>Eleanor Syme</captain>
         </team>
-        <reserves></reserves>
-        <unavailable>Theresa Klein</unavailable>
+        <reserves>Theresa Klein</reserves>
+        <unavailable></unavailable>
         <selectionCommittee>Amanda Bekker, Denise Clarence, Gina du Plooy, Shauna Sliep (Convener), Annie Turner</selectionCommittee>
     </ladies>
     <notes>
