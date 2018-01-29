@@ -1,6 +1,6 @@
 <league>
     <title>Krugersdorp Bowling Club League Teams</title>
-    <date>2017/01/27</date>
+    <date>2017/02/03</date>
     <mens>
         <team id="1">
             <division_type>Super 7's</division_type>
@@ -16,9 +16,9 @@
                 <second>Rudo Botha</second>
                 <lead>Rodney Gray</lead>
             </trips>
-            <venue>Krugersdorp</venue>
-            <opponent>Honeydew (1)</opponent>
-            <depart>N/A</depart>
+            <venue>Discovery</venue>
+            <opponent>Leases (2)</opponent>
+            <depart>12:30</depart>
             <captain>Alan Lyall</captain>
         </team>
         <team id="2">
@@ -35,9 +35,9 @@
                 <second>Coenie Pieterse</second>
                 <lead>Glenn Minnaar</lead>
             </trips>
-            <venue>Ruimsig</venue>
-            <opponent>Witpoortjie</opponent>
-            <depart>12:45</depart>
+            <venue>Krugersdorp</venue>
+            <opponent>Florida North</opponent>
+            <depart>N/A</depart>
             <captain>Ray Green</captain>
         </team>
         <team id="3">
@@ -54,9 +54,9 @@
                 <second>Lee Barnes</second>
                 <lead>James Mnyalira</lead>
             </trips>
-            <venue>Ruimsig</venue>
-            <opponent>Florida North</opponent>
-            <depart>12:45</depart>
+            <venue>Krugersdorp</venue>
+            <opponent>Ruimsig (3)</opponent>
+            <depart>N/A</depart>
             <captain>Zane Smith</captain>
         </team>
         <team id="4">
@@ -68,9 +68,9 @@
                 <second>Sydney Rust</second>
                 <lead>Hans Bakker</lead>
             </fours>
-            <venue>Discovery</venue>
-            <opponent>Noordheuwel (2)</opponent>
-            <depart>12:45</depart>
+            <venue>Honeydew</venue>
+            <opponent>Discovery (3)</opponent>
+            <depart>12:30</depart>
             <captain>Tom Kneen</captain>
         </team>
         <reserves>Gino Lok, Barry Rheeder, Rick van Zyl</reserves>
@@ -92,9 +92,9 @@
                 <second>Amanda Bekker</second>
                 <lead>Kirstin Leader</lead>
             </trips>
-            <venue>Krugersdorp</venue>
-            <opponent>Florida North</opponent>
-            <depart>N/A</depart>
+            <venue>Florida North</venue>
+            <opponent>Discovery</opponent>
+            <depart>12:30</depart>
             <captain>Eleanor Syme</captain>
         </team>
         <team id="2">
@@ -106,8 +106,8 @@
                 <second>Hester Hattingh</second>
                 <lead>Gina du Plooy</lead>
             </fours>
-            <venue>Witpoortjie</venue>
-            <opponent>Noordheuwel</opponent>
+            <venue>Ruimsig</venue>
+            <opponent>Randfontein</opponent>
             <depart>08:00</depart>
             <captain>Eleanor Syme</captain>
         </team>
