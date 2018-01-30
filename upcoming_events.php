@@ -28,6 +28,16 @@
                         <h2 class="align-center pb-3 mbr-fonts-style display-2">
                             Upcoming Events
                         </h2>
+                        <p>
+                            For further information or suggestions on any upcoming events please contact:
+                            <br>
+                            Email:
+                            <a href="mailto:fundraising@krugersdorpbowlingclub.co.za" target="_blank">
+                                fundraising@krugersdorpbowlingclub.co.za
+                            </a>
+                            <br>
+                            Phone: (011) 664 6062
+                        </p>
                     </div>
                 </div>
             </div>
