@@ -52,6 +52,8 @@
                     </div>
                 </div>
                 <div class="w3-content w3-display-container w3-section">
+                    <img class="upcomingSlides" src="assets/images/Bingo_Burger.jpg" style="width:100%">
+                    <img class="upcomingSlides" src="assets/images/KBC_Joker.jpg" style="width:100%">
                     <img class="upcomingSlides" src="assets/images/sundowner_bowls_poster_2017.jpg" style="width:100%">
                 </div>
                 <script>
