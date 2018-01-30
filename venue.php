@@ -52,6 +52,13 @@
                             <br>
                             <br>
                             Please book in advance to ensure venue availability.
+                            <br>
+                            Email:
+                            <a href="mailto:venue@krugersdorpbowlingclub.co.za" target="_blank">
+                                venue@krugersdorpbowlingclub.co.za
+                            </a>
+                            <br>
+                            Phone: (011) 664 6062
                         </div>
                     </div>
                 </div>
