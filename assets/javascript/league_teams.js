@@ -133,15 +133,7 @@ function populateLeagueTeams(xml, type) {
         unavailable = menLadies[0].getElementsByTagName("unavailable")[0].childNodes[0].nodeValue;
     }
 
-    html += "<div class=\"container table-info-container\">" +
-            "<div class=\"row info\">" +
-            "<div class=\"col-md-6\">" +
-            "<div class=\"dataTables_info mbr-fonts-style display-7\">" +
-            "<p>Reserves: " + reserves + "<br> Unavailable: " + unavailable + "</p>" +
-            "</div>" +
-            "</div>" +
-            "</div>" +
-            "</div>";
+    html += "<p><strong>Reserves:</strong> " + reserves + "<br><strong>Unavailable:</strong> " + unavailable + "</p><br>";
 
     document.getElementById(type + "_league_html").innerHTML = html;
 }
