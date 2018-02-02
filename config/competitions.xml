@@ -1,5 +1,5 @@
 <competitions>
-    <lastUpdated>2018/01/26</lastUpdated>
+    <lastUpdated>2018/02/01</lastUpdated>
     <competition id="1">
         <name>Ladies Pairs Initial Round</name>
         <team id="1">
@@ -435,7 +435,7 @@
             <game id="2">
                 <home>3</home>
                 <away>4</away>
-                <winner> </winner>
+                <winner>4</winner>
             </game>
             <game id="3">
                 <home>5</home>
@@ -472,7 +472,7 @@
             <completedBy>2018/02/28</completedBy>
             <game id="1">
                 <home>1</home>
-                <away> </away>
+                <away>4</away>
                 <winner> </winner>
             </game>
             <game id="2">
@@ -626,7 +626,7 @@
             <game id="3">
                 <home>5</home>
                 <away>6</away>
-                <winner> </winner>
+                <winner>6</winner>
             </game>
             <game id="4">
                 <home>7</home>
@@ -702,7 +702,7 @@
                 <winner> </winner>
             </game>
             <game id="2">
-                <home> </home>
+                <home>6</home>
                 <away>8</away>
                 <winner> </winner>
             </game>
@@ -734,7 +734,7 @@
             <game id="8">
                 <home>29</home>
                 <away>31</away>
-                <winner> </winner>
+                <winner>31</winner>
             </game>
         </round>
         <round id="3">
@@ -756,7 +756,7 @@
             </game>
             <game id="4">
                 <home> </home>
-                <away> </away>
+                <away>31</away>
                 <winner> </winner>
             </game>
         </round>
@@ -837,7 +837,7 @@
             <game id="1">
                 <home>1</home>
                 <away>2</away>
-                <winner> </winner>
+                <winner>1</winner>
             </game>
             <game id="2">
                 <home>3</home>
@@ -878,7 +878,7 @@
         <round id="2">
             <completedBy>2018/02/28</completedBy>
             <game id="1">
-                <home> </home>
+                <home>1</home>
                 <away>4</away>
                 <winner> </winner>
             </game>
@@ -1038,7 +1038,7 @@
             <game id="4">
                 <home>7</home>
                 <away>8</away>
-                <winner> </winner>
+                <winner>7</winner>
             </game>
             <game id="5">
                 <home>9</home>
@@ -1110,7 +1110,7 @@
             </game>
             <game id="2">
                 <home>6</home>
-                <away> </away>
+                <away>7</away>
                 <winner> </winner>
             </game>
             <game id="3">
