@@ -47,9 +47,10 @@
                     <img class="upcomingSlides" src="assets/images/Wingate_Park_Novice_Pairs_2018.jpg" style="width:100%">
                     <img class="upcomingSlides" src="assets/images/PBC_2018_Almur_Smit_Invite.jpg" style="width:100%">
                     <img class="upcomingSlides" src="assets/images/Kranskip_Toernooi_2018.jpg" style="width:100%">
+                    <img class="upcomingSlides" src="assets/images/Roosevelt_Park_Easter_Tournament.JPG" style="width:100%">
                     <img class="upcomingSlides" src="assets/images/All_Cape_Poster_2018.jpg" style="width:100%">
                     <img class="upcomingSlides" src="assets/images/CBCOB_Shamrock_Challenge_2018.jpg" style="width:100%">
-                    <img class="upcomingSlides" src="assets/images/Roosevelt_Park_Easter_Tournament.JPG" style="width:100%">
+                    <img class="upcomingSlides" src="assets/images/KILLARNEY-GARRUN-TRIPS-POSTER-2018.jpg" style="width:100%">
                     <img class="upcomingSlides" src="assets/images/Scottburgh_August_Tournament_2018.jpg" style="width:100%">
                     <img class="upcomingSlides" src="assets/images/Cherry_Bowls_Kersierolbaltoernooi_2018.jpg" style="width:100%">
                 </div>
