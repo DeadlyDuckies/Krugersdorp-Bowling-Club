@@ -1,6 +1,6 @@
 <league>
     <title>Krugersdorp Bowling Club League Teams</title>
-    <date>2017/02/03</date>
+    <date>2017/02/17</date>
     <mens>
         <team id="1">
             <division_type>Super 7's</division_type>
@@ -16,8 +16,8 @@
                 <second>Rudo Botha</second>
                 <lead>Rodney Gray</lead>
             </trips>
-            <venue>Discovery</venue>
-            <opponent>Leases (2)</opponent>
+            <venue>Honeydew</venue>
+            <opponent>Rust-Imp (2)</opponent>
             <depart>12:30</depart>
             <captain>Alan Lyall</captain>
         </team>
@@ -35,9 +35,9 @@
                 <second>Coenie Pieterse</second>
                 <lead>Glenn Minnaar</lead>
             </trips>
-            <venue>Krugersdorp</venue>
-            <opponent>Florida North</opponent>
-            <depart>N/A</depart>
+            <venue>Florida North</venue>
+            <opponent>Krugersdorp (3)</opponent>
+            <depart>12:30</depart>
             <captain>Ray Green</captain>
         </team>
         <team id="3">
@@ -46,18 +46,18 @@
             <fours>
                 <skip>Ron McAslin</skip>
                 <third>Johan Landman</third>
-                <second>Herman Sliep</second>
+                <second>Tom Kneen</second>
                 <lead>Lee Barnes</lead>
             </fours>
             <trips>
                 <skip>Zane Smith</skip>
-                <second>Joe Price</second>
+                <second>Ian Mclaren</second>
                 <lead>James Mnyalira</lead>
             </trips>
-            <venue>Krugersdorp</venue>
-            <opponent>Ruimsig (3)</opponent>
-            <depart>N/A</depart>
-            <captain>Zane Smith</captain>
+            <venue>Florida North</venue>
+            <opponent>Krugersdorp (2)</opponent>
+            <depart>12:30</depart>
+            <captain>Ron McAslin</captain>
         </team>
         <team id="4">
             <division_type>Super 4's</division_type>
@@ -65,16 +65,16 @@
             <fours>
                 <skip>Peter Jacobs</skip>
                 <third>Brian Muldoon</third>
-                <second>Sydney Rust</second>
+                <second>Herman Sliep</second>
                 <lead>Hans Bakker</lead>
             </fours>
-            <venue>Honeydew</venue>
-            <opponent>Discovery (3)</opponent>
-            <depart>12:30</depart>
+            <venue>Witpoortjie</venue>
+            <opponent>Honeydew</opponent>
+            <depart>12:45</depart>
             <captain>Peter Jacobs</captain>
         </team>
-        <reserves>Tom Kneen, Gino Lok, Ian McLaren, Barry Rheeder, Rick van Zyl</reserves>
-        <unavailable>Willie Shaw, Philip Truter</unavailable>
+        <reserves>Gino Lok, Joe Price, Barry Rheeder, Ray Rhodes, Rick van Zyl</reserves>
+        <unavailable>Sydney Rust, Willie Shaw, Philip Truter</unavailable>
         <selectionCommittee>Rodney Gray, Dylan Leader, Ronnie McAslin, Zane Smith, Jaco van Deventer (Convener)</selectionCommittee>
     </mens>
     <ladies>
@@ -92,8 +92,8 @@
                 <second>Amanda Bekker</second>
                 <lead>Kirstin Leader</lead>
             </trips>
-            <venue>Florida North</venue>
-            <opponent>Discovery</opponent>
+            <venue>Randfontein</venue>
+            <opponent>Randfontein</opponent>
             <depart>12:30</depart>
             <captain>Eleanor Syme</captain>
         </team>
@@ -106,9 +106,9 @@
                 <second>Hester Hattingh</second>
                 <lead>Gina du Plooy</lead>
             </fours>
-            <venue>Ruimsig</venue>
-            <opponent>Randfontein</opponent>
-            <depart>08:00</depart>
+            <venue>Randfontein</venue>
+            <opponent>Ruimsig (3)</opponent>
+            <depart>07:45</depart>
             <captain>Eleanor Syme</captain>
         </team>
         <reserves>Theresa Klein</reserves>
