@@ -6,14 +6,14 @@
             <division_type>Super 7's</division_type>
             <division_no>2</division_no>
             <fours>
-                <skip>Rudo Botha</skip>
+                <skip>Alan Lyall</skip>
                 <third>Dylan Leader</third>
                 <second>Coenie Pieterse</second>
                 <lead>Andy Selby</lead>
             </fours>
             <trips>
                 <skip>Jaco van Deventer</skip>
-                <second>Alan Lyall</second>
+                <second>Rudo Botha</second>
                 <lead>Rodney Gray</lead>
             </trips>
             <venue>Rustenburg</venue>
@@ -25,7 +25,7 @@
             <division_type>Super 7's</division_type>
             <division_no>4</division_no>
             <fours>
-                <skip>Steve Turner</skip>
+                <skip>Ron McAslin</skip>
                 <third>Trevor Leader</third>
                 <second>Martin Janse</second>
                 <lead>Stitch Economakis</lead>
@@ -44,15 +44,15 @@
             <division_type>Super 7's</division_type>
             <division_no>4</division_no>
             <fours>
-                <skip>Ron McAslin</skip>
-                <third>Johan Landman</third>
-                <second>Ian Mclaren</second>
+                <skip>Ray Rhodes</skip>
+                <third>Brian Muldoon</third>
+                <second>Herman Sliep</second>
                 <lead>James Mnyalira</lead>
             </fours>
             <trips>
                 <skip>Zane Smith</skip>
-                <second>Ray Rhodes</second>
-                <lead>Herman Sliep</lead>
+                <second>Gavin Heine</second>
+                <lead>Hans Bakker</lead>
             </trips>
             <venue>Witpoortjie</venue>
             <opponent>Maraisburg</opponent>
@@ -64,17 +64,17 @@
             <division_no>2</division_no>
             <fours>
                 <skip>Peter Jacobs</skip>
-                <third>Brian Muldoon</third>
-                <second>Tom Kneen</second>
-                <lead>Hans Bakker</lead>
+                <third>Tom Kneen</third>
+                <second>Ian Mclaren</second>
+                <lead>Barry Rheeder</lead>
             </fours>
             <venue>Noordheuwel</venue>
             <opponent>Witpoortjie</opponent>
             <depart>12:45</depart>
             <captain>Peter Jacobs</captain>
         </team>
-        <reserves>Gino Lok, Barry Rheeder</reserves>
-        <unavailable>Glenn Minnaar, Joe Price, Sydney Rust, Cobus Smit, Willie Shaw, Philip Truter</unavailable>
+        <reserves>Gino Lok</reserves>
+        <unavailable>Johan Landman, Glenn Minnaar, Joe Price, Sydney Rust, Cobus Smit, Willie Shaw, Steve Turner, Philip Truter</unavailable>
         <selectionCommittee>Rodney Gray, Dylan Leader, Ronnie McAslin, Zane Smith, Jaco van Deventer (Convener)</selectionCommittee>
     </mens>
     <ladies>
