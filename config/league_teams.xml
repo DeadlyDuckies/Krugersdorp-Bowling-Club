@@ -1,43 +1,43 @@
 <league>
     <title>Krugersdorp Bowling Club League Teams</title>
-    <date>2017/02/24</date>
+    <date>2017/03/03</date>
     <mens>
         <team id="1">
             <division_type>Super 7's</division_type>
             <division_no>2</division_no>
             <fours>
-                <skip>Cobus Smit</skip>
+                <skip>Rudo Botha</skip>
                 <third>Dylan Leader</third>
                 <second>Coenie Pieterse</second>
                 <lead>Andy Selby</lead>
             </fours>
             <trips>
                 <skip>Jaco van Deventer</skip>
-                <second>Rudo Botha</second>
+                <second>Alan Lyall</second>
                 <lead>Rodney Gray</lead>
             </trips>
-            <venue>Leases</venue>
-            <opponent>Discovery (4)</opponent>
-            <depart>12:45</depart>
+            <venue>Rustenburg</venue>
+            <opponent>Discovery (3)</opponent>
+            <depart>11:30</depart>
             <captain>Dylan Leader</captain>
         </team>
         <team id="2">
             <division_type>Super 7's</division_type>
             <division_no>4</division_no>
             <fours>
-                <skip>Alan Lyall</skip>
-                <third>Steve Turner</third>
+                <skip>Steve Turner</skip>
+                <third>Trevor Leader</third>
                 <second>Martin Janse</second>
                 <lead>Stitch Economakis</lead>
             </fours>
             <trips>
                 <skip>Ray Green</skip>
                 <second>Lee Barnes</second>
-                <lead>Glenn Minnaar</lead>
+                <lead>Rick van Zyl</lead>
             </trips>
-            <venue>Krugersdorp</venue>
-            <opponent>Maraisburg</opponent>
-            <depart>N/A</depart>
+            <venue>Witpoortjie</venue>
+            <opponent>Ruimsig (3)</opponent>
+            <depart>12:45</depart>
             <captain>Ray Green</captain>
         </team>
         <team id="3">
@@ -46,17 +46,17 @@
             <fours>
                 <skip>Ron McAslin</skip>
                 <third>Johan Landman</third>
-                <second>Joe Price</second>
-                <lead>Rick van Zyl</lead>
+                <second>Ian Mclaren</second>
+                <lead>James Mnyalira</lead>
             </fours>
             <trips>
                 <skip>Zane Smith</skip>
                 <second>Ray Rhodes</second>
                 <lead>Herman Sliep</lead>
             </trips>
-            <venue>Krugersdorp</venue>
-            <opponent>Witpoortjie</opponent>
-            <depart>N/A</depart>
+            <venue>Witpoortjie</venue>
+            <opponent>Maraisburg</opponent>
+            <depart>12:45</depart>
             <captain>Ron McAslin</captain>
         </team>
         <team id="4">
@@ -68,13 +68,13 @@
                 <second>Tom Kneen</second>
                 <lead>Hans Bakker</lead>
             </fours>
-            <venue>Discovery</venue>
-            <opponent>Ruimsig (2)</opponent>
+            <venue>Noordheuwel</venue>
+            <opponent>Witpoortjie</opponent>
             <depart>12:45</depart>
             <captain>Peter Jacobs</captain>
         </team>
-        <reserves>Gino Lok, Ian Mclaren, James Mnyalira, Barry Rheeder</reserves>
-        <unavailable>Trevor Leader, Sydney Rust, Willie Shaw, Philip Truter</unavailable>
+        <reserves>Gino Lok, Barry Rheeder</reserves>
+        <unavailable>Glenn Minnaar, Joe Price, Sydney Rust, Cobus Smit, Willie Shaw, Philip Truter</unavailable>
         <selectionCommittee>Rodney Gray, Dylan Leader, Ronnie McAslin, Zane Smith, Jaco van Deventer (Convener)</selectionCommittee>
     </mens>
     <ladies>
@@ -92,9 +92,9 @@
                 <second>Amanda Bekker</second>
                 <lead>Kirstin Leader</lead>
             </trips>
-            <venue>Discovery</venue>
-            <opponent>Florida North</opponent>
-            <depart>12:45</depart>
+            <venue>Krugersdorp</venue>
+            <opponent>Discovery (3)</opponent>
+            <depart>N/A</depart>
             <captain>Eleanor Syme</captain>
         </team>
         <team id="2">
@@ -106,10 +106,10 @@
                 <second>Hester Hattingh</second>
                 <lead>Gina du Plooy</lead>
             </fours>
-            <venue>N/A</venue>
-            <opponent>N/A</opponent>
-            <depart>N/A</depart>
-            <captain>N/A</captain>
+            <venue>Witpoortjie</venue>
+            <opponent>Noordheuwel</opponent>
+            <depart>08:00</depart>
+            <captain>Eleanor Syme</captain>
         </team>
         <reserves>Theresa Klein</reserves>
         <unavailable> </unavailable>
