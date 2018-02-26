@@ -88,9 +88,9 @@
                 <lead>Karen Pieterse</lead>
             </fours>
             <trips>
-                <skip>Annie Turner</skip>
-                <second>Amanda Bekker</second>
-                <lead>Kirstin Leader</lead>
+                <skip>Amanda Bekker</skip>
+                <second>Kirstin Leader</second>
+                <lead>Theresa Klein</lead>
             </trips>
             <venue>Krugersdorp</venue>
             <opponent>Discovery (3)</opponent>
@@ -104,15 +104,15 @@
                 <skip>Eleanor Syme</skip>
                 <third>Shauna Sliep</third>
                 <second>Hester Hattingh</second>
-                <lead>Gina du Plooy</lead>
+                <lead>Valarie Nel</lead>
             </fours>
             <venue>Witpoortjie</venue>
             <opponent>Noordheuwel</opponent>
             <depart>08:00</depart>
             <captain>Eleanor Syme</captain>
         </team>
-        <reserves>Theresa Klein</reserves>
-        <unavailable> </unavailable>
+        <reserves> </reserves>
+        <unavailable>Gina du Plooy, Annie Turner</unavailable>
         <selectionCommittee>Amanda Bekker, Denise Clarence, Gina du Plooy, Shauna Sliep (Convener), Annie Turner</selectionCommittee>
     </ladies>
     <notes>
