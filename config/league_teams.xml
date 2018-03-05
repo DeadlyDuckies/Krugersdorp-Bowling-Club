@@ -1,31 +1,31 @@
 <league>
     <title>Krugersdorp Bowling Club League Teams</title>
-    <date>2017/03/03</date>
+    <date>2017/03/10</date>
     <mens>
         <team id="1">
             <division_type>Super 7's</division_type>
             <division_no>2</division_no>
             <fours>
-                <skip>Alan Lyall</skip>
+                <skip>Cobus Smit</skip>
                 <third>Dylan Leader</third>
                 <second>Coenie Pieterse</second>
                 <lead>Andy Selby</lead>
             </fours>
             <trips>
                 <skip>Jaco van Deventer</skip>
-                <second>Rudo Botha</second>
-                <lead>Rodney Gray</lead>
+                <second>Rodney Gray</second>
+                <lead>Glenn Minnaar</lead>
             </trips>
-            <venue>Rustenburg</venue>
-            <opponent>Discovery (3)</opponent>
-            <depart>11:30</depart>
+            <venue>Krugersdorp</venue>
+            <opponent>Honeydew (1)</opponent>
+            <depart>N/A</depart>
             <captain>Dylan Leader</captain>
         </team>
         <team id="2">
             <division_type>Super 7's</division_type>
             <division_no>4</division_no>
             <fours>
-                <skip>Ron McAslin</skip>
+                <skip>Alan Lyall</skip>
                 <third>Trevor Leader</third>
                 <second>Martin Janse</second>
                 <lead>Stitch Economakis</lead>
@@ -35,17 +35,17 @@
                 <second>Lee Barnes</second>
                 <lead>Rick van Zyl</lead>
             </trips>
-            <venue>Witpoortjie</venue>
-            <opponent>Ruimsig (3)</opponent>
-            <depart>12:45</depart>
+            <venue>Florida North</venue>
+            <opponent>Witpoortjie</opponent>
+            <depart>12:30</depart>
             <captain>Ray Green</captain>
         </team>
         <team id="3">
             <division_type>Super 7's</division_type>
             <division_no>4</division_no>
             <fours>
-                <skip>Ray Rhodes</skip>
-                <third>Brian Muldoon</third>
+                <skip>Ron McAslin</skip>
+                <third>Johan Landman</third>
                 <second>Herman Sliep</second>
                 <lead>James Mnyalira</lead>
             </fours>
@@ -54,9 +54,9 @@
                 <second>Gavin Heine</second>
                 <lead>Hans Bakker</lead>
             </trips>
-            <venue>Witpoortjie</venue>
-            <opponent>Maraisburg</opponent>
-            <depart>12:45</depart>
+            <venue>Florida North</venue>
+            <opponent>Florida North</opponent>
+            <depart>12:30</depart>
             <captain>Zane Smith</captain>
         </team>
         <team id="4">
@@ -64,40 +64,21 @@
             <division_no>2</division_no>
             <fours>
                 <skip>Peter Jacobs</skip>
-                <third>Tom Kneen</third>
-                <second>Ian Mclaren</second>
+                <third>Brian Muldoon</third>
+                <second>Tom Kneen</second>
                 <lead>Barry Rheeder</lead>
             </fours>
-            <venue>Noordheuwel</venue>
-            <opponent>Witpoortjie</opponent>
+            <venue>Ruimsig</venue>
+            <opponent>Noordheuwel (2)</opponent>
             <depart>12:45</depart>
             <captain>Peter Jacobs</captain>
         </team>
-        <reserves>Gino Lok</reserves>
-        <unavailable>Johan Landman, Glenn Minnaar, Joe Price, Sydney Rust, Cobus Smit, Willie Shaw, Philip Truter, Steve Turner</unavailable>
+        <reserves>Gino Lok, Joe Price, Ray Rhodes</reserves>
+        <unavailable>Rudo Botha, Sydney Rust, Willie Shaw, Philip Truter, Steve Turner</unavailable>
         <selectionCommittee>Rodney Gray, Dylan Leader, Ronnie McAslin, Zane Smith, Jaco van Deventer (Convener)</selectionCommittee>
     </mens>
     <ladies>
         <team id="1">
-            <division_type>Saturday Super 7's</division_type>
-            <division_no>3</division_no>
-            <fours>
-                <skip>Eleanor Syme</skip>
-                <third>Shauna Sliep</third>
-                <second>Hester Hattingh</second>
-                <lead>Karen Pieterse</lead>
-            </fours>
-            <trips>
-                <skip>Amanda Bekker</skip>
-                <second>Kirstin Leader</second>
-                <lead>Theresa Klein</lead>
-            </trips>
-            <venue>Krugersdorp</venue>
-            <opponent>Discovery (3)</opponent>
-            <depart>N/A</depart>
-            <captain>Eleanor Syme</captain>
-        </team>
-        <team id="2">
             <division_type>Wednesday Super 4's</division_type>
             <division_no>2</division_no>
             <fours>
@@ -106,8 +87,8 @@
                 <second>Hester Hattingh</second>
                 <lead>Valarie Nel</lead>
             </fours>
-            <venue>Witpoortjie</venue>
-            <opponent>Noordheuwel</opponent>
+            <venue>Ruimsig</venue>
+            <opponent>Randfontein (1)</opponent>
             <depart>08:00</depart>
             <captain>Eleanor Syme</captain>
         </team>
