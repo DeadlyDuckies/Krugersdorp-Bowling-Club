@@ -81,11 +81,11 @@
                             <tbody>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Social Bowls - Member</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 10.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 15.00</td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Social Bowls - Non Member </td>
-                                    <td class="body-item mbr-fonts-style display-7">R 15.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 20.00</td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">League Games</td>
@@ -96,19 +96,15 @@
                                     <td class="body-item mbr-fonts-style display-7">R 30.00</td>
                                 </tr>
                                 <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Gauteng Open Competition Entry (Pairs and Fours) - 2017</td>
+                                    <td class="body-item mbr-fonts-style display-7">Gauteng Open Competition Entry - 2018</td>
                                     <td class="body-item mbr-fonts-style display-7">R 130.00</td>
                                 </tr>
                                 <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Gauteng Open Competition Entry (Singles) - 2017</td>
+                                    <td class="body-item mbr-fonts-style display-7">South African Nationals Competition Entry (Pairs and Fours) - 2018</td>
                                     <td class="body-item mbr-fonts-style display-7">R 100.00</td>
                                 </tr>
                                 <tr>
-                                    <td class="body-item mbr-fonts-style display-7">South African Nationals Competition Entry (Pairs and Fours) - 2017</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 100.00</td>
-                                </tr>
-                                <tr>
-                                    <td class="body-item mbr-fonts-style display-7">South African Nationals Competition Entry (Singles) - 2017</td>
+                                    <td class="body-item mbr-fonts-style display-7">South African Nationals Competition Entry (Singles) - 2018</td>
                                     <td class="body-item mbr-fonts-style display-7">R 25.00</td>
                                 </tr>
                             </tbody>
@@ -178,7 +174,7 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Entrance fee under 25 years</td>
+                                    <td class="body-item mbr-fonts-style display-7">Entrance fee for ages under the age of 25 (Scholars/Students)</td>
                                     <td class="body-item mbr-fonts-style display-7">R 0.00</td>
                                 </tr>
                                 <tr>
@@ -186,19 +182,27 @@
                                     <td class="body-item mbr-fonts-style display-7">R 100.00</td>
                                 </tr>
                                 <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Subs under 25 years</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 550.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">Subs for under 19 years of age</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 0.00</td>
                                 </tr>
                                 <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Subs between 25 - 59 years</td>
+                                    <td class="body-item mbr-fonts-style display-7">Subs for ages 19 to 25 years of age (Scholars/Students)</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 575.00</td>
+                                </tr>
+                                <tr>
+                                    <td class="body-item mbr-fonts-style display-7">Subs for ages 19 to 25 years of age (Non - Scholars/Students)</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 875.00</td>
+                                </tr>
+                                <tr>
+                                    <td class="body-item mbr-fonts-style display-7">Subs for ages 26 to 59 (Normal subs)</td>
                                     <td class="body-item mbr-fonts-style display-7">R 1,170.00</td>
                                 </tr>
                                 <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Subs between 60 - 79 years</td>
+                                    <td class="body-item mbr-fonts-style display-7">Subs for ages 60 to 79</td>
                                     <td class="body-item mbr-fonts-style display-7">R 1,070.00</td>
                                 </tr>
                                 <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Subs over 80 years</td>
+                                    <td class="body-item mbr-fonts-style display-7">Subs for ages over 80</td>
                                     <td class="body-item mbr-fonts-style display-7">R 650.00</td>
                                 </tr>
                                 <tr>
@@ -206,23 +210,27 @@
                                     <td class="body-item mbr-fonts-style display-7">R 650.00</td>
                                 </tr>
                                 <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Rebate for married couples</td>
+                                    <td class="body-item mbr-fonts-style display-7">Rebate for married couples (Both being members of the club)</td>
                                     <td class="body-item mbr-fonts-style display-7">R 100.00 <strong>-</strong></td>
                                 </tr>
                                 <tr>
-                                    <td class="body-item mbr-fonts-style display-7">BSA fee</td>
+                                    <td class="body-item mbr-fonts-style display-7">Bowls South Africa (BSA) affiliation fees (All bowlers must pay this)</td>
                                     <td class="body-item mbr-fonts-style display-7">R 210.00</td>
                                 </tr>
                                 <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Sables fee under 60 years</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 265.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">Sables affiliation fee for under 19</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 100.00</td>
                                 </tr>
                                 <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Sables fee between 60 - 79 years</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 214.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">Sables affiliation fee for ages 20 to 59</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 260.00</td>
                                 </tr>
                                 <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Sables fee over 80 years</td>
+                                    <td class="body-item mbr-fonts-style display-7">Sables affiliation fee for ages 60 - 79 years</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 201.00</td>
+                                </tr>
+                                <tr>
+                                    <td class="body-item mbr-fonts-style display-7">Sables affiliation fee for over 80</td>
                                     <td class="body-item mbr-fonts-style display-7">R 0.00</td>
                                 </tr>
                             </tbody>

@@ -27,17 +27,6 @@
                         <h2 class="align-center pb-3 mbr-fonts-style display-2">
                             League Teams
                         </h2>
-                        <h2 id="title_date" class="align-center pb-3 mbr-fonts-style display-2">
-                        </h2>
-                        <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">
-                            <a href="league_teams_excel.php">
-                                <img src="assets/images/icons/microsoft_office_excel.svg" class="img-responsive clients-img" media-simple="true"
-                                     width="200" height="40">
-                            </a>
-                        </h3>
-                        <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">
-                            Men
-                        </h3>
                     </div>
                 </div>
             </div>
@@ -47,45 +36,98 @@
             <div class="container container-table">
                 <div class="table-wrapper">
                     <div class="container">
-                        <div id="mens_league_html"></div>
+                        <br>
+                        <br>
+                        <p>
+                            League for the 2017/2018 Season has been concluded.
+                        </p>
+                        <br>
+                        <br>
+                        <p>
+                            <strong>
+                            Well done to the Men for winning the second division and being promoted back into the
+                            Premier Division!
+                            </strong>
+                        </p>
+                        <p>
+                            <strong>
+                            Well done to the Ladies for winning the third division and being promoted to the second
+                            division!
+                            </strong>
+                        </p>
+                        <br>
+                        <br>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section class="mbr-section content4 cid-qztSxSN3he" id="content4-20" data-rv-view="130">
-            <div class="container">
-                <div class="media-container-row">
-                    <div class="title col-12 col-md-8">
-                        <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">
-                            Ladies
-                        </h3>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="section-table cid-qztItQMCpK" id="table1-1t" data-rv-view="84">
-            <div class="container container-table">
-                <div class="table-wrapper">
-                    <div class="container">
-                        <div id="ladies_league_html"></div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="mbr-section content4 cid-qztSxSN3he" id="content4-20" data-rv-view="130">
-            <div class="container">
-                <div class="media-container-row">
-                    <div class="title col-12 col-md-8">
-                        <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">
-                            Selection Committees
-                        </h3>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <!--        <section class="mbr-section content4 cid-qztSogXpZy" id="content4-1z" data-rv-view="130">-->
+<!--            <div class="container">-->
+<!--                <div class="media-container-row">-->
+<!--                    <div class="title col-12 col-md-8">-->
+<!--                        <h2 class="align-center pb-3 mbr-fonts-style display-2">-->
+<!--                            League Teams-->
+<!--                        </h2>-->
+<!--                        <h2 id="title_date" class="align-center pb-3 mbr-fonts-style display-2">-->
+<!--                        </h2>-->
+<!--                        <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">-->
+<!--                            <a href="league_teams_excel.php">-->
+<!--                                <img src="assets/images/icons/microsoft_office_excel.svg" class="img-responsive clients-img" media-simple="true"-->
+<!--                                     width="200" height="40">-->
+<!--                            </a>-->
+<!--                        </h3>-->
+<!--                        <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">-->
+<!--                            Men-->
+<!--                        </h3>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </section>-->
+<!---->
+<!--        <section class="section-table cid-qztItQMCpK" id="table1-1t" data-rv-view="84">-->
+<!--            <div class="container container-table">-->
+<!--                <div class="table-wrapper">-->
+<!--                    <div class="container">-->
+<!--                        <div id="mens_league_html"></div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </section>-->
+<!---->
+<!--        <section class="mbr-section content4 cid-qztSxSN3he" id="content4-20" data-rv-view="130">-->
+<!--            <div class="container">-->
+<!--                <div class="media-container-row">-->
+<!--                    <div class="title col-12 col-md-8">-->
+<!--                        <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">-->
+<!--                            Ladies-->
+<!--                        </h3>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </section>-->
+<!---->
+<!--        <section class="section-table cid-qztItQMCpK" id="table1-1t" data-rv-view="84">-->
+<!--            <div class="container container-table">-->
+<!--                <div class="table-wrapper">-->
+<!--                    <div class="container">-->
+<!--                        <div id="ladies_league_html"></div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </section>-->
+<!---->
+<!--        <section class="mbr-section content4 cid-qztSxSN3he" id="content4-20" data-rv-view="130">-->
+<!--            <div class="container">-->
+<!--                <div class="media-container-row">-->
+<!--                    <div class="title col-12 col-md-8">-->
+<!--                        <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">-->
+<!--                            Selection Committees-->
+<!--                        </h3>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </section>-->
 
         <section class="section-table cid-qztItQMCpK" id="table1-1t" data-rv-view="84">
             <div class="container container-table">

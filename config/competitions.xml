@@ -485,7 +485,7 @@
             <game id="1">
                 <home>4</home>
                 <away>6</away>
-                <winner> </winner>
+                <winner>6</winner>
             </game>
             <game id="2">
                 <home>9</home>
@@ -496,7 +496,7 @@
         <round id="4">
             <completedBy>2018/04/30</completedBy>
             <game id="1">
-                <home> </home>
+                <home>6</home>
                 <away>13</away>
                 <winner> </winner>
             </game>
@@ -754,7 +754,7 @@
             <game id="1">
                 <home>4</home>
                 <away>13</away>
-                <winner> </winner>
+                <winner>4</winner>
             </game>
             <game id="2">
                 <home>17</home>
@@ -765,7 +765,7 @@
         <round id="5">
             <completedBy>2018/05/31</completedBy>
             <game id="1">
-                <home> </home>
+                <home>4</home>
                 <away> </away>
                 <winner> </winner>
             </game>
@@ -892,7 +892,7 @@
             <game id="1">
                 <home>1</home>
                 <away>7</away>
-                <winner> </winner>
+                <winner>7</winner>
             </game>
             <game id="2">
                 <home>12</home>
@@ -903,7 +903,7 @@
         <round id="3">
             <completedBy>2018/04/30</completedBy>
             <game id="1">
-                <home> </home>
+                <home>7</home>
                 <away>14</away>
                 <winner> </winner>
             </game>
@@ -1143,7 +1143,7 @@
             <game id="2">
                 <home>11</home>
                 <away>15</away>
-                <winner> </winner>
+                <winner>11</winner>
             </game>
             <game id="3">
                 <home>19</home>
@@ -1160,20 +1160,20 @@
             <completedBy>2018/04/30</completedBy>
             <game id="1">
                 <home>6</home>
-                <away> </away>
+                <away>11</away>
                 <winner> </winner>
             </game>
             <game id="2">
                 <home>19</home>
                 <away>31</away>
-                <winner> </winner>
+                <winner>31</winner>
             </game>
         </round>
         <round id="5">
             <completedBy>2018/05/31</completedBy>
             <game id="1">
                 <home> </home>
-                <away> </away>
+                <away>31</away>
                 <winner> </winner>
             </game>
         </round>
@@ -1289,7 +1289,7 @@
         <round id="4">
             <completedBy>2018/04/30</completedBy>
             <game id="1">
-                <home> </home>
+                <home>1</home>
                 <away> </away>
                 <winner> </winner>
             </game>
@@ -1522,32 +1522,32 @@
             <game id="1">
                 <home>2</home>
                 <away>3</away>
-                <winner> </winner>
+                <winner>2</winner>
             </game>
             <game id="2">
                 <home>6</home>
                 <away>7</away>
-                <winner> </winner>
+                <winner>6</winner>
             </game>
             <game id="3">
                 <home>9</home>
                 <away>11</away>
-                <winner> </winner>
+                <winner>9</winner>
             </game>
             <game id="4">
                 <home>13</home>
                 <away>14</away>
-                <winner> </winner>
+                <winner>14</winner>
             </game>
             <game id="5">
                 <home>15</home>
                 <away>16</away>
-                <winner> </winner>
+                <winner>15</winner>
             </game>
             <game id="6">
                 <home>17</home>
                 <away>18</away>
-                <winner> </winner>
+                <winner>17</winner>
             </game>
             <game id="7">
                 <home>19</home>
@@ -1557,29 +1557,29 @@
             <game id="8">
                 <home>21</home>
                 <away>22</away>
-                <winner> </winner>
+                <winner>22</winner>
             </game>
         </round>
         <round id="3">
             <completedBy>2018/05/13</completedBy>
             <game id="1">
-                <home> </home>
-                <away> </away>
+                <home>2</home>
+                <away>6</away>
                 <winner> </winner>
             </game>
             <game id="2">
-                <home> </home>
-                <away> </away>
+                <home>9</home>
+                <away>14</away>
                 <winner> </winner>
             </game>
             <game id="3">
-                <home> </home>
-                <away> </away>
+                <home>15</home>
+                <away>17</away>
                 <winner> </winner>
             </game>
             <game id="4">
                 <home>19</home>
-                <away> </away>
+                <away>22</away>
                 <winner> </winner>
             </game>
         </round>
