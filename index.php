@@ -27,11 +27,6 @@
                         <h2 class="align-center pb-3 mbr-fonts-style display-2">
                             Welcome to Krugersdorp Bowling Club
                         </h2>
-                        <a href="assets/images/KBC_U35_Poster.jpg">
-                            <h5 style="border: solid #0c379b; background: #0c379b; color: white">
-                                <b>NEWS FLASH!!!!</b> Entries are now open for our KBC U35 Invitational Singles!
-                            </h5>
-                        </a>
                     </div>
                 </div>
             </div>
@@ -40,6 +35,7 @@
         <section class="cid-qztagOMwAz" id="image2-1m" data-rv-view="8">
             <figure class="mbr-figure container">
                 <div class="w3-content w3-display-container w3-section">
+                    <img class="mySlides" src="assets/images/KBC_U35_2018.jpg" style="width:100%">
                     <img class="mySlides" src="assets/images/GoldRush2017Winners.jpeg" style="width:100%">
                     <img class="mySlides" src="assets/images/homePage.jpg" style="width:100%">
                 </div>

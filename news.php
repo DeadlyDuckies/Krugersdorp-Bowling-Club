@@ -34,9 +34,168 @@
                     <div id="bootstrap-accordion_33" class="panel-group accordionStyles accordion" role="tablist"
                          aria-multiselectable="false">
                         <div class="card">
-                            <div class="card-header" role="tab" id="goldRush2017Heading">
+                            <div class="card-header" role="tab" id="u35Singles2018Heading">
                                 <a role="button" class="panel-title collapsed text-black" data-toggle="collapse"
-                                   data-parent="#bootstrap-accordion_33" data-core="" href="#goldRush2017Content"
+                                   data-parent="#bootstrap-accordion_33" data-core="" href="#u35Singles2018Content"
+                                   aria-expanded="false" aria-controls="collapse1">
+                                    <h4 class="mbr-fonts-style display-5">
+                                        <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
+                                        U35 Invitational Singles 2018
+                                    </h4>
+                                </a>
+                            </div>
+                            <div id="u35Singles2018Content" class="panel-collapse noScroll collapse" role="tabpanel"
+                                 aria-labelledby="u35Singles2018Heading">
+                                <div class="panel-body p-4">
+                                    <p class="mbr-fonts-style panel-text display-7">
+                                        Dear Sir / Madam
+                                        <br>
+                                        <br>
+                                        Krugersdorp Bowling Club held an inaugural U/35’s singles bowling tournament
+                                        over the weekend of the 28th / 29th April 2018.
+                                        <br>
+                                        We had 36 players who entered, with 3 players in reserve in case anyone pulled
+                                        out at the last minute, representing about 12 clubs from 5 different districts.
+                                        The districts that were represented were, Port Natal; JBA; Ekurhuleni; Sables
+                                        and North West, which was impressive spread across South Africa, considering
+                                        this was the “first of its kind” event held in our region.
+                                        <br>
+                                        <img src="assets/images/KBC_U35_Entries_2018.jpg" style="width:100%">
+                                        <br>
+                                        <br>
+                                        The players were greeted with a “welcome pack” which included a few small gifts,
+                                        as well as the conditions of play for the weekend. After a welcoming speech from
+                                        our President, they began to start playing at about 09h00.
+                                        <br>
+                                        <img src="assets/images/KBC_U35_Welcome_Gift_2018.jpg" style="width:100%">
+                                        <br>
+                                        <br>
+                                        There were 6 sections with 6 players per section, the sections were determined
+                                        by the players drawing a “playing number” on registration, which ensured
+                                        complete fairness when doing the draw for the tournament.
+                                        <br>
+                                        Each competitor played 5 sectional games, and the winner of each section, which,
+                                        along with the 2 best runners up, determined the top 8.
+                                        <br>
+                                        <br>
+                                        The top 8, then went on to play a “knock out” type event, which eventually
+                                        produced a winner of the tournament.
+                                        <br>
+                                        The other players who did not make the top 8, played in a 2 game plate event,
+                                        with the winner also receiving some prize money.
+                                        <br>
+                                        <br>
+                                        <strong>
+                                            THE TOP 8
+                                        </strong>
+                                        <br>
+                                        <img src="assets/images/KBC_U35_Finalists_2018.jpg" style="width:100%">
+                                        <br>
+                                        <br>
+                                        There were some fantastic bowls played over the weekend, which ended with a
+                                        final, on Sunday afternoon, which would compare, “bowls wise”, to any district
+                                        or National finals.
+                                        <br>
+                                        <br>
+                                        Even though this was a very competitive tournament, the spirit, camaraderie and
+                                        companionship that was shown between the players was highly impressive, and
+                                        something to behold.
+                                        <br>
+                                        <br>
+                                        A special mention must be given to the Markers and the umpires, from Krugersdorp
+                                        Bowling Club, who gave up their weekend of bowls to stand and mark all the
+                                        games.
+                                        <br>
+                                        <br>
+                                        <strong>
+                                            THE MARKERS
+                                        </strong>
+                                        <br>
+                                        <img src="assets/images/KBC_U35_Markers_2018.jpg" style="width:100%">
+                                        <img src="assets/images/KBC_U35_Umpires_2018.jpg" style="width:100%">
+                                        <br>
+                                        <br>
+                                        After a fantastic weekend of competition, the following players were declared
+                                        the winners:
+                                        <strong>
+                                            Tournament winner: Jason Janse Van Rensburg
+                                        </strong>
+                                        <br>
+                                        Runner up: Scott Blyth
+                                        <br>
+                                        3rd place: Wayne Rittmuller
+                                        <br>
+                                        4th Place: Ryan Smith
+                                        <br>
+                                        5th Place: Jarryd Ramsden
+                                        <br>
+                                        6th Place: Dylan Leader
+                                        <br>
+                                        7th Place: Jason Van Staden
+                                        <br>
+                                        8th Place: Rikus Heystek
+                                        <br>
+                                        Plate event winner: Alexandra Hanegraaf
+                                        <br>
+                                        <br>
+                                        The Final
+                                        <br>
+                                        <img src="assets/images/KBC_U35_1_2_Place_2018.jpg" style="width:100%">
+                                        <br>
+                                        3rd and 4th place
+                                        <br>
+                                        <img src="assets/images/KBC_U35_3_4_Place_2018.jpg" style="width:100%">
+                                        <br>
+                                        5th and 6th place
+                                        <br>
+                                        <img src="assets/images/KBC_U35_5_6_Place_2018.jpg" style="width:100%">
+                                        <br>
+                                        7th and 8th place
+                                        <br>
+                                        <img src="assets/images/KBC_U35_7_8_Place_2018.jpg" style="width:100%">
+                                        <br>
+                                        Plate event winner
+                                        <br>
+                                        <img src="assets/images/KBC_U35_Plate_2018.jpg">
+                                        <br>
+                                        <br>
+                                        “All in all” this was an extremely successful tournament, that was played in the
+                                        spirit that bowls was intended to be played in, on great greens, and it was
+                                        exceptionally organised by a dedicated committee that ran the tournament like
+                                        clockwork.
+                                        <br>
+                                        <br>
+                                        It was a privilege to be part of this U/35’s singles tournament, and it will
+                                        definitely become a Krugersdorp Bowling Club annual event, which, with the help
+                                        of our sponsorship, we will ensure grows from strength to strength.
+                                        <br>
+                                        <br>
+                                        Should you require any further information regarding the above, please do not
+                                        hesitate to contact me.
+                                        <br>
+                                        Yours Sincerely
+                                        <br>
+                                        <br>
+                                        Andy Selby
+                                        <br>
+                                        President
+                                        <br>
+                                        <br>
+                                        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D795464903977525%26id%3D338275893029764&width=500" width="500" height="683" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                                        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D795814290609253%26id%3D338275893029764&width=500" width="500" height="645" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                                        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D795849713939044%26id%3D338275893029764&width=500" width="500" height="702" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                                        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D797003267157022%26id%3D338275893029764&width=500" width="500" height="645" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                                        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D797112387146110%26id%3D338275893029764&width=500" width="500" height="626" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                                        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D797120870478595%26id%3D338275893029764&width=500" width="500" height="683" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                                        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D802891326568216%26id%3D338275893029764&width=500" width="500" height="472" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" role="tab" id="januaryNewsLetter2018Heading">
+                                <a role="button" class="panel-title collapsed text-black" data-toggle="collapse"
+                                   data-parent="#bootstrap-accordion_33" data-core="" href="#januaryNewsLetter2018Content"
                                    aria-expanded="false" aria-controls="collapse1">
                                     <h4 class="mbr-fonts-style display-5">
                                         <span class="sign mbr-iconfont mbri-arrow-down inactive"></span>
@@ -44,8 +203,8 @@
                                     </h4>
                                 </a>
                             </div>
-                            <div id="goldRush2017Content" class="panel-collapse noScroll collapse" role="tabpanel"
-                                 aria-labelledby="goldRush2017Heading">
+                            <div id="januaryNewsLetter2018Content" class="panel-collapse noScroll collapse" role="tabpanel"
+                                 aria-labelledby="januaryNewsLetter2018Heading">
                                 <div class="panel-body p-4">
                                     <p class="mbr-fonts-style panel-text display-7">
                                         <strong>Fellow Bowlers</strong>

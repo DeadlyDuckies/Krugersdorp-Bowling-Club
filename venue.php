@@ -60,45 +60,8 @@
                             <br>
                             Phone: (011) 664 6062
                         </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="features15 cid-qztVQhAOgf" id="features15-25" data-rv-view="135">
-            <div class="container">
-                <div class="media-container-row container pt-0 mt-0">
-                    <div class="col-12 col-md-6 mb-4 col-lg-4">
-                        <div class="card flip-card p-5 align-center">
-                            <div class="card-front card_cont">
-                                <img src="assets/images/kbc-background-2-768x768.jpg" title=""
-                                     media-simple="true">
-                            </div>
-                            <div class="card_back card_cont">
-                                <h4 class="card-title display-5 py-2 mbr-fonts-style">
-                                    Cash Bar
-                                </h4>
-                                <p class="mbr-text mbr-fonts-style display-7">
-                                    Krugersdorp Bowling Club offers a cash bar with card facilities.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 mb-4 col-lg-4">
-                        <div class="card flip-card p-5 align-center">
-                            <div class="card-front card_cont">
-                                <img src="assets/images/kbc-background-3-2000x1333.jpg" title=""
-                                     media-simple="true">
-                            </div>
-                            <div class="card_back card_cont">
-                                <h4 class="card-title py-2 mbr-fonts-style display-5">
-                                    Affordable
-                                </h4>
-                                <p class="mbr-text mbr-fonts-style display-7">
-                                    Krugersdorp Bowling Club offer very affordable rates for the venue it offers.
-                                </p>
-                            </div>
-                        </div>
+                        <img src="assets/images/KBC_Main_Hall_Function_01.jpg" style="width:100%">
+                        <img src="assets/images/KBC_Club.jpg" style="width:100%">
                     </div>
                 </div>
             </div>

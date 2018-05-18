@@ -52,7 +52,7 @@
                     </div>
                 </div>
                 <div class="w3-content w3-display-container w3-section">
-                    <img class="upcomingSlides" src="assets/images/KBC_U35_Poster.jpg" style="width:100%">
+                    <img class="upcomingSlides" src="assets/images/CANSA_KBC_Poster_2018.jpg" style="width:100%">
                     <img class="upcomingSlides" src="assets/images/KBC_Joker.jpg" style="width:100%">
                 </div>
                 <script>

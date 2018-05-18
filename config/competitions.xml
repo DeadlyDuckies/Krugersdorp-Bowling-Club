@@ -362,7 +362,7 @@
             </game>
         </round>
         <round id="5">
-            <completedBy>2018/03/31</completedBy>
+            <completedBy>TBC</completedBy>
             <game id="1">
                 <home>8</home>
                 <away>17</away>
@@ -494,7 +494,7 @@
             </game>
         </round>
         <round id="4">
-            <completedBy>2018/04/30</completedBy>
+            <completedBy>TBC</completedBy>
             <game id="1">
                 <home>6</home>
                 <away>13</away>
@@ -759,14 +759,14 @@
             <game id="2">
                 <home>17</home>
                 <away>28</away>
-                <winner> </winner>
+                <winner>28</winner>
             </game>
         </round>
         <round id="5">
-            <completedBy>2018/05/31</completedBy>
+            <completedBy>TBC</completedBy>
             <game id="1">
                 <home>4</home>
-                <away> </away>
+                <away>28</away>
                 <winner> </winner>
             </game>
         </round>
@@ -901,7 +901,7 @@
             </game>
         </round>
         <round id="3">
-            <completedBy>2018/04/30</completedBy>
+            <completedBy>TBC</completedBy>
             <game id="1">
                 <home>7</home>
                 <away>14</away>
@@ -1161,7 +1161,7 @@
             <game id="1">
                 <home>6</home>
                 <away>11</away>
-                <winner> </winner>
+                <winner>11</winner>
             </game>
             <game id="2">
                 <home>19</home>
@@ -1170,9 +1170,9 @@
             </game>
         </round>
         <round id="5">
-            <completedBy>2018/05/31</completedBy>
+            <completedBy>TBC</completedBy>
             <game id="1">
-                <home> </home>
+                <home>11</home>
                 <away>31</away>
                 <winner> </winner>
             </game>
@@ -1287,7 +1287,7 @@
             </game>
         </round>
         <round id="4">
-            <completedBy>2018/04/30</completedBy>
+            <completedBy>TBC</completedBy>
             <game id="1">
                 <home>1</home>
                 <away> </away>
@@ -1358,7 +1358,7 @@
             </game>
         </round>
         <round id="3">
-            <completedBy>2018/03/31</completedBy>
+            <completedBy>TBC</completedBy>
             <game id="1">
                 <home>2</home>
                 <away>5</away>
@@ -1575,12 +1575,12 @@
             <game id="3">
                 <home>15</home>
                 <away>17</away>
-                <winner> </winner>
+                <winner>15</winner>
             </game>
             <game id="4">
                 <home>19</home>
                 <away>22</away>
-                <winner> </winner>
+                <winner>19</winner>
             </game>
         </round>
         <round id="4">
@@ -1591,8 +1591,8 @@
                 <winner> </winner>
             </game>
             <game id="2">
-                <home> </home>
-                <away> </away>
+                <home>15</home>
+                <away>19</away>
                 <winner> </winner>
             </game>
         </round>
