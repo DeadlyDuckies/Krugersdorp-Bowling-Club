@@ -1,5 +1,5 @@
 <competitions>
-    <lastUpdated>2018/04/23</lastUpdated>
+    <lastUpdated>2018/05/19</lastUpdated>
     <competition id="1">
         <name>Ladies Pairs Initial Round</name>
         <team id="1">
@@ -1565,7 +1565,7 @@
             <game id="1">
                 <home>2</home>
                 <away>6</away>
-                <winner> </winner>
+                <winner>2</winner>
             </game>
             <game id="2">
                 <home>9</home>
@@ -1586,7 +1586,7 @@
         <round id="4">
             <completedBy>2018/06/03</completedBy>
             <game id="1">
-                <home> </home>
+                <home>2</home>
                 <away> </away>
                 <winner> </winner>
             </game>
