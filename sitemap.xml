@@ -6,79 +6,92 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
   <loc>http://www.krugersdorpbowlingclub.co.za/</loc>
-  <changefreq>always</changefreq>
+  <lastmod>2018-07-09T05:34:42+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.krugersdorpbowlingclub.co.za/index.php</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.krugersdorpbowlingclub.co.za/index</loc>
+  <lastmod>2018-07-09T05:34:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.krugersdorpbowlingclub.co.za/contact.php</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.krugersdorpbowlingclub.co.za/contact</loc>
+  <lastmod>2018-07-09T05:34:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.krugersdorpbowlingclub.co.za/history.php</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.krugersdorpbowlingclub.co.za/history</loc>
+  <lastmod>2018-07-09T05:34:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.krugersdorpbowlingclub.co.za/constitution.php</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.krugersdorpbowlingclub.co.za/constitution</loc>
+  <lastmod>2018-07-09T05:34:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.krugersdorpbowlingclub.co.za/committee.php</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.krugersdorpbowlingclub.co.za/committee</loc>
+  <lastmod>2018-07-09T05:34:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.krugersdorpbowlingclub.co.za/coaches.php</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.krugersdorpbowlingclub.co.za/coaches</loc>
+  <lastmod>2018-07-09T05:34:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.krugersdorpbowlingclub.co.za/dress.php</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.krugersdorpbowlingclub.co.za/clothing</loc>
+  <lastmod>2018-07-09T05:34:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.krugersdorpbowlingclub.co.za/fees.php</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.krugersdorpbowlingclub.co.za/fees</loc>
+  <lastmod>2018-07-09T05:34:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.krugersdorpbowlingclub.co.za/upcoming_events.php</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.krugersdorpbowlingclub.co.za/markers_guide</loc>
+  <lastmod>2018-07-09T05:34:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.krugersdorpbowlingclub.co.za/calendar.php</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.krugersdorpbowlingclub.co.za/upcoming_events</loc>
+  <lastmod>2018-07-09T05:34:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.krugersdorpbowlingclub.co.za/news.php</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.krugersdorpbowlingclub.co.za/outside_competitions</loc>
+  <lastmod>2018-07-09T05:34:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.krugersdorpbowlingclub.co.za/competitions.php</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.krugersdorpbowlingclub.co.za/calendar</loc>
+  <lastmod>2018-07-09T05:34:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.krugersdorpbowlingclub.co.za/league_teams.php</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.krugersdorpbowlingclub.co.za/news</loc>
+  <lastmod>2018-07-09T05:34:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.krugersdorpbowlingclub.co.za/venue.php</loc>
-  <changefreq>always</changefreq>
+  <loc>http://www.krugersdorpbowlingclub.co.za/competitions</loc>
+  <lastmod>2018-07-09T05:34:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+<url>
+  <loc>http://www.krugersdorpbowlingclub.co.za/league_teams</loc>
+  <lastmod>2018-07-09T05:34:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.krugersdorpbowlingclub.co.za/venue</loc>
+  <lastmod>2018-07-09T05:34:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
