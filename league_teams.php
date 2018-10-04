@@ -57,6 +57,11 @@
                         </p>
                         <br>
                         <br>
+                        <p>
+                            League for the 2018/2019 will start on the 20th of October 2018.
+                        </p>
+                        <br>
+                        <br>
                     </div>
                 </div>
             </div>
@@ -133,8 +138,7 @@
             <div class="container container-table">
                 <div class="table-wrapper">
                     <div class="container">
-                        <p id="mens_league_selection_committee"></p>
-                        <p id="ladies_league_selection_committee"></p>
+                        <p id="league_selection_committee"></p>
                         <div>
                             <br>
                             <br>

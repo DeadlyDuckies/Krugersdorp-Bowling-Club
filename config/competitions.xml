@@ -1,5 +1,5 @@
 <competitions>
-    <lastUpdated>2018/05/19</lastUpdated>
+    <lastUpdated>2018/09/14</lastUpdated>
     <competition id="1">
         <name>Ladies Pairs Initial Round</name>
         <team id="1">
@@ -362,11 +362,11 @@
             </game>
         </round>
         <round id="5">
-            <completedBy>TBC</completedBy>
+            <completedBy>NO DATE</completedBy>
             <game id="1">
                 <home>8</home>
                 <away>17</away>
-                <winner> </winner>
+                <winner>17</winner>
             </game>
         </round>
     </competition>
@@ -494,11 +494,11 @@
             </game>
         </round>
         <round id="4">
-            <completedBy>TBC</completedBy>
+            <completedBy>NO DATE</completedBy>
             <game id="1">
                 <home>6</home>
                 <away>13</away>
-                <winner> </winner>
+                <winner>6</winner>
             </game>
         </round>
     </competition>
@@ -763,11 +763,11 @@
             </game>
         </round>
         <round id="5">
-            <completedBy>TBC</completedBy>
+            <completedBy>NO DATE</completedBy>
             <game id="1">
                 <home>4</home>
                 <away>28</away>
-                <winner> </winner>
+                <winner>28</winner>
             </game>
         </round>
     </competition>
@@ -901,11 +901,11 @@
             </game>
         </round>
         <round id="3">
-            <completedBy>TBC</completedBy>
+            <completedBy>NO DATE</completedBy>
             <game id="1">
                 <home>7</home>
                 <away>14</away>
-                <winner> </winner>
+                <winner>14</winner>
             </game>
         </round>
     </competition>
@@ -1170,11 +1170,11 @@
             </game>
         </round>
         <round id="5">
-            <completedBy>TBC</completedBy>
+            <completedBy>NO DATE</completedBy>
             <game id="1">
                 <home>11</home>
                 <away>31</away>
-                <winner> </winner>
+                <winner>31</winner>
             </game>
         </round>
     </competition>
@@ -1283,15 +1283,15 @@
             <game id="2">
                 <home>6</home>
                 <away>8</away>
-                <winner> </winner>
+                <winner>6</winner>
             </game>
         </round>
         <round id="4">
-            <completedBy>TBC</completedBy>
+            <completedBy>NO DATE</completedBy>
             <game id="1">
                 <home>1</home>
-                <away> </away>
-                <winner> </winner>
+                <away>6</away>
+                <winner>1</winner>
             </game>
         </round>
     </competition>
@@ -1358,11 +1358,11 @@
             </game>
         </round>
         <round id="3">
-            <completedBy>TBC</completedBy>
+            <completedBy>NO DATE</completedBy>
             <game id="1">
                 <home>2</home>
                 <away>5</away>
-                <winner> </winner>
+                <winner>5</winner>
             </game>
         </round>
     </competition>
@@ -1570,7 +1570,7 @@
             <game id="2">
                 <home>9</home>
                 <away>14</away>
-                <winner> </winner>
+                <winner>14</winner>
             </game>
             <game id="3">
                 <home>15</home>
@@ -1587,21 +1587,218 @@
             <completedBy>2018/06/03</completedBy>
             <game id="1">
                 <home>2</home>
-                <away> </away>
-                <winner> </winner>
+                <away>14</away>
+                <winner>14</winner>
             </game>
             <game id="2">
                 <home>15</home>
                 <away>19</away>
-                <winner> </winner>
+                <winner>15</winner>
             </game>
         </round>
         <round id="5">
-            <completedBy>TBC</completedBy>
+            <completedBy>NO DATE</completedBy>
             <game id="1">
+                <home>14</home>
+                <away>15</away>
+                <winner>14</winner>
+            </game>
+        </round>
+    </competition>
+    <competition id="11">
+        <name>Ladies Drawn Pairs</name>
+        <team id="1">
+            <captain>Annie Turner</captain>
+        </team>
+        <team id="2">
+            <captain>Eleanor Syme</captain>
+        </team>
+        <team id="3">
+            <captain>Cheryl van der Westhuizen</captain>
+        </team>
+        <team id="4">
+            <captain>Linda Bosch</captain>
+        </team>
+        <team id="5">
+            <captain>Gina du Plooy</captain>
+        </team>
+        <team id="6">
+            <captain>Shauna Sliep</captain>
+        </team>
+        <round id="1">
+            <completedBy>2018/01/31</completedBy>
+            <game id="1">
+                <home>1</home>
+                <away>2</away>
+                <winner>2</winner>
+            </game>
+            <game id="2">
+                <home>3</home>
+                <away>4</away>
+                <winner>3</winner>
+            </game>
+            <game id="3">
+                <home>5</home>
+                <away>6</away>
+                <winner>5</winner>
+            </game>
+            <game id="4">
                 <home> </home>
                 <away> </away>
                 <winner> </winner>
+            </game>
+        </round>
+        <round id="2">
+            <completedBy>2018/02/28</completedBy>
+            <game id="1">
+                <home>2</home>
+                <away>3</away>
+                <winner>2</winner>
+            </game>
+            <game id="2">
+                <home>5</home>
+                <away> </away>
+                <winner>5</winner>
+            </game>
+        </round>
+        <round id="3">
+            <completedBy>NO DATE</completedBy>
+            <game id="1">
+                <home>2</home>
+                <away>5</away>
+                <winner>2</winner>
+            </game>
+        </round>
+    </competition>
+    <competition id="12">
+        <name>Men's Drawn Pairs</name>
+        <team id="1">
+            <captain>Ron McAslin</captain>
+        </team>
+        <team id="2">
+            <captain>Johan Landman</captain>
+        </team>
+        <team id="3">
+            <captain>Peter Jacobs</captain>
+        </team>
+        <team id="4">
+            <captain>Zane Smith</captain>
+        </team>
+        <team id="5">
+            <captain>Steve Turner</captain>
+        </team>
+        <team id="6">
+            <captain>Lee Barnes</captain>
+        </team>
+        <team id="7">
+            <captain>Brian Muldoon</captain>
+        </team>
+        <team id="8">
+            <captain>Adrian Milton</captain>
+        </team>
+        <team id="9">
+            <captain>Jaco van Deventer</captain>
+        </team>
+        <team id="10">
+            <captain>Trevor Leader</captain>
+        </team>
+        <team id="11">
+            <captain>George Van der Westhuizen</captain>
+        </team>
+        <team id="12">
+            <captain>Rodney Gray</captain>
+        </team>
+        <team id="13">
+            <captain>Alan Lyall</captain>
+        </team>
+        <team id="14">
+            <captain>Niekie Bester</captain>
+        </team>
+        <round id="1">
+            <completedBy>NO DATE</completedBy>
+            <game id="1">
+                <home>1</home>
+                <away>2</away>
+                <winner>1</winner>
+            </game>
+            <game id="2">
+                <home>3</home>
+                <away>4</away>
+                <winner>4</winner>
+            </game>
+            <game id="3">
+                <home>5</home>
+                <away>6</away>
+                <winner>5</winner>
+            </game>
+            <game id="4">
+                <home>7</home>
+                <away>8</away>
+                <winner>7</winner>
+            </game>
+            <game id="5">
+                <home>9</home>
+                <away>10</away>
+                <winner>9</winner>
+            </game>
+            <game id="6">
+                <home>11</home>
+                <away>12</away>
+                <winner>11</winner>
+            </game>
+            <game id="7">
+                <home>13</home>
+                <away>14</away>
+                <winner>13</winner>
+            </game>
+            <game id="8">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="2">
+            <completedBy>NO DATE</completedBy>
+            <game id="1">
+                <home>1</home>
+                <away>4</away>
+                <winner>1</winner>
+            </game>
+            <game id="2">
+                <home>5</home>
+                <away>7</away>
+                <winner>7</winner>
+            </game>
+            <game id="3">
+                <home>9</home>
+                <away>11</away>
+                <winner>9</winner>
+            </game>
+            <game id="4">
+                <home>13</home>
+                <away> </away>
+                <winner>13</winner>
+            </game>
+        </round>
+        <round id="3">
+            <completedBy>NO DATE</completedBy>
+            <game id="1">
+                <home>1</home>
+                <away>7</away>
+                <winner>1</winner>
+            </game>
+            <game id="2">
+                <home>9</home>
+                <away>13</away>
+                <winner>9</winner>
+            </game>
+        </round>
+        <round id="4">
+            <completedBy>NO DATE</completedBy>
+            <game id="1">
+                <home>1</home>
+                <away>9</away>
+                <winner>9</winner>
             </game>
         </round>
     </competition>

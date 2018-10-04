@@ -42,11 +42,7 @@
                     </div>
                 </div>
                 <div class="w3-content w3-display-container w3-section">
-                    <img class="upcomingSlides" src="assets/images/Fochville_Mens_Day_2018.jpg" style="width:100%">
-                    <img class="upcomingSlides" src="assets/images/Chamney_Cup_2018.jpg" style="width:100%">
-                    <img class="upcomingSlides" src="assets/images/Scottburgh_August_Tournament_2018.jpg" style="width:100%">
-                    <img class="upcomingSlides" src="assets/images/Mielieland_kennisgewing_2018.jpg" style="width:100%">
-                    <img class="upcomingSlides" src="assets/images/Cherry_Bowls_Kersierolbaltoernooi_2018.jpg" style="width:100%">
+                    <img class="upcomingSlides" src="assets/images/tournaments_2018_2019/Gold Rush Poster.png" style="width:100%">
                 </div>
                 <script>
                     var myIndex = 0;

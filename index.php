@@ -125,7 +125,7 @@
                             <div>
                                 Yours in Bowls
                                 <br>
-                                Andy Selby
+                                Rick van Zyl
                                 <br>
                                 Club President
                             </div>

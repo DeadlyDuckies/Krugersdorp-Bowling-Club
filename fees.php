@@ -179,7 +179,7 @@
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Entrance fee over 25 years</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 100.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 110.00</td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Subs for under 19 years of age</td>
@@ -187,47 +187,47 @@
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Subs for ages 19 to 25 years of age (Scholars/Students)</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 575.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 632.00</td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Subs for ages 19 to 25 years of age (Non - Scholars/Students)</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 875.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 962.00</td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Subs for ages 26 to 59 (Normal subs)</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 1,170.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 1,285.00</td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Subs for ages 60 to 79</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 1,070.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 1,170.00</td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Subs for ages over 80</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 650.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 715.00</td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Life members</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 650.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 0.00</td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Rebate for married couples (Both being members of the club)</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 100.00 <strong>-</strong></td>
+                                    <td class="body-item mbr-fonts-style display-7">R 110.00 <strong>-</strong></td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Bowls South Africa (BSA) affiliation fees (All bowlers must pay this)</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 210.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 235.00</td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Sables affiliation fee for under 19</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 100.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 108.00</td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Sables affiliation fee for ages 20 to 59</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 260.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 282.00</td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Sables affiliation fee for ages 60 - 79 years</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 201.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 217.00</td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Sables affiliation fee for over 80</td>

@@ -75,7 +75,6 @@
         </team>
         <reserves>Gino Lok, Ian McLaren, Joe Price, Ray Rhodes</reserves>
         <unavailable>Rudo Botha, Sydney Rust, Willie Shaw, Philip Truter, Steve Turner</unavailable>
-        <selectionCommittee>Rodney Gray, Dylan Leader, Ronnie McAslin, Zane Smith, Jaco van Deventer (Convener)</selectionCommittee>
     </mens>
     <ladies>
         <team id="1">
@@ -94,8 +93,8 @@
         </team>
         <reserves> </reserves>
         <unavailable>Gina du Plooy, Annie Turner</unavailable>
-        <selectionCommittee>Amanda Bekker, Denise Clarence, Gina du Plooy, Shauna Sliep (Convener), Annie Turner</selectionCommittee>
     </ladies>
+    <selectionCommittee>Amanda Bekker, Dylan Leader, Kirstin Leader, Coenie Pieterse, Shauna Sliep, Cobus Smit, Jaco van Deventer (Convener)</selectionCommittee>
     <notes>
         <note id="1">1. NB! Please tick off your names if you are going straight to the venue.</note>
         <note id="2">2. League selections are available on our website - http://www.krugersdorpbowlingclub.co.za/league_teams</note>

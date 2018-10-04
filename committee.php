@@ -37,12 +37,12 @@
                 <div class="row media-row">
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee/andy_2.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2018_2019/nophoto.png" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
                                 <p class="mbr-fonts-style display-5">
-                                    Andrew Selby
+                                    Rick van Zyl
                                 </p>
                             </div>
                             <div class="item-role px-2">
@@ -52,12 +52,12 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee/trevor_2.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2018_2019/nophoto.png" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
                                 <p class="mbr-fonts-style display-5">
-                                    Trevor Leader
+                                    Dylan Leader
                                 </p>
                             </div>
                             <div class="item-role px-2">
@@ -67,7 +67,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee/ingrid_2.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2018_2019/nophoto.png" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -82,7 +82,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee/melana_2.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2018_2019/nophoto.png" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -104,7 +104,22 @@
                 <div class="row media-row">
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee/nophoto.png" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2017_2018/nophoto.png" alt="" title="" media-simple="true">
+                        </div>
+                        <div class="item-caption py-3">
+                            <div class="item-name px-2">
+                                <p class="mbr-fonts-style display-5">
+                                    Linda Bosch
+                                </p>
+                            </div>
+                            <div class="item-role px-2">
+                                <p>Committee Member</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-item col-lg-3 col-md-6">
+                        <div class="item-image">
+                            <img src="assets/images/committee_2017_2018/nophoto.png" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -119,12 +134,12 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee/dylan_2.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2017_2018/nophoto.png" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
                                 <p class="mbr-fonts-style display-5">
-                                    Dylan Leader
+                                    Gavin Heine
                                 </p>
                             </div>
                             <div class="item-role px-2">
@@ -134,79 +149,12 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee/alan_2.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2017_2018/nophoto.png" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
                                 <p class="mbr-fonts-style display-5">
-                                    Alan Lyall
-                                </p>
-                            </div>
-                            <div class="item-role px-2">
-                                <p>Committee Member</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="team-item col-lg-3 col-md-6">
-                        <div class="item-image">
-                            <img src="assets/images/committee/barbara_2.jpg" alt="" title="" media-simple="true">
-                        </div>
-                        <div class="item-caption py-3">
-                            <div class="item-name px-2">
-                                <p class="mbr-fonts-style display-5">
-                                    Barbara Minnaar
-                                </p>
-                            </div>
-                            <div class="item-role px-2">
-                                <p>Committee Member</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="features16 cid-qyD4iSWxej" id="features16-w" data-rv-view="44">
-            <div class="container align-center">
-                <div class="row media-row">
-                    <div class="team-item col-lg-3 col-md-6">
-                        <div class="item-image">
-                            <img src="assets/images/committee/matt_2.jpg" alt="" title="" media-simple="true">
-                        </div>
-                        <div class="item-caption py-3">
-                            <div class="item-name px-2">
-                                <p class="mbr-fonts-style display-5">
-                                    Matthew Noone
-                                </p>
-                            </div>
-                            <div class="item-role px-2">
-                                <p>Committee Member</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="team-item col-lg-3 col-md-6">
-                        <div class="item-image">
-                            <img src="assets/images/committee/coenie_2.jpg" alt="" title="" media-simple="true">
-                        </div>
-                        <div class="item-caption py-3">
-                            <div class="item-name px-2">
-                                <p class="mbr-fonts-style display-5">
-                                    Coenie Pieterse
-                                </p>
-                            </div>
-                            <div class="item-role px-2">
-                                <p>Committee Member</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="team-item col-lg-3 col-md-6">
-                        <div class="item-image">
-                            <img src="assets/images/committee/rick_2.jpg" alt="" title="" media-simple="true">
-                        </div>
-                        <div class="item-caption py-3">
-                            <div class="item-name px-2">
-                                <p class="mbr-fonts-style display-5">
-                                    Rick van Zyl
+                                    Shauna Sliep
                                 </p>
                             </div>
                             <div class="item-role px-2">
