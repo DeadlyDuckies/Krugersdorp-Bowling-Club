@@ -50,7 +50,7 @@
                             </strong>
                         </div>
                         <div>
-                            (As amended at September 2013)
+                            (As amended at September 2018)
                             <br>
                             <strong></strong>
                         </div>
@@ -100,32 +100,54 @@
                         </div>
                         <div>
                             2.1 Playing the game of Lawn Bowls and to promote recreation and social enjoyment in connection
-                            therewith.
+                            therewith as also the development of the sport of Lawn Bowls;
                         </div>
                         <div>
-                            2.2 The Club shall be affiliated to Bowls South Africa through the Sables Bowling Association.
+                            2.2 The Club will as far as possible become and remain active in the community of Krugersdorp;
                         </div>
                         <div>
-                            2.3 The Club shall adopt the laws of the game as laid down by Bowls South Africa.
+                            2.3 The Club shall be affiliated to Bowls South Africa through the Sables Bowling Association;
                         </div>
                         <div>
-                            2.4 The club shall have a separate legal personality and be capable of perpetual succession, i.e.
+                            2.4 The Club shall abide by the laws of the game as laid down by Bowls South Africa;
+                        </div>
+                        <div>
+                            2.5 The club shall have a separate legal personality and be capable of perpetual succession, i.e.
                             not be dependent upon the identity or number of its members;
                         </div>
                         <div>
-                            2.5 The club shall be capable of holding property and assets, i.e. apart from the property and
+                            2.6 The club shall be capable of holding property and assets, i.e. apart from the property and
                             assets of its individual members;
                         </div>
                         <div>
-                            2.6 The club shall not have as its object the acquisition of gain for itself or its individual
+                            2.7 The club shall not have as its object the acquisition of gain for itself or its individual
                             members;
                         </div>
                         <div>
-                            2.7 The club shall be entitled to sue or be sued in it’s own name;
+                            2.8 The club shall be entitled to sue or be sued in it’s own name;
                         </div>
                         <div>
-                            2.8 The club’s income and property shall not be distributable to its members or office bearers
-                            except as reasonable compensation for services rendered.
+                            2.9 The club’s income and property shall not be distributable to its members or office bearers
+                            except as reasonable compensation for services rendered;
+                        </div>
+                        <div>
+                            2.10 The club shall accept and abide by the spirit and terms of the South African Institute
+                            for Drug Free Sport (SAIDFS) Anti-Doping Programme and the Anti-Doping Rules, including the
+                            application of its sanctions to individuals and shall respect the authority of and co-operate
+                            with SAIDFS and the hearing bodies in all anti-doping matters which are not governed by the
+                            rules of the relevant International Federation;
+                        </div>
+                        <div>
+                            2.11 The club and its members shall abide by all agreements entered into between Bowls South
+                            Africa and any authority relating to the promotion, control or testing of prohibited
+                            substances and drug use by any member of any club in the republic of South Africa;
+                        </div>
+                        <div>
+                            2.12 The club through its committee shall be obliged to take appropriate disciplinary action
+                            against any of its individual members who contravene any applicable code of conduct, rule,
+                            bylaw or resolution by the club committee, Sables District or Bowls SA or who commits any act
+                            deemed to be harmful to the sport of bowls or any other member or person at any club, bowls
+                            facility or bowls event or any other act which brings the sport into disrepute.
                         </div>
                         <div>
                             <br>
@@ -143,16 +165,19 @@
                         </div>
                         <div>
                             3.2.1 A President, who must have served on the Management Committee for the year immediately prior
-                            to election.
+                            to election;
                         </div>
                         <div>
-                            3.2.2 A Vice President
+                            3.2.2 A Vice President;
                         </div>
                         <div>
-                            3.2.3 An Honorary Secretary.
+                            3.2.3 An Honorary Secretary;
                         </div>
                         <div>
-                            3.2.4 An Honorary Treasurer and seven (7) ordinary members
+                            3.2.4 An Honorary Treasurer;
+                        </div>
+                        <div>
+                            and at least five (5) and a maximum of seven (7) ordinary members.
                         </div>
                         <div>
                             3.3 All members of the Management Committee shall retire annually but are eligible for re-election.
@@ -250,7 +275,7 @@
                         <div>
                             4.2.3 To institute or defend legal proceedings in the name of the Club. To appoint the President or
                             some other member or members of the Management Committee to act on behalf of the Club in instituting
-                            or defending proceedings in a Court of Law;
+                            or defending proceedings in a Court of Law or other forum;
                         </div>
                         <div>
                             4.2.4 To engage attorneys, accountants or agents to act on behalf of the Club;
@@ -319,7 +344,7 @@
                             the Annual General Meeting.
                         </div>
                         <div>
-                            5.3 The Honorary Examiner/s shall examine all books and vouchers pertaining to the financial
+                            5.3 The Honorary Examiner/s shall with due diligence examine all books and vouchers pertaining to the financial
                             affairs of the Club and shall issue a certificate as to their correctness or otherwise. No Honorary
                             Examiner/s shall be a member of the Management Committee.
                         </div>
@@ -332,35 +357,42 @@
                             <br>
                         </div>
                         <div>
-                            <strong>6. SELECTION COMMITTEES</strong>
+                            <strong>6. SELECTION COMMITTEE</strong>
                         </div>
                         <div>
-                            6.1 The Selection Committees shall comprise of one (1) Ladies Committee and one (1) Men’s
-                            Committee. Each Committee shall consist of five (5) full members elected at an Annual General
-                            Meeting in accordance with the terms and conditions laid down in clause 16.10. Any nominee shall
-                            comply with the conditions as specified on the nomination form. The Convener for each committee
-                            shall be elected by the members of such Committee. The conveners shall report to the Management
-                            Committee when arranged or requested to do so by the Hon. Secretary or President.
+                            6.1 The Selection Committee shall comprise of seven (7) ordinary members, at least two (2)
+                            of whom shall be of each gender for the selection of ladies’ and men’s teams which members
+                            shall each comply with the conditions that they shall have played bowls for at least three
+                            (3) years and in addition have been a member of the club for at least two (2) years.
                         </div>
                         <div>
-                            6.2 A quorum for meetings of the Selection Committee shall be three (3).
+                            6.2 The Convener for such committee shall be appointed from the selectors by the Management
+                            Committee elected by the members of such Committee and shall report to the Management
+                            Committee when so arranged or requested to do so by the Hon. Secretary or President.
                         </div>
                         <div>
-                            6.3 A function of the Selection Committees shall be to determine the gradings and handicaps of
+                            6.3 A quorum for meetings of the Selection Committee shall be five (5).
+                        </div>
+                        <div>
+                            6.4 A function of the Selection Committees shall be to determine the gradings and handicaps of
                             members, and to select all teams to represent the Club, other than in open competitions.
                         </div>
                         <div>
-                            6.4 The Selection Committees shall meet as and when required and the Convener shall convene such
+                            6.5 The Selection Committees shall meet as and when required and the Convener shall convene such
                             meetings by giving notice thereof to each member in person by whatever means he/she deems expedient.
                         </div>
                         <div>
-                            6.5 It is incumbent upon the Selection Committees to recommend to the Management Committee, whether
+                            6.6 It is incumbent upon the Selection Committees to recommend to the Management Committee, whether
                             or not a team or teams who wish to enter as representatives of the Club at the Bowls South Africa
                             National Bowling Tournament are suitable. The decision of the Management Committee shall be final.
                         </div>
                         <div>
-                            6.6 Only members of at least six (6) months standing shall be eligible for selection to the team/s
+                            6.7 Only members of at least six (6) months standing shall be eligible for selection to the team/s
                             to represent the Club at the Bowls South Africa National Tournament.
+                        </div>
+                        <div>
+                            6.7 The provisions of clause 3.14 shall be mutatis mutandis applicable to members of the
+                            Selection Committee with regard to attendance at meetings.
                         </div>
                         <div>
                             <br>
@@ -429,10 +461,10 @@
                             form prescribed by Bowls South Africa, which is available at the Club.
                         </div>
                         <div>
-                            8.2 Each application form together with the applicant’s details must contain the printed name and
-                            signature of both the Proposer and the Seconder of the applicant. They shall have been members of
-                            this club for at least one (1) year and in good standing and shall be addressed to the Honorary
-                            Secretary.
+                            8.2 Each application form together with the applicant’s details must contain the printed name
+                            and signature of both the Proposer and the Seconder of the applicant. The Proposer and Seconder
+                            shall have been shall have been members of this club for at least one (1) year and in good
+                            standing and shall be addressed to the Honorary Secretary.
                         </div>
                         <div>
                             8.3 The duly completed application form must be exhibited on the Club notice board for at least
@@ -528,63 +560,110 @@
                             <span style="font-size: 1rem;"></span>
                         </div>
                         <div>
-                            11.1 Should any member in the opinion of any two members of the Executive willfully commit any
-                            breach of the Constitution or By-Laws of the Club or disregard the authority of the Management
-                            Committee or be guilty of any improper conduct or behave in a manner which in their opinion is
-                            prejudicial to the Club, the Management Committee shall have power to:
+                            11.1 The Management Committee shall be obliged to take appropriate disciplinary action against
+                            any of its individual members who to its knowledge contravenes any applicable code of conduct,
+                            rule, bylaw or resolution of the Management Committee, Sables District or Bowls SA or who
+                            commits any act deemed to be harmful to the sport of bowls or any other member or person at
+                            any club, bowls facility or bowls event or any other act which brings the sport into disrepute.
                         </div>
                         <div>
-                            11.2 Deprive such member of any or all of the rights, privileges and advantages of membership
-                            during such time as the Management Committee may deem fit, or
+                            11.2 Should it be brought to the attention of the Management Committee that any member may
+                            have committed such a contravention it shall forthwith appoint a Disciplinary Convener (a
+                            senior member of the club) who will co-opt two or more senior members to form a Disciplinary
+                            Committee to deal with the matter.
                         </div>
                         <div>
-                            11.3 Issue a warning to such member, or
+                            11.3 In the event of a complaint made by Sables, BSA, any other club an official written
+                            complaint should be furnished with full details and in the event of a complaint from a member
+                            of the Club or the Management Committee such complaint should be given in writing with full
+                            details of the alleged contravention (in such event the Honorary Secretary may assist the
+                            complainant to formulate the complaint).
                         </div>
                         <div>
-                            11.4 Suspend such member from membership of the Club for such period as it deems fit, or
+                            11.4 Any complaint, to be considered by the Disciplinary Committee, should concern an
+                            incident or behavior that occurred no longer than twenty one (21) days before the complaint
+                            is lodged.
                         </div>
                         <div>
-                            11.5 Call on such member, in writing, through the Honorary Secretary to resign and, if he/she fails
-                            to do so within seven (7) days of the date of such notice, expel such member, or
+                            11.5 The Disciplinary Committee shall forthwith investigate the complaint and shall give at
+                            least seven (7) days’ notice to the member concerned to appear before the Disciplinary
+                            Committee to give an explanation of his alleged conduct. Such enquiry should be held within
+                            three (3) weeks of the complaint being received.
                         </div>
                         <div>
-                            11.6 Expel such member.
+                            11.6
                         </div>
                         <div>
-                            11.7 Any member whom the Management Committee proposes to deal with in terms of sub-clause 11.1
-                            hereof shall be given not less than forty – eight (48) hours written notice to appear before a
-                            meeting of a disciplinary committee consisting of at least one (1) member of the Executive Committee
-                            and two (2) other members of the Management Committee appointed for that purpose by the Executive
-                            Committee held to deal with the matter. At such a meeting, the said Member may appear in person and
-                            may be represented by some party duly authorized by him/her in writing. A statement of the reasons
-                            for the proposed enquiry and of the conduct alleged, should be made on behalf of the Management
-                            Committee and such Member or his/her representative shall be given an opportunity of denying or
-                            explaining the conduct complained of. Should such Member fail to appear personally, as provided
-                            above, the disciplinary Committee may deal with the matter in the absence of such Member or his/her
-                            representative. The decision of the disciplinary committee shall be conveyed to the Member, in
-                            writing, within three (3) days of the date of the meeting at which the matter was considered.
+                            11.6.1 At such enquiry, the said member may appear in person and may be represented by another
+                            member of the club duly authorized by him in writing. He shall not be entitled to legal
+                            representation.
                         </div>
                         <div>
-                            11.8 Any member, who has been dealt with, in terms of this clause, shall have a right of appeal
-                            against the decision of the disciplinary committee to the Management Committee. Such appeal shall be
-                            submitted, in writing, to the Honorary Secretary within seven (7) days of receipt by the member of
-                            the decision of the disciplinary committee. Any suspension, resignation or expulsion shall remain in
-                            force pending such an appeal.
+                            11.6.2 A statement of the reasons for the proposed enquiry and of the conduct alleged, should
+                            be made on behalf of the Management Committee and the member concerned or his representative shall
+                            be given an opportunity of denying or explaining the conduct complained of. If evidence is
+                            given by or on behalf of the complainant the member or his representative shall be entitled
+                            to cross-examine the complainant or the witnesses.
                         </div>
                         <div>
-                            11.9 On hearing an appeal in terms of clause 11.8 the Management Committee shall have the power to
-                            confirm, amend or rescind the decision of the disciplinary committee.
+                            11.6.3 If the member gives evidence the complainant shall have the right to cross-examine him.
                         </div>
                         <div>
-                            11.10 Any member dealt with in terms of this rule and if the disciplinary committee’s decision has
-                            not been over-ruled in terms of sub-clause 11.9 hereof, shall be ineligible for re-election as a
-                            member for such period as the Management Committee at its absolute discretion may decide and shall
-                            have no claim whatsoever upon the property of the Club nor for a refund of any subscription or
-                            portion thereof.
+                            11.6.4 The Chairman of the Disciplinary Committee shall have the right to put questions to
+                            any of the parties to clarify any aspect necessary
                         </div>
                         <div>
-                            11.11 During the period that any member is under suspension or has been expelled and pending an
-                            appeal, such member is debarred from entering the confines of the Club.
+                            11.6.5 Should such member fail to appear personally, as provided above, the Disciplinary
+                            Committee may deal with the matter in the absence of such member or his representative.
+                        </div>
+                        <div>
+                            11.6.6 The decision of the Disciplinary Committee shall be conveyed to the member, in writing,
+                            within three (3) days of the date of the meeting at which the matter was considered and be
+                            referred to the Management Committee with a recommendation as to the sanction to be applied.
+                        </div>
+                        <div>
+                            11.6.7 A proper record shall be kept by the Honorary Secretary of the proceedings at the
+                            enquiry which will be admissible at any later appeal.
+                        </div>
+                        <div>
+                            11.8 The Management Committee shall have power to:
+                        </div>
+                        <div>
+                            11.8.1 Deprive such member of any or all of the rights, privileges and advantages of
+                            membership during such time as the Management Committee may deem fit, or
+                        </div>
+                        <div>
+                            11.8.2 Issue a verbal or written warning to such member, or
+                        </div>
+                        <div>
+                            11.8.3 Suspend such member from membership of the Club for such period as it deems fit
+                            (such period to be a maximum of one (1) year), or
+                        </div>
+                        <div>
+                            11.8.4 Call on such member, in writing, through the Honorary Secretary to resign and, if he
+                            fails to do so within seven (7) days of the date of such notice, expel such member, or
+                        </div>
+                        <div>
+                            11.8.5 Expel such member.
+                        </div>
+                        <div>
+                            11.9 Any member, who has been dealt with in terms of this section, shall have a right of
+                            appeal against the decision of the Disciplinary Committee and/or the Management Committee to
+                            Sables District. Such appeal shall be submitted, in writing, to Sables within seven (7) days
+                            of receipt by the member of the decision of the Management Committee. Any suspension,
+                            resignation or expulsion shall remain in force pending such an appeal.
+                        </div>
+                        <div>
+                            11.10 Any member dealt with in terms of this section and if the Disciplinary Committee’s or
+                            Management Committee’s decision has not been overruled on appeal, shall be ineligible for
+                            re-election as a member for such period as the Management Committee at its absolute
+                            discretion may decide (being a maximum period of one (1) year) and shall have no claim
+                            whatsoever upon the property of the Club nor for a refund of any subscription or portion
+                            thereof.
+                        </div>
+                        <div>
+                            11.11 During the period that any member is under suspension or has been expelled and pending
+                            an appeal, such member is debarred from entering the confines of the Club.
                         </div>
                         <div>
                             <br>
@@ -639,8 +718,9 @@
                             <span style="font-size: 1rem;"></span>
                         </div>
                         <div>
-                            The members at the Annual General Meeting shall decide the policy of insurance regarding the assets
-                            of the club, at each such meeting. Personal effects of Members shall not be covered by this clause.
+                            The members at the Annual General Meeting shall decide on the insurer and contents of the
+                            policy of of insurance regarding the assets of the club, at each such meeting. Personal
+                            effects of Members shall not be covered by this clause.
                         </div>
                         <div>
                             <br>
@@ -691,7 +771,7 @@
                             time and at such place as the Management Committee may decide.
                         </div>
                         <div>
-                            16.2 Fourteen (14) days notice of the meeting shall be given to all Life/Ordinary Members.
+                            16.2 Fifteen (15) days' notice of the meeting shall be given to all Life/Ordinary Members.
                         </div>
                         <div>
                             16.3 The non-receipt of such notice by any member shall not invalidate the proceedings at any
@@ -702,8 +782,8 @@
                             Constitution shall accompany the notice of meeting.
                         </div>
                         <div>
-                            16.5 All other documents including financial statements shall be available three (3) weeks before
-                            the date of the meeting.
+                            16.5 All other documents including financial statements shall be available at the clubhouse
+                            fifteen (15) days before the date of the meeting.
                         </div>
                         <div>
                             16.6 The business to be transacted shall be:
@@ -726,7 +806,7 @@
                             16.6.5 To elect a Management Committee for the ensuing year.
                         </div>
                         <div>
-                            16.6.6 To elect Selection Committees for the ensuing year.
+                            16.6.6 To elect Selection Committee for the ensuing year.
                         </div>
                         <div>
                             16.6.7 To elect an examiner/examiners for the ensuing year.
@@ -879,7 +959,7 @@
                         </div>
                         <div>
                             The Management Committee shall take cognizance of any infringement of the Constitution or By Laws
-                            and shall deal with the matter.
+                            and shall deal with the matter in accordance with the procedures set out in this Constitution
                         </div>
                         <div>
                             <br>
@@ -898,7 +978,8 @@
                             existing members at a cost laid down by the Management Committee.
                         </div>
                         <div>
-                            22.3 Members shall be deemed to be conversant with the contents of the Constitution and By Laws.
+                            22.3 Members shall be deemed to be conversant with the contents of the Constitution and By
+                            Laws including the disciplinary provisions.
                         </div>
                         <div>
                             <br>
@@ -908,8 +989,11 @@
                             <span style="font-size: 1rem;"></span>
                         </div>
                         <div>
-                            All complaints and suggestions should be made in writing to the Honorary Secretary; who, in turn,
-                            shall bring such communications to the notice of the Management Committee.
+                            All complaints and suggestions should be made in writing to the Honorary Secretary; who, in
+                            turn, shall bring such to the notice of the Management Committee. The Management Committee
+                            shall address all such correspondence and give feedback on the subject topic to the Honorary
+                            Secretary who shall in turn convey such communication to the relevant person/s who lodged the
+                            complaint or suggestion
                         </div>
                         <div>
                             <br>
@@ -965,6 +1049,9 @@
                         </div>
                         <div>
                             8. Amendments were made to certain rules on 14th September 2013 (Sections 7.1.6 and 8.6)
+                        </div>
+                        <div>
+                            9. Amendments were made to certain rules on 29TH September 2018
                         </div>
                         <div>
                             <br>
@@ -1055,13 +1142,17 @@
                             may, from time to time, think fit.
                         </div>
                         <div>
-                            21. Dogs are not permitted within the Club grounds unless held on a lead.
+                            21. Dog owners are permitted to bring their dogs onto the property only when the dog is under
+                            constant supervision and strict control of the owner/handler. The owner is liable for any
+                            damage incurred or disruptive behaviour by the dog whilst on the clubs property. Dogs must be
+                            kept on a leash at all times.
                         </div>
                         <div>
-                            22. Children will only be allowed in the clubhouse when accompanied by an adult who shall be
-                            responsible for their behavior. Under no circumstances will children be allowed in the bar, nor will
-                            they be allowed on the greens without the permission of the Management Committee, or to place on the
-                            banks.
+                            22. Children entering the premises and clubhouse should be on their best behaviour. They
+                            should not be allowed onto the greens without management committee approval and under adult
+                            supervision, who is responsible for their conduct. Parents and guardians are liable for any
+                            damages caused by minors, should they be present or not. Under no circumstances will
+                            children under the age of 18 be allowed to order alcohol.
                         </div>
                         <div>
                             23. The following are strictly forbidden:

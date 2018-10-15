@@ -25,7 +25,7 @@
                 <div class="media-container-row">
                     <div class="title col-12 col-md-8">
                         <h2 class="align-center pb-3 mbr-fonts-style display-2">
-                            Committee 2017-2018
+                            Committee 2018-2019
                         </h2>
                     </div>
                 </div>
@@ -37,7 +37,7 @@
                 <div class="row media-row">
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee_2018_2019/nophoto.png" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2018_2019/Rick.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -52,7 +52,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee_2018_2019/nophoto.png" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2018_2019/Dylan.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -67,7 +67,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee_2018_2019/nophoto.png" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2018_2019/Ingrid.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -82,7 +82,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee_2018_2019/nophoto.png" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2018_2019/Melana.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -104,7 +104,7 @@
                 <div class="row media-row">
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee_2017_2018/nophoto.png" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2018_2019/Linda.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -119,7 +119,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee_2017_2018/nophoto.png" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2018_2019/Elysses.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -134,7 +134,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee_2017_2018/nophoto.png" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2018_2019/Gavin.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -149,7 +149,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee_2017_2018/nophoto.png" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2018_2019/Shauna.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
