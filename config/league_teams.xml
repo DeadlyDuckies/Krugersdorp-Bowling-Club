@@ -27,7 +27,7 @@
             <fours>
                 <skip>Ron McAslin</skip>
                 <third>Trevor Leader</third>
-                <second>Martin Janse</second>
+                <second>Herman Sliep</second>
                 <lead>Stitch Economakis</lead>
             </fours>
             <trips>
@@ -45,9 +45,9 @@
             <division_no>5</division_no>
             <fours>
                 <skip>Joe Price</skip>
-                <third>Herman Sliep</third>
+                <third>Tom Kneen</third>
                 <second>Gavin Heine</second>
-                <lead>Glenn Minnaar</lead>
+                <lead>Rick van Zyl</lead>
             </fours>
             <trips>
                 <skip>Ray Rhodes</skip>
@@ -65,7 +65,7 @@
             <fours>
                 <skip>Peter Jacobs</skip>
                 <third>Brian Muldoon</third>
-                <second>Tom Kneen</second>
+                <second>Barry Rheeder</second>
                 <lead>Hans Bakker</lead>
             </fours>
             <venue>Noordheuwel</venue>
@@ -73,8 +73,8 @@
             <depart>13:00</depart>
             <captain>Peter Jacobs</captain>
         </team>
-        <reserves>Niekie Bester, Ian McLaren, Barry Rheeder, Hans van der Merwe, Rick van Zyl, Micheal Walker</reserves>
-        <unavailable> </unavailable>
+        <reserves>Niekie Bester, Ian McLaren, Hans van der Merwe, Micheal Walker</reserves>
+        <unavailable>Martin Janse, Glenn Minnaar</unavailable>
     </mens>
     <ladies>
         <team id="1">
