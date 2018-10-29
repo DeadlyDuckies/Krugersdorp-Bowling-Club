@@ -1,24 +1,24 @@
 <league>
     <title>Krugersdorp Bowling Club League Teams</title>
-    <date>2018/10/20</date>
+    <date>2018/11/03</date>
     <mens>
         <team id="1">
             <division_type>Super 7's</division_type>
             <division_no>1</division_no>
             <fours>
-                <skip>Cobus Smit</skip>
+                <skip>Rudo Botha</skip>
                 <third>Dylan Leader</third>
-                <second>Lee Barnes</second>
+                <second>Rodney Gray</second>
                 <lead>Andy Selby</lead>
             </fours>
             <trips>
                 <skip>Jaco van Deventer</skip>
-                <second>Rudo Botha</second>
-                <lead>Rodney Gray</lead>
+                <second>Lee Barnes</second>
+                <lead>Stitch Economakis</lead>
             </trips>
-            <venue>Witpoortjie</venue>
-            <opponent>Ruimsig (1)</opponent>
-            <depart>12:45</depart>
+            <venue>Rustenburg</venue>
+            <opponent>Discovery (1)</opponent>
+            <depart>11:30</depart>
             <captain>Dylan Leader</captain>
         </team>
         <team id="2">
@@ -28,16 +28,16 @@
                 <skip>Ron McAslin</skip>
                 <third>Trevor Leader</third>
                 <second>Herman Sliep</second>
-                <lead>Stitch Economakis</lead>
+                <lead>Willie Shaw</lead>
             </fours>
             <trips>
-                <skip>Johan Landman</skip>
+                <skip>Cobus Smit</skip>
                 <second>Coenie Pieterse</second>
-                <lead>Willie Shaw</lead>
+                <lead>Rick van Zyl</lead>
             </trips>
-            <venue>Krugersdorp</venue>
-            <opponent>Leases (3)</opponent>
-            <depart>N/A</depart>
+            <venue>Florida North</venue>
+            <opponent>Honeydew (2)</opponent>
+            <depart>12:30</depart>
             <captain>Ron McAslin</captain>
         </team>
         <team id="3">
@@ -45,17 +45,17 @@
             <division_no>5</division_no>
             <fours>
                 <skip>Joe Price</skip>
-                <third>Tom Kneen</third>
-                <second>Gavin Heine</second>
-                <lead>Rick van Zyl</lead>
+                <third>Johan Landman</third>
+                <second>Tom Kneen</second>
+                <lead>Gavin Heine</lead>
             </fours>
             <trips>
                 <skip>Ray Rhodes</skip>
                 <second>George van der Westhuizen</second>
                 <lead>Kobus Britz</lead>
             </trips>
-            <venue>Leases</venue>
-            <opponent>Witpoortjie (3)</opponent>
+            <venue>Florida North</venue>
+            <opponent>Florida North</opponent>
             <depart>12:30</depart>
             <captain>Joe Price</captain>
         </team>
@@ -68,13 +68,13 @@
                 <second>Barry Rheeder</second>
                 <lead>Hans Bakker</lead>
             </fours>
-            <venue>Noordheuwel</venue>
-            <opponent>Discovery (2)</opponent>
-            <depart>13:00</depart>
+            <venue>Discovery</venue>
+            <opponent>Maraisburg</opponent>
+            <depart>12:30</depart>
             <captain>Peter Jacobs</captain>
         </team>
-        <reserves>Niekie Bester, Ian McLaren, Hans van der Merwe, Micheal Walker</reserves>
-        <unavailable>Martin Janse, Glenn Minnaar</unavailable>
+        <reserves>Niekie Bester, Martin Janse, Ian McLaren, Hans van der Merwe, Micheal Walker</reserves>
+        <unavailable> </unavailable>
     </mens>
     <ladies>
         <team id="1">
@@ -82,7 +82,7 @@
             <division_no>2</division_no>
             <fours>
                 <skip>Shauna Sliep</skip>
-                <third>Cheryl van der Westhuizen</third>
+                <third>Ansie Fourie</third>
                 <second>Theresa Klein</second>
                 <lead>Karen Pieterse</lead>
             </fours>
@@ -91,9 +91,9 @@
                 <second>Kirstin Leader</second>
                 <lead>Hester Hattingh</lead>
             </trips>
-            <venue>Krugersdorp</venue>
-            <opponent>Witpoortjie</opponent>
-            <depart>N/A</depart>
+            <venue>Discovery</venue>
+            <opponent>Florida North</opponent>
+            <depart>12:30</depart>
             <captain>Shauna Sliep</captain>
         </team>
         <team id="2">
@@ -105,13 +105,13 @@
                 <second>Melana Selby</second>
                 <lead>Karen Barnes</lead>
             </fours>
-            <venue>Ruimsig</venue>
-            <opponent>Honeydew (1)</opponent>
-            <depart>12:45</depart>
+            <venue>Honeydew</venue>
+            <opponent>Noordheuwel</opponent>
+            <depart>12:30</depart>
             <captain>Elzie Grobler</captain>
         </team>
-        <reserves> </reserves>
-        <unavailable>Belinda Economakis, Ansie Fourie</unavailable>
+        <reserves>Belinda Economakis</reserves>
+        <unavailable>Cheryl van der Westhuizen</unavailable>
     </ladies>
     <selectionCommittee>Amanda Bekker, Dylan Leader, Kirstin Leader, Coenie Pieterse, Shauna Sliep, Cobus Smit, Jaco van Deventer (Convener)</selectionCommittee>
     <notes>
