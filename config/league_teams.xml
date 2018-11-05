@@ -6,8 +6,8 @@
             <division_type>Super 7's</division_type>
             <division_no>1</division_no>
             <fours>
-                <skip>Rudo Botha</skip>
-                <third>Dylan Leader</third>
+                <skip>Cobus Smit</skip>
+                <third>Rudo Botha</third>
                 <second>Rodney Gray</second>
                 <lead>Andy Selby</lead>
             </fours>
@@ -16,10 +16,10 @@
                 <second>Lee Barnes</second>
                 <lead>Stitch Economakis</lead>
             </trips>
-            <venue>Rustenburg</venue>
-            <opponent>Discovery (1)</opponent>
-            <depart>11:30</depart>
-            <captain>Dylan Leader</captain>
+            <venue>Leases</venue>
+            <opponent>Leases (1)</opponent>
+            <depart>12:30</depart>
+            <captain>Jaco van Deventer</captain>
         </team>
         <team id="2">
             <division_type>Super 7's</division_type>
@@ -31,12 +31,12 @@
                 <lead>Willie Shaw</lead>
             </fours>
             <trips>
-                <skip>Cobus Smit</skip>
-                <second>Coenie Pieterse</second>
-                <lead>Rick van Zyl</lead>
+                <skip>Coenie Pieterse</skip>
+                <second>Rick van Zyl</second>
+                <lead>Martin Janse</lead>
             </trips>
-            <venue>Florida North</venue>
-            <opponent>Honeydew (2)</opponent>
+            <venue>Honeydew</venue>
+            <opponent>Ruimsig (4)</opponent>
             <depart>12:30</depart>
             <captain>Ron McAslin</captain>
         </team>
@@ -54,9 +54,9 @@
                 <second>George van der Westhuizen</second>
                 <lead>Kobus Britz</lead>
             </trips>
-            <venue>Florida North</venue>
-            <opponent>Florida North</opponent>
-            <depart>12:30</depart>
+            <venue>Witpoortjie</venue>
+            <opponent>Maraisburg</opponent>
+            <depart>12:45</depart>
             <captain>Joe Price</captain>
         </team>
         <team id="4">
@@ -68,13 +68,13 @@
                 <second>Barry Rheeder</second>
                 <lead>Hans Bakker</lead>
             </fours>
-            <venue>Discovery</venue>
+            <venue>Randfontein</venue>
             <opponent>Maraisburg</opponent>
             <depart>12:30</depart>
             <captain>Peter Jacobs</captain>
         </team>
-        <reserves>Niekie Bester, Martin Janse, Ian McLaren, Hans van der Merwe, Micheal Walker</reserves>
-        <unavailable> </unavailable>
+        <reserves>Niekie Bester, Ian McLaren, Hans van der Merwe, Micheal Walker</reserves>
+        <unavailable>Dylan Leader</unavailable>
     </mens>
     <ladies>
         <team id="1">
@@ -88,11 +88,11 @@
             </fours>
             <trips>
                 <skip>Amanda Bekker</skip>
-                <second>Kirstin Leader</second>
+                <second>Elzie Grobler</second>
                 <lead>Hester Hattingh</lead>
             </trips>
-            <venue>Discovery</venue>
-            <opponent>Florida North</opponent>
+            <venue>Ruimsig</venue>
+            <opponent>Discovery (2)</opponent>
             <depart>12:30</depart>
             <captain>Shauna Sliep</captain>
         </team>
@@ -100,18 +100,18 @@
             <division_type>Super 4's</division_type>
             <division_no>1</division_no>
             <fours>
-                <skip>Elzie Grobler</skip>
+                <skip>Belinda Economakis</skip>
                 <third>Elysses Heine</third>
                 <second>Melana Selby</second>
                 <lead>Karen Barnes</lead>
             </fours>
-            <venue>Honeydew</venue>
-            <opponent>Noordheuwel</opponent>
-            <depart>12:30</depart>
-            <captain>Elzie Grobler</captain>
+            <venue>Krugersdorp</venue>
+            <opponent>Randfontein</opponent>
+            <depart>N/A</depart>
+            <captain>Elysses Heine</captain>
         </team>
-        <reserves>Belinda Economakis</reserves>
-        <unavailable>Cheryl van der Westhuizen</unavailable>
+        <reserves> </reserves>
+        <unavailable>Kirstin Leader, Cheryl van der Westhuizen</unavailable>
     </ladies>
     <selectionCommittee>Amanda Bekker, Dylan Leader, Kirstin Leader, Coenie Pieterse, Shauna Sliep, Cobus Smit, Jaco van Deventer (Convener)</selectionCommittee>
     <notes>
