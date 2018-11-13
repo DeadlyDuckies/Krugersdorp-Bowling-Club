@@ -1,6 +1,6 @@
 <league>
     <title>Krugersdorp Bowling Club League Teams</title>
-    <date>2018/11/10</date>
+    <date>2018/11/17</date>
     <mens>
         <team id="1">
             <division_type>Super 7's</division_type>
@@ -13,13 +13,13 @@
             </fours>
             <trips>
                 <skip>Jaco van Deventer</skip>
-                <second>Lee Barnes</second>
-                <lead>Stitch Economakis</lead>
+                <second>Dylan Leader</second>
+                <lead>Lee Barnes</lead>
             </trips>
-            <venue>Leases</venue>
-            <opponent>Leases (1)</opponent>
+            <venue>Discovery</venue>
+            <opponent>Rustenburg (1)</opponent>
             <depart>12:30</depart>
-            <captain>Jaco van Deventer</captain>
+            <captain>Dylan Leader</captain>
         </team>
         <team id="2">
             <division_type>Super 7's</division_type>
@@ -31,33 +31,33 @@
                 <lead>Willie Shaw</lead>
             </fours>
             <trips>
-                <skip>Coenie Pieterse</skip>
-                <second>Rick van Zyl</second>
-                <lead>Martin Janse</lead>
+                <skip>Ray Rhodes</skip>
+                <second>Coenie Pieterse</second>
+                <lead>Stitch Economakis</lead>
             </trips>
-            <venue>Honeydew</venue>
-            <opponent>Ruimsig (4)</opponent>
-            <depart>12:30</depart>
+            <venue>Ruimsig</venue>
+            <opponent>Leases (3)</opponent>
+            <depart>12:45</depart>
             <captain>Ron McAslin</captain>
         </team>
         <team id="3">
             <division_type>Super 7's</division_type>
             <division_no>5</division_no>
             <fours>
-                <skip>Joe Price</skip>
-                <third>Johan Landman</third>
-                <second>Tom Kneen</second>
-                <lead>Gavin Heine</lead>
+                <skip>George van der Westhuizen</skip>
+                <third>Tom Kneen</third>
+                <second>Gavin Heine</second>
+                <lead>Hans van der Merwe</lead>
             </fours>
             <trips>
-                <skip>Ray Rhodes</skip>
-                <second>George van der Westhuizen</second>
+                <skip>Johan Landman</skip>
+                <second>Martin Janse</second>
                 <lead>Kobus Britz</lead>
             </trips>
-            <venue>Witpoortjie</venue>
-            <opponent>Maraisburg</opponent>
-            <depart>12:45</depart>
-            <captain>Joe Price</captain>
+            <venue>Krugersdorp</venue>
+            <opponent>Witpoortjie</opponent>
+            <depart>N/A</depart>
+            <captain>Johan Landman</captain>
         </team>
         <team id="4">
             <division_type>Super 4's</division_type>
@@ -68,13 +68,13 @@
                 <second>Barry Rheeder</second>
                 <lead>Hans Bakker</lead>
             </fours>
-            <venue>Randfontein</venue>
-            <opponent>Maraisburg</opponent>
+            <venue>Honeydew</venue>
+            <opponent>Discovery (2)</opponent>
             <depart>12:30</depart>
             <captain>Peter Jacobs</captain>
         </team>
-        <reserves>Niekie Bester, Ian McLaren, Hans van der Merwe, Micheal Walker</reserves>
-        <unavailable>Dylan Leader</unavailable>
+        <reserves>Niekie Bester, Ian McLaren, Rick van Zyl, Micheal Walker</reserves>
+        <unavailable>Joe Price</unavailable>
     </mens>
     <ladies>
         <team id="1">
@@ -83,16 +83,16 @@
             <fours>
                 <skip>Shauna Sliep</skip>
                 <third>Ansie Fourie</third>
-                <second>Theresa Klein</second>
+                <second>Belinda Economakis</second>
                 <lead>Karen Pieterse</lead>
             </fours>
             <trips>
                 <skip>Amanda Bekker</skip>
-                <second>Elzie Grobler</second>
+                <second>Kirstin Leader</second>
                 <lead>Hester Hattingh</lead>
             </trips>
-            <venue>Ruimsig</venue>
-            <opponent>Discovery (2)</opponent>
+            <venue>Witpoortjie</venue>
+            <opponent>Discovery (3)</opponent>
             <depart>12:30</depart>
             <captain>Shauna Sliep</captain>
         </team>
@@ -100,18 +100,18 @@
             <division_type>Super 4's</division_type>
             <division_no>1</division_no>
             <fours>
-                <skip>Belinda Economakis</skip>
+                <skip>Elzie Grobler</skip>
                 <third>Elysses Heine</third>
                 <second>Melana Selby</second>
                 <lead>Karen Barnes</lead>
             </fours>
-            <venue>Krugersdorp</venue>
-            <opponent>Randfontein</opponent>
-            <depart>N/A</depart>
-            <captain>Elysses Heine</captain>
+            <venue>Randfontein</venue>
+            <opponent>Ruimsig (2)</opponent>
+            <depart>12:30</depart>
+            <captain>Elzie Grobler</captain>
         </team>
         <reserves> </reserves>
-        <unavailable>Kirstin Leader, Cheryl van der Westhuizen</unavailable>
+        <unavailable>Theresa Klein, Cheryl van der Westhuizen</unavailable>
     </ladies>
     <selectionCommittee>Amanda Bekker, Dylan Leader, Kirstin Leader, Coenie Pieterse, Shauna Sliep, Cobus Smit, Jaco van Deventer (Convener)</selectionCommittee>
     <notes>
