@@ -1,1470 +1,221 @@
 <competitions>
-    <lastUpdated>2018/09/14</lastUpdated>
+    <lastUpdated>2018/11/16</lastUpdated>
     <competition id="1">
-        <name>Ladies Pairs Initial Round</name>
+        <name>Ladies Pairs</name>
         <team id="1">
-            <captain>Lones Osbourne</captain>
+            <captain>Eleanor Syme</captain>
         </team>
         <team id="2">
             <captain>Shauna Sliep</captain>
         </team>
         <team id="3">
-            <captain>Melana Selby</captain>
-        </team>
-        <team id="4">
-            <captain>Amanda Bekker</captain>
-        </team>
-        <team id="5">
-            <captain>Jean Campbell</captain>
-        </team>
-        <team id="6">
-            <captain>Claire Schroder</captain>
-        </team>
-        <team id="7">
-            <captain>Ingrid Twigg</captain>
-        </team>
-        <team id="8">
-            <captain>Linda Bosch</captain>
-        </team>
-        <team id="9">
-            <captain>Theresa Klein</captain>
-        </team>
-        <team id="10">
             <captain>Maureen Love</captain>
         </team>
-        <team id="11">
-            <captain>Eleanor Syme</captain>
+        <team id="4">
+            <captain>Linda Bosch</captain>
         </team>
-        <team id="12">
-            <captain>Christa Chidrawi</captain>
+        <team id="5">
+            <captain>Ansie Fourie</captain>
+        </team>
+        <team id="6">
+            <captain>Theresa Klein</captain>
+        </team>
+        <team id="7">
+            <captain>Amanda Bekker</captain>
+        </team>
+        <team id="8">
+            <captain>Gina du Plooy</captain>
+        </team>
+        <team id="9">
+            <captain>Lones Osbourne</captain>
+        </team>
+        <team id="10">
+            <captain>Ingrid Twigg</captain>
+        </team>
+        <team id="11">
+            <captain>Elysses Heine</captain>
         </team>
         <round id="1">
-            <completedBy>2017/12/17</completedBy>
+            <completedBy>2018/12/02</completedBy>
             <game id="1">
                 <home>1</home>
                 <away>2</away>
-                <winner>2</winner>
+                <winner> </winner>
             </game>
             <game id="2">
                 <home>3</home>
                 <away>4</away>
-                <winner>3</winner>
+                <winner> </winner>
             </game>
             <game id="3">
                 <home>5</home>
                 <away>6</away>
-                <winner>6</winner>
+                <winner> </winner>
             </game>
             <game id="4">
-                <home>7</home>
-                <away>8</away>
-                <winner>8</winner>
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
             </game>
             <game id="5">
-                <home>9</home>
-                <away>10</away>
-                <winner>9</winner>
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
             </game>
             <game id="6">
-                <home>11</home>
-                <away>12</away>
-                <winner>11</winner>
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="7">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="8">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="2">
+            <completedBy>2019/01/20</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home> </home>
+                <away>7</away>
+                <winner> </winner>
+            </game>
+            <game id="3">
+                <home>8</home>
+                <away>9</away>
+                <winner> </winner>
+            </game>
+            <game id="4">
+                <home>10</home>
+                <away>11</away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="3">
+            <completedBy>2019/02/17</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="4">
+            <completedBy>FINALS DAY</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
             </game>
         </round>
     </competition>
     <competition id="2">
-        <name>Ladies Pairs</name>
-        <team id="1">
-            <captain>Theresa Klein</captain>
-        </team>
-        <team id="2">
-            <captain>Melana Selby</captain>
-        </team>
-        <team id="3">
-            <captain>Amanda Bekker</captain>
-        </team>
-        <team id="4">
-            <captain>Shauna Sliep</captain>
-        </team>
-        <team id="5">
-            <captain>Eleanor Syme</captain>
-        </team>
-        <team id="6">
-            <captain>Ingrid Twigg</captain>
-        </team>
-        <team id="7">
-            <captain>Claire Schroder</captain>
-        </team>
-        <team id="8">
-            <captain>Linda Bosch</captain>
-        </team>
-        <round id="1">
-            <completedBy>2018/01/14</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>2</away>
-                <winner>1</winner>
-            </game>
-            <game id="2">
-                <home>3</home>
-                <away>4</away>
-                <winner>3</winner>
-            </game>
-            <game id="3">
-                <home>5</home>
-                <away>6</away>
-                <winner>5</winner>
-            </game>
-            <game id="4">
-                <home>7</home>
-                <away>8</away>
-                <winner>7</winner>
-            </game>
-        </round>
-        <round id="2">
-            <completedBy>2018/02/18</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>3</away>
-                <winner>3</winner>
-            </game>
-            <game id="2">
-                <home>5</home>
-                <away>7</away>
-                <winner>5</winner>
-            </game>
-        </round>
-        <round id="3">
-            <completedBy>2018/03/31</completedBy>
-            <game id="1">
-                <home>3</home>
-                <away>5</away>
-                <winner>5</winner>
-            </game>
-        </round>
-    </competition>
-    <competition id="3">
         <name>Men's Pairs</name>
         <team id="1">
-            <captain>Steve Turner</captain>
+            <captain>Kobus Britz</captain>
         </team>
         <team id="2">
-            <captain>Dylan Leader</captain>
-        </team>
-        <team id="3">
-            <captain>Sydney Rust</captain>
-        </team>
-        <team id="4">
-            <captain>Johan Landman</captain>
-        </team>
-        <team id="5">
-            <captain>Eric Dawson</captain>
-        </team>
-        <team id="6">
-            <captain>Joe Price</captain>
-        </team>
-        <team id="7">
-            <captain>Martin Janse</captain>
-        </team>
-        <team id="8">
-            <captain>Cobus Smit</captain>
-        </team>
-        <team id="9">
-            <captain>Brian Muldoon</captain>
-        </team>
-        <team id="10">
-            <captain>Herman Sliep</captain>
-        </team>
-        <team id="11">
-            <captain>Zane Smith</captain>
-        </team>
-        <team id="12">
             <captain>Adrian Milton</captain>
         </team>
-        <team id="13">
+        <team id="3">
+            <captain>Stitch Economakis</captain>
+        </team>
+        <team id="4">
+            <captain>Andy Selby</captain>
+        </team>
+        <team id="5">
             <captain>Peter Jacobs</captain>
         </team>
-        <team id="14">
-            <captain>Jaco van Deventer</captain>
-        </team>
-        <team id="15">
-            <captain>Rodney Gray</captain>
-        </team>
-        <team id="16">
-            <captain>Trevor Leader</captain>
-        </team>
-        <team id="17">
-            <captain>Alan Lyall</captain>
-        </team>
-        <team id="18">
-            <captain>Hans Bakker</captain>
-        </team>
-        <round id="1">
-            <completedBy>2017/12/17</completedBy>
-            <game id="1">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-            <game id="2">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-            <game id="3">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-            <game id="4">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-            <game id="5">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-            <game id="6">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-            <game id="7">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-            <game id="8">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-            <game id="9">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-            <game id="10">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-            <game id="11">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-            <game id="12">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-            <game id="13">
-                <home>13</home>
-                <away>14</away>
-                <winner>14</winner>
-            </game>
-            <game id="14">
-                <home>15</home>
-                <away>16</away>
-                <winner>16</winner>
-            </game>
-            <game id="15">
-                <home>17</home>
-                <away>18</away>
-                <winner>17</winner>
-            </game>
-            <game id="16">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-        </round>
-        <round id="2">
-            <completedBy>2017/12/17</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>2</away>
-                <winner>1</winner>
-            </game>
-            <game id="2">
-                <home>3</home>
-                <away>4</away>
-                <winner>4</winner>
-            </game>
-            <game id="3">
-                <home>5</home>
-                <away>6</away>
-                <winner>6</winner>
-            </game>
-            <game id="4">
-                <home>7</home>
-                <away>8</away>
-                <winner>8</winner>
-            </game>
-            <game id="5">
-                <home>9</home>
-                <away>10</away>
-                <winner>10</winner>
-            </game>
-            <game id="6">
-                <home>11</home>
-                <away>12</away>
-                <winner>12</winner>
-            </game>
-            <game id="7">
-                <home>14</home>
-                <away>16</away>
-                <winner>14</winner>
-            </game>
-            <game id="8">
-                <home>17</home>
-                <away> </away>
-                <winner>17</winner>
-            </game>
-        </round>
-        <round id="3">
-            <completedBy>2018/01/14</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>4</away>
-                <winner>1</winner>
-            </game>
-            <game id="2">
-                <home>6</home>
-                <away>8</away>
-                <winner>8</winner>
-            </game>
-            <game id="3">
-                <home>10</home>
-                <away>12</away>
-                <winner>10</winner>
-            </game>
-            <game id="4">
-                <home>14</home>
-                <away>17</away>
-                <winner>17</winner>
-            </game>
-        </round>
-        <round id="4">
-            <completedBy>2018/02/18</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>8</away>
-                <winner>8</winner>
-            </game>
-            <game id="2">
-                <home>10</home>
-                <away>17</away>
-                <winner>17</winner>
-            </game>
-        </round>
-        <round id="5">
-            <completedBy>NO DATE</completedBy>
-            <game id="1">
-                <home>8</home>
-                <away>17</away>
-                <winner>17</winner>
-            </game>
-        </round>
-    </competition>
-    <competition id="4">
-        <name>Ladies Singles Championship</name>
-        <team id="1">
-            <captain>Shauna Sliep</captain>
-        </team>
-        <team id="2">
-            <captain>Barbara Minnaar</captain>
-        </team>
-        <team id="3">
-            <captain>Janet Van Der Merwe</captain>
-        </team>
-        <team id="4">
-            <captain>Linda Bosch</captain>
-        </team>
-        <team id="5">
-            <captain>Claire Schroder</captain>
-        </team>
         <team id="6">
-            <captain>Eleanor Syme</captain>
+            <captain>Ray Rhodes</captain>
         </team>
         <team id="7">
-            <captain>Kirstin Leader</captain>
-        </team>
-        <team id="8">
-            <captain>Hester Hattingh</captain>
-        </team>
-        <team id="9">
-            <captain>Maureen Love</captain>
-        </team>
-        <team id="10">
-            <captain>Amanda Bekker</captain>
-        </team>
-        <team id="11">
-            <captain>Belinda Economakis</captain>
-        </team>
-        <team id="12">
-            <captain>Elysses Heine</captain>
-        </team>
-        <team id="13">
-            <captain>Theresa Klein</captain>
-        </team>
-        <team id="14">
-            <captain>Melana Selby</captain>
-        </team>
-        <round id="1">
-            <completedBy>2018/01/31</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>2</away>
-                <winner>1</winner>
-            </game>
-            <game id="2">
-                <home>3</home>
-                <away>4</away>
-                <winner>4</winner>
-            </game>
-            <game id="3">
-                <home>5</home>
-                <away>6</away>
-                <winner>6</winner>
-            </game>
-            <game id="4">
-                <home>7</home>
-                <away>8</away>
-                <winner>8</winner>
-            </game>
-            <game id="5">
-                <home>9</home>
-                <away>10</away>
-                <winner>9</winner>
-            </game>
-            <game id="6">
-                <home>11</home>
-                <away>12</away>
-                <winner>11</winner>
-            </game>
-            <game id="7">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-            <game id="8">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-        </round>
-        <round id="2">
-            <completedBy>2018/02/28</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>4</away>
-                <winner>4</winner>
-            </game>
-            <game id="2">
-                <home>6</home>
-                <away>8</away>
-                <winner>6</winner>
-            </game>
-            <game id="3">
-                <home>9</home>
-                <away>11</away>
-                <winner>9</winner>
-            </game>
-            <game id="4">
-                <home>13</home>
-                <away>14</away>
-                <winner>13</winner>
-            </game>
-        </round>
-        <round id="3">
-            <completedBy>2018/03/31</completedBy>
-            <game id="1">
-                <home>4</home>
-                <away>6</away>
-                <winner>6</winner>
-            </game>
-            <game id="2">
-                <home>9</home>
-                <away>13</away>
-                <winner>13</winner>
-            </game>
-        </round>
-        <round id="4">
-            <completedBy>NO DATE</completedBy>
-            <game id="1">
-                <home>6</home>
-                <away>13</away>
-                <winner>6</winner>
-            </game>
-        </round>
-    </competition>
-    <competition id="5">
-        <name>Men's Singles Championship</name>
-        <team id="1">
-            <captain>Tom Kneen</captain>
-        </team>
-        <team id="2">
-            <captain>Gino Lok</captain>
-        </team>
-        <team id="3">
-            <captain>Shane Hallam</captain>
-        </team>
-        <team id="4">
             <captain>Dylan Leader</captain>
         </team>
-        <team id="5">
-            <captain>Micheal Walker</captain>
-        </team>
-        <team id="6">
-            <captain>Graham Ramsden</captain>
-        </team>
-        <team id="7">
-            <captain>Derek Carter</captain>
-        </team>
         <team id="8">
-            <captain>Lee Barnes</captain>
-        </team>
-        <team id="9">
-            <captain>Rick (Withdrew)</captain>
-        </team>
-        <team id="10">
-            <captain>Glenn Minnaar</captain>
-        </team>
-        <team id="11">
-            <captain>Matt Noone</captain>
-        </team>
-        <team id="12">
-            <captain>Ray Green</captain>
-        </team>
-        <team id="13">
-            <captain>Alan Lyall</captain>
-        </team>
-        <team id="14">
-            <captain>Stitch Economakis</captain>
-        </team>
-        <team id="15">
-            <captain>Roland De Gaye</captain>
-        </team>
-        <team id="16">
-            <captain>Eric Dawson</captain>
-        </team>
-        <team id="17">
-            <captain>Andy Selby</captain>
-        </team>
-        <team id="18">
-            <captain>Trevor Leader</captain>
-        </team>
-        <team id="19">
-            <captain>Ian McLaren</captain>
-        </team>
-        <team id="20">
-            <captain>Zane Smith</captain>
-        </team>
-        <team id="21">
-            <captain>Barry Rheeder</captain>
-        </team>
-        <team id="22">
-            <captain>Rodney Gray</captain>
-        </team>
-        <team id="23">
-            <captain>Martin Janse</captain>
-        </team>
-        <team id="24">
-            <captain>Nathan Janse</captain>
-        </team>
-        <team id="25">
-            <captain>Jaco van Deventer</captain>
-        </team>
-        <team id="26">
-            <captain>Coenie Pieterse</captain>
-        </team>
-        <team id="27">
-            <captain>Hans Bakker</captain>
-        </team>
-        <team id="28">
-            <captain>Rikus Heystek</captain>
-        </team>
-        <team id="29">
-            <captain>Ron McAslin</captain>
-        </team>
-        <team id="30">
-            <captain>Herman Sliep</captain>
-        </team>
-        <team id="31">
-            <captain>Cobus Smit</captain>
-        </team>
-        <team id="32">
-            <captain>Sydney Rust</captain>
-        </team>
-        <round id="1">
-            <completedBy>2018/01/31</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>2</away>
-                <winner>2</winner>
-            </game>
-            <game id="2">
-                <home>3</home>
-                <away>4</away>
-                <winner>4</winner>
-            </game>
-            <game id="3">
-                <home>5</home>
-                <away>6</away>
-                <winner>6</winner>
-            </game>
-            <game id="4">
-                <home>7</home>
-                <away>8</away>
-                <winner>8</winner>
-            </game>
-            <game id="5">
-                <home>9</home>
-                <away>10</away>
-                <winner>10</winner>
-            </game>
-            <game id="6">
-                <home>11</home>
-                <away>12</away>
-                <winner>12</winner>
-            </game>
-            <game id="7">
-                <home>13</home>
-                <away>14</away>
-                <winner>13</winner>
-            </game>
-            <game id="8">
-                <home>15</home>
-                <away>16</away>
-                <winner>16</winner>
-            </game>
-            <game id="9">
-                <home>17</home>
-                <away>18</away>
-                <winner>17</winner>
-            </game>
-            <game id="10">
-                <home>19</home>
-                <away>20</away>
-                <winner>20</winner>
-            </game>
-            <game id="11">
-                <home>21</home>
-                <away>22</away>
-                <winner>21</winner>
-            </game>
-            <game id="12">
-                <home>23</home>
-                <away>24</away>
-                <winner>23</winner>
-            </game>
-            <game id="13">
-                <home>25</home>
-                <away>26</away>
-                <winner>26</winner>
-            </game>
-            <game id="14">
-                <home>27</home>
-                <away>28</away>
-                <winner>28</winner>
-            </game>
-            <game id="15">
-                <home>29</home>
-                <away>30</away>
-                <winner>29</winner>
-            </game>
-            <game id="16">
-                <home>31</home>
-                <away>32</away>
-                <winner>31</winner>
-            </game>
-        </round>
-        <round id="2">
-            <completedBy>2018/02/28</completedBy>
-            <game id="1">
-                <home>2</home>
-                <away>4</away>
-                <winner>4</winner>
-            </game>
-            <game id="2">
-                <home>6</home>
-                <away>8</away>
-                <winner>8</winner>
-            </game>
-            <game id="3">
-                <home>10</home>
-                <away>12</away>
-                <winner>12</winner>
-            </game>
-            <game id="4">
-                <home>13</home>
-                <away>16</away>
-                <winner>13</winner>
-            </game>
-            <game id="5">
-                <home>17</home>
-                <away>20</away>
-                <winner>17</winner>
-            </game>
-            <game id="6">
-                <home>21</home>
-                <away>23</away>
-                <winner>23</winner>
-            </game>
-            <game id="7">
-                <home>26</home>
-                <away>28</away>
-                <winner>28</winner>
-            </game>
-            <game id="8">
-                <home>29</home>
-                <away>31</away>
-                <winner>31</winner>
-            </game>
-        </round>
-        <round id="3">
-            <completedBy>2018/03/31</completedBy>
-            <game id="1">
-                <home>4</home>
-                <away>8</away>
-                <winner>4</winner>
-            </game>
-            <game id="2">
-                <home>12</home>
-                <away>13</away>
-                <winner>13</winner>
-            </game>
-            <game id="3">
-                <home>17</home>
-                <away>23</away>
-                <winner>17</winner>
-            </game>
-            <game id="4">
-                <home>28</home>
-                <away>31</away>
-                <winner>28</winner>
-            </game>
-        </round>
-        <round id="4">
-            <completedBy>2018/04/30</completedBy>
-            <game id="1">
-                <home>4</home>
-                <away>13</away>
-                <winner>4</winner>
-            </game>
-            <game id="2">
-                <home>17</home>
-                <away>28</away>
-                <winner>28</winner>
-            </game>
-        </round>
-        <round id="5">
-            <completedBy>NO DATE</completedBy>
-            <game id="1">
-                <home>4</home>
-                <away>28</away>
-                <winner>28</winner>
-            </game>
-        </round>
-    </competition>
-    <competition id="6">
-        <name>Ladies Handicap Singles</name>
-        <team id="1">
-            <captain>Maureen Love</captain>
-        </team>
-        <team id="2">
-            <captain>Janet Van Der Merwe</captain>
-        </team>
-        <team id="3">
-            <captain>Shauna Sliep</captain>
-        </team>
-        <team id="4">
-            <captain>Karen Pieterse</captain>
-        </team>
-        <team id="5">
-            <captain>Elysses Heine</captain>
-        </team>
-        <team id="6">
-            <captain>Theresa Klein</captain>
-        </team>
-        <team id="7">
-            <captain>Eleanor Syme</captain>
-        </team>
-        <team id="8">
-            <captain>Melana Selby</captain>
-        </team>
-        <team id="9">
-            <captain>Christa Chidrawi</captain>
-        </team>
-        <team id="10">
-            <captain>Amanda Bekker</captain>
-        </team>
-        <team id="11">
-            <captain>Rini Prinsloo</captain>
-        </team>
-        <team id="12">
-            <captain>Claire Schroder</captain>
-        </team>
-        <team id="13">
-            <captain>Barbara Minnaar</captain>
-        </team>
-        <team id="14">
-            <captain>Hester Hattingh</captain>
-        </team>
-        <team id="15">
-            <captain>Kirstin Leader</captain>
-        </team>
-        <team id="16">
-            <captain>Belinda Economakis</captain>
-        </team>
-        <round id="1">
-            <completedBy>2018/01/31</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>2</away>
-                <winner>1</winner>
-            </game>
-            <game id="2">
-                <home>3</home>
-                <away>4</away>
-                <winner>4</winner>
-            </game>
-            <game id="3">
-                <home>5</home>
-                <away>6</away>
-                <winner>6</winner>
-            </game>
-            <game id="4">
-                <home>7</home>
-                <away>8</away>
-                <winner>7</winner>
-            </game>
-            <game id="5">
-                <home>9</home>
-                <away>10</away>
-                <winner>10</winner>
-            </game>
-            <game id="6">
-                <home>11</home>
-                <away>12</away>
-                <winner>12</winner>
-            </game>
-            <game id="7">
-                <home>13</home>
-                <away>14</away>
-                <winner>14</winner>
-            </game>
-            <game id="8">
-                <home>15</home>
-                <away>16</away>
-                <winner>15</winner>
-            </game>
-        </round>
-        <round id="2">
-            <completedBy>2018/02/28</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>4</away>
-                <winner>1</winner>
-            </game>
-            <game id="2">
-                <home>6</home>
-                <away>7</away>
-                <winner>7</winner>
-            </game>
-            <game id="3">
-                <home>10</home>
-                <away>12</away>
-                <winner>12</winner>
-            </game>
-            <game id="4">
-                <home>14</home>
-                <away>15</away>
-                <winner>14</winner>
-            </game>
-        </round>
-        <round id="3">
-            <completedBy>2018/03/31</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>7</away>
-                <winner>7</winner>
-            </game>
-            <game id="2">
-                <home>12</home>
-                <away>14</away>
-                <winner>14</winner>
-            </game>
-        </round>
-        <round id="3">
-            <completedBy>NO DATE</completedBy>
-            <game id="1">
-                <home>7</home>
-                <away>14</away>
-                <winner>14</winner>
-            </game>
-        </round>
-    </competition>
-    <competition id="7">
-        <name>Men's Handicap Singles</name>
-        <team id="1">
-            <captain>Graham Ramsden</captain>
-        </team>
-        <team id="2">
-            <captain>Ray Green</captain>
-        </team>
-        <team id="3">
-            <captain>Ian McLaren</captain>
-        </team>
-        <team id="4">
-            <captain>Zane Smith</captain>
-        </team>
-        <team id="5">
-            <captain>Herman Sliep</captain>
-        </team>
-        <team id="6">
-            <captain>Glenn Minnaar</captain>
-        </team>
-        <team id="7">
-            <captain>Shane Hallam</captain>
-        </team>
-        <team id="8">
-            <captain>Sydney Rust</captain>
-        </team>
-        <team id="9">
-            <captain>Roland De Gaye</captain>
-        </team>
-        <team id="10">
-            <captain>Rodney Gray</captain>
-        </team>
-        <team id="11">
-            <captain>Coenie Pieterse</captain>
-        </team>
-        <team id="12">
-            <captain>Gavin Heine</captain>
-        </team>
-        <team id="13">
-            <captain>Gino Lok</captain>
-        </team>
-        <team id="14">
-            <captain>Trevor Leader</captain>
-        </team>
-        <team id="15">
-            <captain>Jaco van Deventer</captain>
-        </team>
-        <team id="16">
-            <captain>Stitch Economakis</captain>
-        </team>
-        <team id="17">
-            <captain>Cobus Smit</captain>
-        </team>
-        <team id="18">
-            <captain>Lee Barnes</captain>
-        </team>
-        <team id="19">
-            <captain>Micheal Walker</captain>
-        </team>
-        <team id="20">
-            <captain>Barry Rheeder</captain>
-        </team>
-        <team id="21">
-            <captain>Ron McAslin (Withdrew)</captain>
-        </team>
-        <team id="22">
-            <captain>Matt Noone</captain>
-        </team>
-        <team id="23">
-            <captain>Nathan Janse</captain>
-        </team>
-        <team id="24">
-            <captain>Alan Lyall</captain>
-        </team>
-        <team id="25">
-            <captain>Hans Bakker</captain>
-        </team>
-        <team id="26">
-            <captain>Eric Dawson (Withdrew)</captain>
-        </team>
-        <team id="27">
-            <captain>Andy Selby</captain>
-        </team>
-        <team id="28">
-            <captain>Derek Carter</captain>
-        </team>
-        <team id="29">
-            <captain>Tom Kneen</captain>
-        </team>
-        <team id="30">
-            <captain>Martin Janse</captain>
-        </team>
-        <team id="31">
-            <captain>Dylan Leader</captain>
-        </team>
-        <team id="32">
-            <captain>Rick van Zyl</captain>
-        </team>
-        <round id="1">
-            <completedBy>2018/01/31</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>2</away>
-                <winner>2</winner>
-            </game>
-            <game id="2">
-                <home>3</home>
-                <away>4</away>
-                <winner>3</winner>
-            </game>
-            <game id="3">
-                <home>5</home>
-                <away>6</away>
-                <winner>6</winner>
-            </game>
-            <game id="4">
-                <home>7</home>
-                <away>8</away>
-                <winner>7</winner>
-            </game>
-            <game id="5">
-                <home>9</home>
-                <away>10</away>
-                <winner>10</winner>
-            </game>
-            <game id="6">
-                <home>11</home>
-                <away>12</away>
-                <winner>11</winner>
-            </game>
-            <game id="7">
-                <home>13</home>
-                <away>14</away>
-                <winner>14</winner>
-            </game>
-            <game id="8">
-                <home>15</home>
-                <away>16</away>
-                <winner>15</winner>
-            </game>
-            <game id="9">
-                <home>17</home>
-                <away>18</away>
-                <winner>18</winner>
-            </game>
-            <game id="10">
-                <home>19</home>
-                <away>20</away>
-                <winner>19</winner>
-            </game>
-            <game id="11">
-                <home>21</home>
-                <away>22</away>
-                <winner>22</winner>
-            </game>
-            <game id="12">
-                <home>23</home>
-                <away>24</away>
-                <winner>23</winner>
-            </game>
-            <game id="13">
-                <home>25</home>
-                <away>26</away>
-                <winner>25</winner>
-            </game>
-            <game id="14">
-                <home>27</home>
-                <away>28</away>
-                <winner>27</winner>
-            </game>
-            <game id="15">
-                <home>29</home>
-                <away>30</away>
-                <winner>30</winner>
-            </game>
-            <game id="16">
-                <home>31</home>
-                <away>32</away>
-                <winner>31</winner>
-            </game>
-        </round>
-        <round id="2">
-            <completedBy>2018/02/28</completedBy>
-            <game id="1">
-                <home>2</home>
-                <away>3</away>
-                <winner>3</winner>
-            </game>
-            <game id="2">
-                <home>6</home>
-                <away>7</away>
-                <winner>6</winner>
-            </game>
-            <game id="3">
-                <home>10</home>
-                <away>11</away>
-                <winner>11</winner>
-            </game>
-            <game id="4">
-                <home>14</home>
-                <away>15</away>
-                <winner>15</winner>
-            </game>
-            <game id="5">
-                <home>18</home>
-                <away>19</away>
-                <winner>19</winner>
-            </game>
-            <game id="6">
-                <home>22</home>
-                <away>23</away>
-                <winner>22</winner>
-            </game>
-            <game id="7">
-                <home>25</home>
-                <away>27</away>
-                <winner>25</winner>
-            </game>
-            <game id="8">
-                <home>30</home>
-                <away>31</away>
-                <winner>31</winner>
-            </game>
-        </round>
-        <round id="3">
-            <completedBy>2018/03/31</completedBy>
-            <game id="1">
-                <home>3</home>
-                <away>6</away>
-                <winner>6</winner>
-            </game>
-            <game id="2">
-                <home>11</home>
-                <away>15</away>
-                <winner>11</winner>
-            </game>
-            <game id="3">
-                <home>19</home>
-                <away>22</away>
-                <winner>19</winner>
-            </game>
-            <game id="4">
-                <home>25</home>
-                <away>31</away>
-                <winner>31</winner>
-            </game>
-        </round>
-        <round id="4">
-            <completedBy>2018/04/30</completedBy>
-            <game id="1">
-                <home>6</home>
-                <away>11</away>
-                <winner>11</winner>
-            </game>
-            <game id="2">
-                <home>19</home>
-                <away>31</away>
-                <winner>31</winner>
-            </game>
-        </round>
-        <round id="5">
-            <completedBy>NO DATE</completedBy>
-            <game id="1">
-                <home>11</home>
-                <away>31</away>
-                <winner>31</winner>
-            </game>
-        </round>
-    </competition>
-    <competition id="8">
-        <name>Ladies Novices</name>
-        <team id="1">
-            <captain>Kirstin Leader</captain>
-        </team>
-        <team id="2">
-            <captain>Rini Prinsloo</captain>
-        </team>
-        <team id="3">
-            <captain>Melana Selby</captain>
-        </team>
-        <team id="4">
-            <captain>Karen Pieterse</captain>
-        </team>
-        <team id="5">
-            <captain>Belinda Economakis</captain>
-        </team>
-        <team id="6">
-            <captain>Elysses Heine</captain>
-        </team>
-        <team id="7">
-            <captain>Janet Van Der Merwe (Withdrew)</captain>
-        </team>
-        <team id="8">
-            <captain>Barbara Minnaar</captain>
-        </team>
-        <team id="9">
-            <captain>Christa Chidrawi (Withdrew)</captain>
-        </team>
-        <round id="1">
-            <completedBy>2018/01/31</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>2</away>
-                <winner>1</winner>
-            </game>
-            <game id="2">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-            <game id="3">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-            <game id="4">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-            <game id="5">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-            <game id="6">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-            <game id="7">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-            <game id="8">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-        </round>
-        <round id="2">
-            <completedBy>2018/02/28</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>3</away>
-                <winner>1</winner>
-            </game>
-            <game id="2">
-                <home>4</home>
-                <away>5</away>
-                <winner>5</winner>
-            </game>
-            <game id="3">
-                <home>6</home>
-                <away>7</away>
-                <winner>6</winner>
-            </game>
-            <game id="4">
-                <home>8</home>
-                <away>9</away>
-                <winner>8</winner>
-            </game>
-        </round>
-        <round id="3">
-            <completedBy>2018/03/31</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>5</away>
-                <winner>1</winner>
-            </game>
-            <game id="2">
-                <home>6</home>
-                <away>8</away>
-                <winner>6</winner>
-            </game>
-        </round>
-        <round id="4">
-            <completedBy>NO DATE</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>6</away>
-                <winner>1</winner>
-            </game>
-        </round>
-    </competition>
-    <competition id="9">
-        <name>Men's Novices</name>
-        <team id="1">
-            <captain>Hans vd Merwe</captain>
-        </team>
-        <team id="2">
-            <captain>Gavin Heine</captain>
-        </team>
-        <team id="3">
-            <captain>Micheal Walker</captain>
-        </team>
-        <team id="4">
-            <captain>Rick van Zyl</captain>
-        </team>
-        <team id="5">
-            <captain>Stitch Economakis</captain>
-        </team>
-        <team id="6">
-            <captain>Roland De Gaye</captain>
-        </team>
-        <team id="7">
-            <captain>Shane Hallam</captain>
-        </team>
-        <team id="8">
-            <captain>Hans Bakker</captain>
-        </team>
-        <round id="1">
-            <completedBy>2018/01/31</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>2</away>
-                <winner>2</winner>
-            </game>
-            <game id="2">
-                <home>3</home>
-                <away>4</away>
-                <winner>4</winner>
-            </game>
-            <game id="3">
-                <home>5</home>
-                <away>6</away>
-                <winner>5</winner>
-            </game>
-            <game id="4">
-                <home>7</home>
-                <away>8</away>
-                <winner>7</winner>
-            </game>
-        </round>
-        <round id="2">
-            <completedBy>2018/02/28</completedBy>
-            <game id="1">
-                <home>2</home>
-                <away>4</away>
-                <winner>2</winner>
-            </game>
-            <game id="2">
-                <home>5</home>
-                <away>7</away>
-                <winner>5</winner>
-            </game>
-        </round>
-        <round id="3">
-            <completedBy>NO DATE</completedBy>
-            <game id="1">
-                <home>2</home>
-                <away>5</away>
-                <winner>5</winner>
-            </game>
-        </round>
-    </competition>
-    <competition id="10">
-        <name>Mixed Pairs</name>
-        <team id="1">
-            <captain>Roland De Gaye</captain>
-        </team>
-        <team id="2">
-            <captain>Willie Shaw</captain>
-        </team>
-        <team id="3">
-            <captain>Trevor Leader</captain>
-        </team>
-        <team id="4">
-            <captain>Michael Walker</captain>
-        </team>
-        <team id="5">
-            <captain>Lee Barnes</captain>
-        </team>
-        <team id="6">
-            <captain>Dylan Leader</captain>
-        </team>
-        <team id="7">
-            <captain>Andy Selby</captain>
-        </team>
-        <team id="8">
-            <captain>Shauna Sliep</captain>
-        </team>
-        <team id="9">
-            <captain>Rodney Gray</captain>
-        </team>
-        <team id="10">
-            <captain>Peter Jacobs</captain>
-        </team>
-        <team id="11">
-            <captain>Glenn Minnaar</captain>
-        </team>
-        <team id="12">
-            <captain>Gavin Heine</captain>
-        </team>
-        <team id="13">
-            <captain>Cobus Smit</captain>
-        </team>
-        <team id="14">
             <captain>Joe Price</captain>
         </team>
-        <team id="15">
+        <team id="9">
             <captain>Johan Landman</captain>
         </team>
+        <team id="10">
+            <captain>Martin Janse</captain>
+        </team>
+        <team id="11">
+            <captain>Tom Kneen</captain>
+        </team>
+        <team id="12">
+            <captain>Roland de Gaye</captain>
+        </team>
+        <team id="13">
+            <captain>Michael Walker</captain>
+        </team>
+        <team id="14">
+            <captain>Sydney Rust</captain>
+        </team>
+        <team id="15">
+            <captain>Brian Muldoon</captain>
+        </team>
         <team id="16">
-            <captain>Coenie Pieterse</captain>
+            <captain>Cobus Smit</captain>
         </team>
         <team id="17">
-            <captain>Ian McLaren</captain>
+            <captain>Jaco van Deventer</captain>
         </team>
         <team id="18">
             <captain>Rudo Botha</captain>
         </team>
         <team id="19">
-            <captain>Alan Lyall</captain>
+            <captain>Sean Letley</captain>
         </team>
         <team id="20">
-            <captain>Stitch Economakis</captain>
-        </team>
-        <team id="21">
-            <captain>Ron McAslin</captain>
-        </team>
-        <team id="22">
-            <captain>Zane Smith</captain>
+            <captain>Rodney Gray</captain>
         </team>
         <round id="1">
-            <completedBy>2018/04/01</completedBy>
+            <completedBy>2018/12/02</completedBy>
             <game id="1">
                 <home>1</home>
                 <away>2</away>
-                <winner>2</winner>
+                <winner> </winner>
             </game>
             <game id="2">
                 <home>3</home>
                 <away>4</away>
-                <winner>3</winner>
+                <winner> </winner>
             </game>
             <game id="3">
                 <home>5</home>
                 <away>6</away>
-                <winner>6</winner>
+                <winner> </winner>
             </game>
             <game id="4">
                 <home>7</home>
                 <away>8</away>
-                <winner>7</winner>
+                <winner> </winner>
             </game>
             <game id="5">
-                <home>9</home>
-                <away>10</away>
-                <winner>9</winner>
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
             </game>
             <game id="6">
-                <home>11</home>
-                <away>12</away>
-                <winner>11</winner>
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
             </game>
             <game id="7">
                 <home> </home>
@@ -1518,287 +269,90 @@
             </game>
         </round>
         <round id="2">
-            <completedBy>2018/04/22</completedBy>
+            <completedBy>2019/01/20</completedBy>
             <game id="1">
-                <home>2</home>
-                <away>3</away>
-                <winner>2</winner>
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
             </game>
             <game id="2">
-                <home>6</home>
-                <away>7</away>
-                <winner>6</winner>
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
             </game>
             <game id="3">
                 <home>9</home>
-                <away>11</away>
-                <winner>9</winner>
+                <away>10</away>
+                <winner> </winner>
             </game>
             <game id="4">
-                <home>13</home>
-                <away>14</away>
-                <winner>14</winner>
+                <home>11</home>
+                <away>12</away>
+                <winner> </winner>
             </game>
             <game id="5">
-                <home>15</home>
-                <away>16</away>
-                <winner>15</winner>
+                <home>13</home>
+                <away>14</away>
+                <winner> </winner>
             </game>
             <game id="6">
-                <home>17</home>
-                <away>18</away>
-                <winner>17</winner>
+                <home>15</home>
+                <away>16</away>
+                <winner> </winner>
             </game>
             <game id="7">
-                <home>19</home>
-                <away>20</away>
-                <winner>19</winner>
+                <home>17</home>
+                <away>18</away>
+                <winner> </winner>
             </game>
             <game id="8">
-                <home>21</home>
-                <away>22</away>
-                <winner>22</winner>
+                <home>19</home>
+                <away>20</away>
+                <winner> </winner>
             </game>
         </round>
         <round id="3">
-            <completedBy>2018/05/13</completedBy>
+            <completedBy>2019/02/17</completedBy>
             <game id="1">
-                <home>2</home>
-                <away>6</away>
-                <winner>2</winner>
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
             </game>
             <game id="2">
-                <home>9</home>
-                <away>14</away>
-                <winner>14</winner>
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
             </game>
             <game id="3">
-                <home>15</home>
-                <away>17</away>
-                <winner>15</winner>
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
             </game>
             <game id="4">
-                <home>19</home>
-                <away>22</away>
-                <winner>19</winner>
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
             </game>
         </round>
         <round id="4">
-            <completedBy>2018/06/03</completedBy>
+            <completedBy>2019/03/17</completedBy>
             <game id="1">
-                <home>2</home>
-                <away>14</away>
-                <winner>14</winner>
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
             </game>
             <game id="2">
-                <home>15</home>
-                <away>19</away>
-                <winner>15</winner>
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
             </game>
         </round>
         <round id="5">
-            <completedBy>NO DATE</completedBy>
+            <completedBy>FINALS DAY</completedBy>
             <game id="1">
-                <home>14</home>
-                <away>15</away>
-                <winner>14</winner>
-            </game>
-        </round>
-    </competition>
-    <competition id="11">
-        <name>Ladies Drawn Pairs</name>
-        <team id="1">
-            <captain>Annie Turner</captain>
-        </team>
-        <team id="2">
-            <captain>Eleanor Syme</captain>
-        </team>
-        <team id="3">
-            <captain>Cheryl van der Westhuizen</captain>
-        </team>
-        <team id="4">
-            <captain>Linda Bosch</captain>
-        </team>
-        <team id="5">
-            <captain>Gina du Plooy</captain>
-        </team>
-        <team id="6">
-            <captain>Shauna Sliep</captain>
-        </team>
-        <round id="1">
-            <completedBy>2018/01/31</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>2</away>
-                <winner>2</winner>
-            </game>
-            <game id="2">
-                <home>3</home>
-                <away>4</away>
-                <winner>3</winner>
-            </game>
-            <game id="3">
-                <home>5</home>
-                <away>6</away>
-                <winner>5</winner>
-            </game>
-            <game id="4">
                 <home> </home>
                 <away> </away>
                 <winner> </winner>
-            </game>
-        </round>
-        <round id="2">
-            <completedBy>2018/02/28</completedBy>
-            <game id="1">
-                <home>2</home>
-                <away>3</away>
-                <winner>2</winner>
-            </game>
-            <game id="2">
-                <home>5</home>
-                <away> </away>
-                <winner>5</winner>
-            </game>
-        </round>
-        <round id="3">
-            <completedBy>NO DATE</completedBy>
-            <game id="1">
-                <home>2</home>
-                <away>5</away>
-                <winner>2</winner>
-            </game>
-        </round>
-    </competition>
-    <competition id="12">
-        <name>Men's Drawn Pairs</name>
-        <team id="1">
-            <captain>Ron McAslin</captain>
-        </team>
-        <team id="2">
-            <captain>Johan Landman</captain>
-        </team>
-        <team id="3">
-            <captain>Peter Jacobs</captain>
-        </team>
-        <team id="4">
-            <captain>Zane Smith</captain>
-        </team>
-        <team id="5">
-            <captain>Steve Turner</captain>
-        </team>
-        <team id="6">
-            <captain>Lee Barnes</captain>
-        </team>
-        <team id="7">
-            <captain>Brian Muldoon</captain>
-        </team>
-        <team id="8">
-            <captain>Adrian Milton</captain>
-        </team>
-        <team id="9">
-            <captain>Jaco van Deventer</captain>
-        </team>
-        <team id="10">
-            <captain>Trevor Leader</captain>
-        </team>
-        <team id="11">
-            <captain>George Van der Westhuizen</captain>
-        </team>
-        <team id="12">
-            <captain>Rodney Gray</captain>
-        </team>
-        <team id="13">
-            <captain>Alan Lyall</captain>
-        </team>
-        <team id="14">
-            <captain>Niekie Bester</captain>
-        </team>
-        <round id="1">
-            <completedBy>NO DATE</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>2</away>
-                <winner>1</winner>
-            </game>
-            <game id="2">
-                <home>3</home>
-                <away>4</away>
-                <winner>4</winner>
-            </game>
-            <game id="3">
-                <home>5</home>
-                <away>6</away>
-                <winner>5</winner>
-            </game>
-            <game id="4">
-                <home>7</home>
-                <away>8</away>
-                <winner>7</winner>
-            </game>
-            <game id="5">
-                <home>9</home>
-                <away>10</away>
-                <winner>9</winner>
-            </game>
-            <game id="6">
-                <home>11</home>
-                <away>12</away>
-                <winner>11</winner>
-            </game>
-            <game id="7">
-                <home>13</home>
-                <away>14</away>
-                <winner>13</winner>
-            </game>
-            <game id="8">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
-            </game>
-        </round>
-        <round id="2">
-            <completedBy>NO DATE</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>4</away>
-                <winner>1</winner>
-            </game>
-            <game id="2">
-                <home>5</home>
-                <away>7</away>
-                <winner>7</winner>
-            </game>
-            <game id="3">
-                <home>9</home>
-                <away>11</away>
-                <winner>9</winner>
-            </game>
-            <game id="4">
-                <home>13</home>
-                <away> </away>
-                <winner>13</winner>
-            </game>
-        </round>
-        <round id="3">
-            <completedBy>NO DATE</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>7</away>
-                <winner>1</winner>
-            </game>
-            <game id="2">
-                <home>9</home>
-                <away>13</away>
-                <winner>9</winner>
-            </game>
-        </round>
-        <round id="4">
-            <completedBy>NO DATE</completedBy>
-            <game id="1">
-                <home>1</home>
-                <away>9</away>
-                <winner>9</winner>
             </game>
         </round>
     </competition>

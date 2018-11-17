@@ -55,7 +55,7 @@ function populateCompetitions(xml) {
         "<div class=\"media-container-row\">" +
         "<div class=\"mbr-text mbr-fonts-style display-7\">" +
         "<div>" +
-        "<p><strong>Competitions for 2017/2018:</strong></p>" +
+        "<p><strong>Competitions for 2018/2019:</strong></p>" +
         "<ol>";
 
     for (i = 0; i < competitions.length; i++) {

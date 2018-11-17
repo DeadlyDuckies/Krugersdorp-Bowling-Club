@@ -63,8 +63,8 @@
             <division_type>Super 4's</division_type>
             <division_no>2</division_no>
             <fours>
-                <skip>Peter Jacobs</skip>
-                <third>Brian Muldoon</third>
+                <skip>Brian Muldoon</skip>
+                <third>Rick van Zyl</third>
                 <second>Barry Rheeder</second>
                 <lead>Hans Bakker</lead>
             </fours>
@@ -73,8 +73,8 @@
             <depart>12:30</depart>
             <captain>Peter Jacobs</captain>
         </team>
-        <reserves>Niekie Bester, Ian McLaren, Rick van Zyl, Micheal Walker</reserves>
-        <unavailable>Joe Price</unavailable>
+        <reserves>Niekie Bester, Ian McLaren, Micheal Walker</reserves>
+        <unavailable>Peter Jacobs, Joe Price</unavailable>
     </mens>
     <ladies>
         <team id="1">
