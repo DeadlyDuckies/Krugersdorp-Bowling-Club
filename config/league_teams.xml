@@ -1,6 +1,6 @@
 <league>
     <title>Krugersdorp Bowling Club League Teams</title>
-    <date>2018/11/17</date>
+    <date>2018/11/24</date>
     <mens>
         <team id="1">
             <division_type>Super 7's</division_type>
@@ -8,7 +8,7 @@
             <fours>
                 <skip>Cobus Smit</skip>
                 <third>Rudo Botha</third>
-                <second>Rodney Gray</second>
+                <second>Ray Rhodes</second>
                 <lead>Andy Selby</lead>
             </fours>
             <trips>
@@ -16,9 +16,9 @@
                 <second>Dylan Leader</second>
                 <lead>Lee Barnes</lead>
             </trips>
-            <venue>Discovery</venue>
-            <opponent>Rustenburg (1)</opponent>
-            <depart>12:30</depart>
+            <venue>Ruimsig</venue>
+            <opponent>Witpoortjie (1)</opponent>
+            <depart>12:45</depart>
             <captain>Dylan Leader</captain>
         </team>
         <team id="2">
@@ -31,13 +31,13 @@
                 <lead>Willie Shaw</lead>
             </fours>
             <trips>
-                <skip>Ray Rhodes</skip>
+                <skip>Rodney Gray</skip>
                 <second>Coenie Pieterse</second>
                 <lead>Stitch Economakis</lead>
             </trips>
-            <venue>Ruimsig</venue>
-            <opponent>Leases (3)</opponent>
-            <depart>12:45</depart>
+            <venue>Krugersdorp</venue>
+            <opponent>Honeydew (2)</opponent>
+            <depart>N/A</depart>
             <captain>Ron McAslin</captain>
         </team>
         <team id="3">
@@ -47,34 +47,34 @@
                 <skip>George van der Westhuizen</skip>
                 <third>Tom Kneen</third>
                 <second>Gavin Heine</second>
-                <lead>Hans van der Merwe</lead>
+                <lead>Rick van Zyl</lead>
             </fours>
             <trips>
                 <skip>Johan Landman</skip>
                 <second>Martin Janse</second>
                 <lead>Kobus Britz</lead>
             </trips>
-            <venue>Krugersdorp</venue>
-            <opponent>Witpoortjie</opponent>
+            <venue>Florida North</venue>
+            <opponent>Florida North</opponent>
             <depart>N/A</depart>
-            <captain>Johan Landman</captain>
+            <captain>Tom Kneen</captain>
         </team>
         <team id="4">
             <division_type>Super 4's</division_type>
             <division_no>2</division_no>
             <fours>
-                <skip>Brian Muldoon</skip>
-                <third>Rick van Zyl</third>
+                <skip>Peter Jacobs</skip>
+                <third>Brian Muldoon</third>
                 <second>Barry Rheeder</second>
                 <lead>Hans Bakker</lead>
             </fours>
-            <venue>Honeydew</venue>
-            <opponent>Discovery (2)</opponent>
-            <depart>12:30</depart>
+            <venue>Krugersdorp</venue>
+            <opponent>Noordheuwel (2)</opponent>
+            <depart>N/A</depart>
             <captain>Peter Jacobs</captain>
         </team>
-        <reserves>Niekie Bester, Ian McLaren, Micheal Walker</reserves>
-        <unavailable>Peter Jacobs, Joe Price</unavailable>
+        <reserves>Niekie Bester, Ian McLaren, Hans van der Merwe, Micheal Walker</reserves>
+        <unavailable>Joe Price</unavailable>
     </mens>
     <ladies>
         <team id="1">
@@ -91,8 +91,8 @@
                 <second>Kirstin Leader</second>
                 <lead>Hester Hattingh</lead>
             </trips>
-            <venue>Witpoortjie</venue>
-            <opponent>Discovery (3)</opponent>
+            <venue>Florida North</venue>
+            <opponent>Ruimsig (2)</opponent>
             <depart>12:30</depart>
             <captain>Shauna Sliep</captain>
         </team>
@@ -105,12 +105,12 @@
                 <second>Melana Selby</second>
                 <lead>Karen Barnes</lead>
             </fours>
-            <venue>Randfontein</venue>
-            <opponent>Ruimsig (2)</opponent>
-            <depart>12:30</depart>
+            <venue>Noordheuwel</venue>
+            <opponent>Ruimsig (1)</opponent>
+            <depart>12:45</depart>
             <captain>Elzie Grobler</captain>
         </team>
-        <reserves> </reserves>
+        <reserves>Linda Bosch</reserves>
         <unavailable>Theresa Klein, Cheryl van der Westhuizen</unavailable>
     </ladies>
     <selectionCommittee>Amanda Bekker, Dylan Leader, Kirstin Leader, Coenie Pieterse, Shauna Sliep, Cobus Smit, Jaco van Deventer (Convener)</selectionCommittee>
