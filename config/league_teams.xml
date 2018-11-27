@@ -1,6 +1,6 @@
 <league>
     <title>Krugersdorp Bowling Club League Teams</title>
-    <date>2018/11/24</date>
+    <date>2018/12/01</date>
     <mens>
         <team id="1">
             <division_type>Super 7's</division_type>
@@ -9,16 +9,16 @@
                 <skip>Cobus Smit</skip>
                 <third>Rudo Botha</third>
                 <second>Ray Rhodes</second>
-                <lead>Andy Selby</lead>
+                <lead>Rick van Zyl</lead>
             </fours>
             <trips>
                 <skip>Jaco van Deventer</skip>
                 <second>Dylan Leader</second>
                 <lead>Lee Barnes</lead>
             </trips>
-            <venue>Ruimsig</venue>
-            <opponent>Witpoortjie (1)</opponent>
-            <depart>12:45</depart>
+            <venue>Krugersdorp</venue>
+            <opponent>Ruimsig (1)</opponent>
+            <depart>N/A</depart>
             <captain>Dylan Leader</captain>
         </team>
         <team id="2">
@@ -35,27 +35,27 @@
                 <second>Coenie Pieterse</second>
                 <lead>Stitch Economakis</lead>
             </trips>
-            <venue>Krugersdorp</venue>
-            <opponent>Honeydew (2)</opponent>
-            <depart>N/A</depart>
+            <venue>Leases</venue>
+            <opponent>Ruimsig (4)</opponent>
+            <depart>12:30</depart>
             <captain>Ron McAslin</captain>
         </team>
         <team id="3">
             <division_type>Super 7's</division_type>
             <division_no>5</division_no>
             <fours>
-                <skip>George van der Westhuizen</skip>
-                <third>Tom Kneen</third>
-                <second>Gavin Heine</second>
-                <lead>Rick van Zyl</lead>
+                <skip>Joe Price</skip>
+                <third>George van der Westhuizen</third>
+                <second>Tom Kneen</second>
+                <lead>Gavin Heine</lead>
             </fours>
             <trips>
                 <skip>Johan Landman</skip>
                 <second>Martin Janse</second>
                 <lead>Kobus Britz</lead>
             </trips>
-            <venue>Florida North</venue>
-            <opponent>Florida North</opponent>
+            <venue>Leases</venue>
+            <opponent>Maraisburg</opponent>
             <depart>12:30</depart>
             <captain>Tom Kneen</captain>
         </team>
@@ -68,32 +68,32 @@
                 <second>Barry Rheeder</second>
                 <lead>Hans Bakker</lead>
             </fours>
-            <venue>Krugersdorp</venue>
-            <opponent>Noordheuwel (2)</opponent>
-            <depart>N/A</depart>
+            <venue>Witpoortjie</venue>
+            <opponent>Maraisburg</opponent>
+            <depart>12:45</depart>
             <captain>Peter Jacobs</captain>
         </team>
         <reserves>Niekie Bester, Ian McLaren, Hans van der Merwe, Micheal Walker</reserves>
-        <unavailable>Joe Price</unavailable>
+        <unavailable>Andy Selby</unavailable>
     </mens>
     <ladies>
         <team id="1">
             <division_type>Super 7's</division_type>
             <division_no>2</division_no>
             <fours>
-                <skip>Shauna Sliep</skip>
-                <third>Ansie Fourie</third>
-                <second>Belinda Economakis</second>
+                <skip>Ansie Fourie</skip>
+                <third>Shauna Sliep</third>
+                <second>Amanda Bekker</second>
                 <lead>Karen Pieterse</lead>
             </fours>
             <trips>
-                <skip>Amanda Bekker</skip>
+                <skip>Theresa Klein</skip>
                 <second>Kirstin Leader</second>
                 <lead>Hester Hattingh</lead>
             </trips>
-            <venue>Florida North</venue>
-            <opponent>Ruimsig (2)</opponent>
-            <depart>12:30</depart>
+            <venue>Krugersdorp</venue>
+            <opponent>Witpoortjie</opponent>
+            <depart>N/A</depart>
             <captain>Shauna Sliep</captain>
         </team>
         <team id="2">
@@ -101,17 +101,17 @@
             <division_no>1</division_no>
             <fours>
                 <skip>Elzie Grobler</skip>
-                <third>Elysses Heine</third>
-                <second>Melana Selby</second>
-                <lead>Karen Barnes</lead>
+                <third>Linda Bosch</third>
+                <second>Elysses Heine</second>
+                <lead>Belinda Economakis</lead>
             </fours>
-            <venue>Noordheuwel</venue>
-            <opponent>Ruimsig (1)</opponent>
-            <depart>12:45</depart>
+            <venue>Ruimsig</venue>
+            <opponent>Honeydew (1)</opponent>
+            <depart>12:30</depart>
             <captain>Elzie Grobler</captain>
         </team>
-        <reserves>Linda Bosch</reserves>
-        <unavailable>Theresa Klein, Cheryl van der Westhuizen</unavailable>
+        <reserves>Karen Barnes</reserves>
+        <unavailable>Melana Selby, Cheryl van der Westhuizen</unavailable>
     </ladies>
     <selectionCommittee>Amanda Bekker, Dylan Leader, Kirstin Leader, Coenie Pieterse, Shauna Sliep, Cobus Smit, Jaco van Deventer (Convener)</selectionCommittee>
     <notes>
