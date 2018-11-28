@@ -16,14 +16,14 @@
                 <second>Dylan Leader</second>
                 <lead>Lee Barnes</lead>
             </trips>
-            <venue>Krugersdorp</venue>
-            <opponent>Ruimsig (1)</opponent>
-            <depart>N/A</depart>
+            <venue>Bye</venue>
+            <opponent> </opponent>
+            <depart> </depart>
             <captain>Dylan Leader</captain>
         </team>
         <team id="2">
             <division_type>Super 7's</division_type>
-            <division_no>4</division_no>
+            <division_no>3</division_no>
             <fours>
                 <skip>Ron McAslin</skip>
                 <third>Trevor Leader</third>
@@ -35,8 +35,8 @@
                 <second>Coenie Pieterse</second>
                 <lead>Stitch Economakis</lead>
             </trips>
-            <venue>Leases</venue>
-            <opponent>Ruimsig (4)</opponent>
+            <venue>Florida North</venue>
+            <opponent>Noordheuwel</opponent>
             <depart>12:30</depart>
             <captain>Ron McAslin</captain>
         </team>
@@ -105,7 +105,7 @@
                 <second>Elysses Heine</second>
                 <lead>Belinda Economakis</lead>
             </fours>
-            <venue>Ruimsig</venue>
+            <venue>Florida North</venue>
             <opponent>Honeydew (1)</opponent>
             <depart>12:30</depart>
             <captain>Elzie Grobler</captain>
