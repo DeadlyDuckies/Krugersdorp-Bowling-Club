@@ -1,5 +1,5 @@
 <competitions>
-    <lastUpdated>2018/11/16</lastUpdated>
+    <lastUpdated>2018/12/05</lastUpdated>
     <competition id="1">
         <name>Ladies Pairs</name>
         <team id="1">
@@ -45,12 +45,12 @@
             <game id="2">
                 <home>3</home>
                 <away>4</away>
-                <winner> </winner>
+                <winner>4</winner>
             </game>
             <game id="3">
                 <home>5</home>
                 <away>6</away>
-                <winner> </winner>
+                <winner>5</winner>
             </game>
             <game id="4">
                 <home> </home>
@@ -82,11 +82,11 @@
             <completedBy>2019/01/20</completedBy>
             <game id="1">
                 <home>1</home>
-                <away> </away>
+                <away>4</away>
                 <winner> </winner>
             </game>
             <game id="2">
-                <home> </home>
+                <home>5</home>
                 <away>7</away>
                 <winner> </winner>
             </game>
@@ -200,12 +200,12 @@
             <game id="3">
                 <home>5</home>
                 <away>6</away>
-                <winner> </winner>
+                <winner>5</winner>
             </game>
             <game id="4">
                 <home>7</home>
                 <away>8</away>
-                <winner> </winner>
+                <winner>8</winner>
             </game>
             <game id="5">
                 <home> </home>
@@ -273,11 +273,11 @@
             <game id="1">
                 <home>2</home>
                 <away>3</away>
-                <winner> </winner>
+                <winner>3</winner>
             </game>
             <game id="2">
-                <home> </home>
-                <away> </away>
+                <home>5</home>
+                <away>8</away>
                 <winner> </winner>
             </game>
             <game id="3">
@@ -303,18 +303,18 @@
             <game id="7">
                 <home>17</home>
                 <away>18</away>
-                <winner> </winner>
+                <winner>17</winner>
             </game>
             <game id="8">
                 <home>19</home>
                 <away>20</away>
-                <winner> </winner>
+                <winner>19</winner>
             </game>
         </round>
         <round id="3">
             <completedBy>2019/02/17</completedBy>
             <game id="1">
-                <home> </home>
+                <home>3</home>
                 <away> </away>
                 <winner> </winner>
             </game>
@@ -329,8 +329,8 @@
                 <winner> </winner>
             </game>
             <game id="4">
-                <home> </home>
-                <away> </away>
+                <home>17</home>
+                <away>19</away>
                 <winner> </winner>
             </game>
         </round>
