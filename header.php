@@ -110,6 +110,10 @@
                             <span class="mbri-extension mbr-iconfont mbr-iconfont-btn"></span>
                             Club Competitions
                         </a>
+                        <a class="dropdown-item text-primary display-4" href="gradings_handicaps" aria-expanded="false">
+                            <span class="mbri-growing-chart mbr-iconfont mbr-iconfont-btn"></span>
+                            Social Grading's and Handicaps
+                        </a>
                         <a class="dropdown-item text-primary display-4" href="league_teams" aria-expanded="false">
                             <span class="mbri-edit mbr-iconfont mbr-iconfont-btn"></span>
                             League Teams
