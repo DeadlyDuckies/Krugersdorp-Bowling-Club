@@ -1,5 +1,5 @@
 <competitions>
-    <lastUpdated>2018/12/05</lastUpdated>
+    <lastUpdated>2018/01/08</lastUpdated>
     <competition id="1">
         <name>Ladies Pairs</name>
         <team id="1">
@@ -200,7 +200,7 @@
             <game id="3">
                 <home>5</home>
                 <away>6</away>
-                <winner>5</winner>
+                <winner>6</winner>
             </game>
             <game id="4">
                 <home>7</home>
@@ -276,9 +276,9 @@
                 <winner>3</winner>
             </game>
             <game id="2">
-                <home>5</home>
+                <home>6</home>
                 <away>8</away>
-                <winner> </winner>
+                <winner>6</winner>
             </game>
             <game id="3">
                 <home>9</home>
@@ -315,7 +315,7 @@
             <completedBy>2019/02/17</completedBy>
             <game id="1">
                 <home>3</home>
-                <away> </away>
+                <away>6</away>
                 <winner> </winner>
             </game>
             <game id="2">

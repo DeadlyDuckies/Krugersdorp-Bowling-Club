@@ -1,6 +1,6 @@
 <league>
     <title>Krugersdorp Bowling Club League Teams</title>
-    <date>2018/12/08</date>
+    <date>2019/01/12</date>
     <mens>
         <team id="1">
             <division_type>Super 7's</division_type>
@@ -16,8 +16,8 @@
                 <second>Dylan Leader</second>
                 <lead>Lee Barnes</lead>
             </trips>
-            <venue>Discovery</venue>
-            <opponent>Discovery (1)</opponent>
+            <venue>Florida North</venue>
+            <opponent>Leases (1)</opponent>
             <depart>12:30</depart>
             <captain>Dylan Leader</captain>
         </team>
@@ -25,23 +25,23 @@
             <division_type>Super 7's</division_type>
             <division_no>3</division_no>
             <fours>
-                <skip>Graeme Morton</skip>
-                <third>Trevor Leader</third>
-                <second>Herman Sliep</second>
+                <skip>Ron McAslin</skip>
+                <third>Graeme Morton</third>
+                <second>Trevor Leader</second>
                 <lead>Willie Shaw</lead>
             </fours>
             <trips>
                 <skip>Rodney Gray</skip>
                 <second>Coenie Pieterse</second>
-                <lead>George van der Westhuizen</lead>
+                <lead>Stitch Economakis</lead>
             </trips>
-            <venue>Leases</venue>
-            <opponent>Discovery (4)</opponent>
-            <depart>12:30</depart>
+            <venue>Witpoortjie</venue>
+            <opponent>Witpoortjie (2)</opponent>
+            <depart>12:45</depart>
             <captain>Coenie Pieterse</captain>
         </team>
-        <reserves>Hans Bakker, Niekie Bester, Kobus Britz, Peter Jacobs, Martin Janse, Tom Kneen, Johan Landman, Ian McLaren, Brian Muldoon, Joe Price, Barry Rheeder, Hans van der Merwe, Rick van Zyl, Micheal Walker</reserves>
-        <unavailable>Stitch Economakis, Gavin Heine, Ron McAslin</unavailable>
+        <reserves>Hans Bakker, Niekie Bester, Kobus Britz, Arthur Daniel, Gavin Heine, Peter Jacobs, Martin Janse, Tom Kneen, Johan Landman, Ian McLaren, Brian Muldoon, Joe Price, Barry Rheeder, Herman Sliep, Hans van der Merwe, Rick van Zyl, Micheal Walker</reserves>
+        <unavailable>George van der Westhuizen</unavailable>
     </mens>
     <ladies>
         <team id="1">
@@ -54,32 +54,32 @@
                 <lead>Karen Pieterse</lead>
             </fours>
             <trips>
-                <skip>Elzie Grobler</skip>
-                <second>Kirstin Leader</second>
-                <lead>Belinda Economakis</lead>
+                <skip>Yvonne Brenner</skip>
+                <second>Bokkie Delport</second>
+                <lead>Hester Hattingh</lead>
             </trips>
-            <venue>Discovery</venue>
-            <opponent>Florida North</opponent>
-            <depart>12:30</depart>
+            <venue>Witpoortjie</venue>
+            <opponent>Discovery (2)</opponent>
+            <depart>12:45</depart>
             <captain>Shauna Sliep</captain>
         </team>
         <team id="2">
             <division_type>Super 4's</division_type>
             <division_no>1</division_no>
             <fours>
-                <skip>Linda Bosch</skip>
-                <third>Theresa Klein</third>
-                <second>Elysses Heine</second>
-                <lead>Hester Hattingh</lead>
+                <skip>Cheryl van der Westhuizen</skip>
+                <third>Elzie Grobler</third>
+                <second>Theresa Klein</second>
+                <lead>Belinda Economakis</lead>
             </fours>
-            <venue>Honeydew</venue>
-            <opponent>Noordheuwel</opponent>
-            <depart>12:30</depart>
-            <captain>Linda Bosch</captain>
+            <venue>Krugersdorp</venue>
+            <opponent>Randfontein</opponent>
+            <depart>N/A</depart>
+            <captain>Elzie Grobler</captain>
         </team>
 
-        <reserves>Karen Barnes, Melana Selby</reserves>
-        <unavailable>Cheryl van der Westhuizen</unavailable>
+        <reserves>Karen Barnes, Linda Bosch, Elysses Heine, Melana Selby</reserves>
+        <unavailable>Kirstin Leader</unavailable>
     </ladies>
     <selectionCommittee>Amanda Bekker, Dylan Leader, Kirstin Leader, Coenie Pieterse, Shauna Sliep, Cobus Smit, Jaco van Deventer (Convener)</selectionCommittee>
     <notes>
