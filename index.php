@@ -35,6 +35,7 @@
         <section class="cid-qztagOMwAz" id="image2-1m" data-rv-view="8">
             <figure class="mbr-figure container">
                 <div class="w3-content w3-display-container w3-section">
+                    <img class="mySlides" src="assets/images/GoldRush2018Winners.JPG" style="width:100%">
                     <img class="mySlides" src="assets/images/KBC_U35_2018.jpg" style="width:100%">
                     <img class="mySlides" src="assets/images/GoldRush2017Winners.jpeg" style="width:100%">
                     <img class="mySlides" src="assets/images/homePage.jpg" style="width:100%">

@@ -1,5 +1,5 @@
 <competitions>
-    <lastUpdated>2018/01/08</lastUpdated>
+    <lastUpdated>2018/01/11</lastUpdated>
     <competition id="1">
         <name>Ladies Pairs</name>
         <team id="1">
@@ -83,12 +83,12 @@
             <game id="1">
                 <home>1</home>
                 <away>4</away>
-                <winner> </winner>
+                <winner>4</winner>
             </game>
             <game id="2">
                 <home>5</home>
                 <away>7</away>
-                <winner> </winner>
+                <winner>5</winner>
             </game>
             <game id="3">
                 <home>8</home>
@@ -104,8 +104,8 @@
         <round id="3">
             <completedBy>2019/02/17</completedBy>
             <game id="1">
-                <home> </home>
-                <away> </away>
+                <home>4</home>
+                <away>5</away>
                 <winner> </winner>
             </game>
             <game id="2">
@@ -298,7 +298,7 @@
             <game id="6">
                 <home>15</home>
                 <away>16</away>
-                <winner> </winner>
+                <winner>16</winner>
             </game>
             <game id="7">
                 <home>17</home>
@@ -325,7 +325,7 @@
             </game>
             <game id="3">
                 <home> </home>
-                <away> </away>
+                <away>16</away>
                 <winner> </winner>
             </game>
             <game id="4">
@@ -348,6 +348,1870 @@
             </game>
         </round>
         <round id="5">
+            <completedBy>FINALS DAY</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+    </competition>
+    <competition id="3">
+        <name>Ladies Championship Singles</name>
+        <team id="1">
+            <captain>Kirstin Leader</captain>
+        </team>
+        <team id="2">
+            <captain>Hester Hattingh</captain>
+        </team>
+        <team id="3">
+            <captain>Sybil Hurwitz</captain>
+        </team>
+        <team id="4">
+            <captain>Christa Chidrawi</captain>
+        </team>
+        <team id="5">
+            <captain>Barbara Minnaar</captain>
+        </team>
+        <team id="6">
+            <captain>Theresa Klein</captain>
+        </team>
+        <team id="7">
+            <captain>Mabs Rees</captain>
+        </team>
+        <team id="8">
+            <captain>Lynette Leader</captain>
+        </team>
+        <team id="9">
+            <captain>Elzie Grobler</captain>
+        </team>
+        <team id="10">
+            <captain>Yvonne Brenner</captain>
+        </team>
+        <team id="11">
+            <captain>Shauna Sliep</captain>
+        </team>
+        <team id="12">
+            <captain>Elysses Heine</captain>
+        </team>
+        <team id="13">
+            <captain>Maureen Love</captain>
+        </team>
+        <team id="14">
+            <captain>Melana Selby</captain>
+        </team>
+        <team id="15">
+            <captain>Bokkie Delport</captain>
+        </team>
+        <team id="16">
+            <captain>Linda Bosch</captain>
+        </team>
+        <team id="17">
+            <captain>Lucille Keyter</captain>
+        </team>
+        <team id="18">
+            <captain>Cheryl Van Der Westhuizen</captain>
+        </team>
+        <team id="19">
+            <captain>Belinda Economakis</captain>
+        </team>
+        <team id="20">
+            <captain>Ansie Fourie</captain>
+        </team>
+        <team id="21">
+            <captain>Karen Pieterse</captain>
+        </team>
+        <team id="22">
+            <captain>Karen Barnes</captain>
+        </team>
+        <round id="1">
+            <completedBy>2019/03/03</completedBy>
+            <game id="1">
+                <home>1</home>
+                <away>2</away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home>3</home>
+                <away>4</away>
+                <winner> </winner>
+            </game>
+            <game id="3">
+                <home>5</home>
+                <away>6</away>
+                <winner> </winner>
+            </game>
+            <game id="4">
+                <home>7</home>
+                <away>8</away>
+                <winner> </winner>
+            </game>
+            <game id="5">
+                <home>9</home>
+                <away>10</away>
+                <winner> </winner>
+            </game>
+            <game id="6">
+                <home>11</home>
+                <away>12</away>
+                <winner> </winner>
+            </game>
+            <game id="7">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="8">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="9">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="10">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="11">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="12">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="13">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="14">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="15">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="16">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="2">
+            <completedBy>2019/03/24</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="3">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="4">
+                <home>13</home>
+                <away>14</away>
+                <winner> </winner>
+            </game>
+            <game id="5">
+                <home>15</home>
+                <away>16</away>
+                <winner> </winner>
+            </game>
+            <game id="6">
+                <home>17</home>
+                <away>18</away>
+                <winner> </winner>
+            </game>
+            <game id="7">
+                <home>19</home>
+                <away>20</away>
+                <winner> </winner>
+            </game>
+            <game id="8">
+                <home>21</home>
+                <away>22</away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="3">
+            <completedBy>2019/04/14</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="3">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="4">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="4">
+            <completedBy>2019/05/12</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="5">
+            <completedBy>FINALS DAY</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+    </competition>
+    <competition id="4">
+        <name>Men's Championship Singles</name>
+        <team id="1">
+            <captain>Coenie Pieterse</captain>
+        </team>
+        <team id="2">
+            <captain>Ralph Travis</captain>
+        </team>
+        <team id="3">
+            <captain>Roland  De Gaye</captain>
+        </team>
+        <team id="4">
+            <captain>Sydney Rust</captain>
+        </team>
+        <team id="5">
+            <captain>Michael Walker</captain>
+        </team>
+        <team id="6">
+            <captain>Andy Selby</captain>
+        </team>
+        <team id="7">
+            <captain>Joe Price</captain>
+        </team>
+        <team id="8">
+            <captain>Ray Rhodes</captain>
+        </team>
+        <team id="9">
+            <captain>Shane Hallam</captain>
+        </team>
+        <team id="10">
+            <captain>Felix Nel</captain>
+        </team>
+        <team id="11">
+            <captain>Trevor Leader</captain>
+        </team>
+        <team id="12">
+            <captain>Dylan Leader</captain>
+        </team>
+        <team id="13">
+            <captain>Tom Kneen</captain>
+        </team>
+        <team id="14">
+            <captain>Rob Scott</captain>
+        </team>
+        <team id="15">
+            <captain>Lee Barnes</captain>
+        </team>
+        <team id="16">
+            <captain>Martin Janse</captain>
+        </team>
+        <team id="17">
+            <captain>Rodney Gray</captain>
+        </team>
+        <team id="18">
+            <captain>Cobus Smit</captain>
+        </team>
+        <team id="19">
+            <captain>Mike Sampson</captain>
+        </team>
+        <team id="20">
+            <captain>Teran van Zyl</captain>
+        </team>
+        <team id="21">
+            <captain>Allan Thomson</captain>
+        </team>
+        <team id="22">
+            <captain>Barry Rheeder</captain>
+        </team>
+        <team id="23">
+            <captain>Glenn Minnaar</captain>
+        </team>
+        <team id="24">
+            <captain>George Van Der Westhuizen</captain>
+        </team>
+        <team id="25">
+            <captain>Graeme Morton</captain>
+        </team>
+        <team id="26">
+            <captain>Hans Bakker</captain>
+        </team>
+        <team id="27">
+            <captain>Kobus Britz</captain>
+        </team>
+        <team id="28">
+            <captain>Adrian Milton</captain>
+        </team>
+        <team id="29">
+            <captain>Derek Carter</captain>
+        </team>
+        <team id="30">
+            <captain>Willie Shaw</captain>
+        </team>
+        <team id="31">
+            <captain>Ken Tholet</captain>
+        </team>
+        <team id="32">
+            <captain>James Mnyalira</captain>
+        </team>
+        <team id="33">
+            <captain>Sean Letley</captain>
+        </team>
+        <team id="34">
+            <captain>Rick van Zyl</captain>
+        </team>
+        <team id="35">
+            <captain>Gavin Heine</captain>
+        </team>
+        <team id="36">
+            <captain>Niekie Bester</captain>
+        </team>
+        <team id="37">
+            <captain>Ian Morton</captain>
+        </team>
+        <team id="38">
+            <captain>Herman Sliep</captain>
+        </team>
+        <team id="39">
+            <captain>Rudo Botha</captain>
+        </team>
+        <team id="40">
+            <captain>Glenn Gray</captain>
+        </team>
+        <team id="41">
+            <captain>Alan Lyall</captain>
+        </team>
+        <team id="42">
+            <captain>Stitch Economakis</captain>
+        </team>
+        <team id="43">
+            <captain>Ron McAslin</captain>
+        </team>
+        <team id="44">
+            <captain>Jaco van Deventer</captain>
+        </team>
+        <team id="45">
+            <captain>Ian McLaren</captain>
+        </team>
+        <team id="46">
+            <captain>Lex Morton</captain>
+        </team>
+        <team id="47">
+            <captain>Bennie Rosslee</captain>
+        </team>
+        <round id="1">
+            <completedBy>2019/02/10</completedBy>
+            <game id="1">
+                <home>1</home>
+                <away>2</away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home>3</home>
+                <away>4</away>
+                <winner> </winner>
+            </game>
+            <game id="3">
+                <home>5</home>
+                <away>6</away>
+                <winner> </winner>
+            </game>
+            <game id="4">
+                <home>7</home>
+                <away>8</away>
+                <winner> </winner>
+            </game>
+            <game id="5">
+                <home>9</home>
+                <away>10</away>
+                <winner> </winner>
+            </game>
+            <game id="6">
+                <home>11</home>
+                <away>12</away>
+                <winner> </winner>
+            </game>
+            <game id="7">
+                <home>13</home>
+                <away>14</away>
+                <winner> </winner>
+            </game>
+            <game id="8">
+                <home>15</home>
+                <away>16</away>
+                <winner> </winner>
+            </game>
+            <game id="9">
+                <home>17</home>
+                <away>18</away>
+                <winner> </winner>
+            </game>
+            <game id="10">
+                <home>19</home>
+                <away>20</away>
+                <winner> </winner>
+            </game>
+            <game id="11">
+                <home>21</home>
+                <away>22</away>
+                <winner> </winner>
+            </game>
+            <game id="12">
+                <home>23</home>
+                <away>24</away>
+                <winner> </winner>
+            </game>
+            <game id="13">
+                <home>25</home>
+                <away>26</away>
+                <winner> </winner>
+            </game>
+            <game id="14">
+                <home>27</home>
+                <away>28</away>
+                <winner> </winner>
+            </game>
+            <game id="15">
+                <home>29</home>
+                <away>30</away>
+                <winner> </winner>
+            </game>
+            <game id="16">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="17">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="18">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="19">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="20">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="21">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="22">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="23">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="24">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="25">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="26">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="27">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="28">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="29">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="30">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="31">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="32">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="2">
+            <completedBy>2019/03/03</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="3">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="4">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="5">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="6">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="7">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="8">
+                <home> </home>
+                <away>31</away>
+                <winner> </winner>
+            </game>
+            <game id="9">
+                <home>32</home>
+                <away>33</away>
+                <winner> </winner>
+            </game>
+            <game id="10">
+                <home>34</home>
+                <away>35</away>
+                <winner> </winner>
+            </game>
+            <game id="11">
+                <home>36</home>
+                <away>37</away>
+                <winner> </winner>
+            </game>
+            <game id="12">
+                <home>38</home>
+                <away>39</away>
+                <winner> </winner>
+            </game>
+            <game id="13">
+                <home>40</home>
+                <away>41</away>
+                <winner> </winner>
+            </game>
+            <game id="14">
+                <home>42</home>
+                <away>43</away>
+                <winner> </winner>
+            </game>
+            <game id="15">
+                <home>44</home>
+                <away>45</away>
+                <winner> </winner>
+            </game>
+            <game id="16">
+                <home>46</home>
+                <away>47</away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="3">
+            <completedBy>2019/03/24</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="3">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="4">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="5">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="6">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="7">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="8">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="4">
+            <completedBy>2019/04/14</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="3">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="4">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="5">
+            <completedBy>2019/05/12</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="6">
+            <completedBy>FINALS DAY</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+    </competition>
+    <competition id="5">
+        <name>Ladies Handicap Singles</name>
+        <team id="1">
+            <captain>Theresa Klein</captain>
+        </team>
+        <team id="2">
+            <captain>Lucille Keyter</captain>
+        </team>
+        <team id="3">
+            <captain>Elzie Grobler</captain>
+        </team>
+        <team id="4">
+            <captain>Ansie Fourie</captain>
+        </team>
+        <team id="5">
+            <captain>Hester Hattingh</captain>
+        </team>
+        <team id="6">
+            <captain>Rini Prinsloo</captain>
+        </team>
+        <team id="7">
+            <captain>Claire Schroder</captain>
+        </team>
+        <team id="8">
+            <captain>Mabs Rees</captain>
+        </team>
+        <team id="9">
+            <captain>Karen Pieterse</captain>
+        </team>
+        <team id="10">
+            <captain>Christa Chidrawi</captain>
+        </team>
+        <team id="11">
+            <captain>Karen Barnes</captain>
+        </team>
+        <team id="12">
+            <captain>Barbara Minnaar</captain>
+        </team>
+        <team id="13">
+            <captain>Sybil Hurwitz</captain>
+        </team>
+        <team id="14">
+            <captain>Yvonne Brenner</captain>
+        </team>
+        <team id="15">
+            <captain>Melana Selby</captain>
+        </team>
+        <team id="16">
+            <captain>Elysses Heine</captain>
+        </team>
+        <team id="17">
+            <captain>Maureen Love</captain>
+        </team>
+        <team id="18">
+            <captain>Lynette Leader</captain>
+        </team>
+        <team id="19">
+            <captain>Kirstin Leader</captain>
+        </team>
+        <team id="20">
+            <captain>Shauna Sliep</captain>
+        </team>
+        <team id="21">
+            <captain>Belinda Economakis</captain>
+        </team>
+        <team id="22">
+            <captain>Bokkie Delport</captain>
+        </team>
+        <round id="1">
+            <completedBy>2019/03/03</completedBy>
+            <game id="1">
+                <home>1</home>
+                <away>2</away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home>3</home>
+                <away>4</away>
+                <winner> </winner>
+            </game>
+            <game id="3">
+                <home>5</home>
+                <away>6</away>
+                <winner> </winner>
+            </game>
+            <game id="4">
+                <home>7</home>
+                <away>8</away>
+                <winner> </winner>
+            </game>
+            <game id="5">
+                <home>9</home>
+                <away>10</away>
+                <winner> </winner>
+            </game>
+            <game id="6">
+                <home>11</home>
+                <away>12</away>
+                <winner> </winner>
+            </game>
+            <game id="7">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="8">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="9">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="10">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="11">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="12">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="13">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="14">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="15">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="16">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="2">
+            <completedBy>2019/03/24</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="3">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="4">
+                <home>13</home>
+                <away>14</away>
+                <winner> </winner>
+            </game>
+            <game id="5">
+                <home>15</home>
+                <away>16</away>
+                <winner> </winner>
+            </game>
+            <game id="6">
+                <home>17</home>
+                <away>18</away>
+                <winner> </winner>
+            </game>
+            <game id="7">
+                <home>19</home>
+                <away>20</away>
+                <winner> </winner>
+            </game>
+            <game id="8">
+                <home>21</home>
+                <away>22</away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="3">
+            <completedBy>2019/04/14</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="3">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="4">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="4">
+            <completedBy>2019/05/12</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="5">
+            <completedBy>FINALS DAY</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+    </competition>
+    <competition id="6">
+        <name>Men's Handicap Singles</name>
+        <team id="1">
+            <captain>Ian Morton</captain>
+        </team>
+        <team id="2">
+            <captain>Mike Sampson</captain>
+        </team>
+        <team id="3">
+            <captain>Roland  De Gaye</captain>
+        </team>
+        <team id="4">
+            <captain>Glenn Minnaar</captain>
+        </team>
+        <team id="5">
+            <captain>Rob Scott</captain>
+        </team>
+        <team id="6">
+            <captain>Barry Rheeder</captain>
+        </team>
+        <team id="7">
+            <captain>Jaco van Deventer</captain>
+        </team>
+        <team id="8">
+            <captain>Niekie Bester</captain>
+        </team>
+        <team id="9">
+            <captain>Allan Thomson</captain>
+        </team>
+        <team id="10">
+            <captain>Ken Tholet</captain>
+        </team>
+        <team id="11">
+            <captain>James Mnyalira</captain>
+        </team>
+        <team id="12">
+            <captain>Rick van Zyl</captain>
+        </team>
+        <team id="13">
+            <captain>Adrian Milton</captain>
+        </team>
+        <team id="14">
+            <captain>George Van Der Westhuizen</captain>
+        </team>
+        <team id="15">
+            <captain>Joe Price</captain>
+        </team>
+        <team id="16">
+            <captain>Shane Hallam</captain>
+        </team>
+        <team id="17">
+            <captain>Sean Letley</captain>
+        </team>
+        <team id="18">
+            <captain>Teran van Zyl</captain>
+        </team>
+        <team id="19">
+            <captain>Rodney Gray</captain>
+        </team>
+        <team id="20">
+            <captain>Tom Kneen</captain>
+        </team>
+        <team id="21">
+            <captain>Andy Selby</captain>
+        </team>
+        <team id="22">
+            <captain>Dylan Leader</captain>
+        </team>
+        <team id="23">
+            <captain>Stitch Economakis</captain>
+        </team>
+        <team id="24">
+            <captain>Ray Rhodes</captain>
+        </team>
+        <team id="25">
+            <captain>Gavin Heine</captain>
+        </team>
+        <team id="26">
+            <captain>Bennie Rosslee</captain>
+        </team>
+        <team id="27">
+            <captain>Ian McLaren</captain>
+        </team>
+        <team id="28">
+            <captain>Alan Lyall</captain>
+        </team>
+        <team id="29">
+            <captain>Felix Nel</captain>
+        </team>
+        <team id="30">
+            <captain>Sydney Rust</captain>
+        </team>
+        <team id="31">
+            <captain>Lee Barnes</captain>
+        </team>
+        <team id="32">
+            <captain>Rudo Botha</captain>
+        </team>
+        <team id="33">
+            <captain>Ralph Travis</captain>
+        </team>
+        <team id="34">
+            <captain>Graeme Morton</captain>
+        </team>
+        <team id="35">
+            <captain>Kobus Britz</captain>
+        </team>
+        <team id="36">
+            <captain>Ron McAslin</captain>
+        </team>
+        <team id="37">
+            <captain>Derek Carter</captain>
+        </team>
+        <team id="38">
+            <captain>Coenie Pieterse</captain>
+        </team>
+        <team id="39">
+            <captain>Lex Morton</captain>
+        </team>
+        <team id="40">
+            <captain>Hans Bakker</captain>
+        </team>
+        <team id="41">
+            <captain>Trevor Leader</captain>
+        </team>
+        <team id="42">
+            <captain>Michael Walker</captain>
+        </team>
+        <team id="43">
+            <captain>Willie Shaw</captain>
+        </team>
+        <team id="44">
+            <captain>Glenn Gray</captain>
+        </team>
+        <team id="45">
+            <captain>Herman Sliep</captain>
+        </team>
+        <team id="46">
+            <captain>Cobus Smit</captain>
+        </team>
+        <team id="47">
+            <captain>Martin Janse</captain>
+        </team>
+        <round id="1">
+            <completedBy>2019/02/10</completedBy>
+            <game id="1">
+                <home>1</home>
+                <away>2</away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home>3</home>
+                <away>4</away>
+                <winner> </winner>
+            </game>
+            <game id="3">
+                <home>5</home>
+                <away>6</away>
+                <winner> </winner>
+            </game>
+            <game id="4">
+                <home>7</home>
+                <away>8</away>
+                <winner> </winner>
+            </game>
+            <game id="5">
+                <home>9</home>
+                <away>10</away>
+                <winner> </winner>
+            </game>
+            <game id="6">
+                <home>11</home>
+                <away>12</away>
+                <winner> </winner>
+            </game>
+            <game id="7">
+                <home>13</home>
+                <away>14</away>
+                <winner> </winner>
+            </game>
+            <game id="8">
+                <home>15</home>
+                <away>16</away>
+                <winner> </winner>
+            </game>
+            <game id="9">
+                <home>17</home>
+                <away>18</away>
+                <winner> </winner>
+            </game>
+            <game id="10">
+                <home>19</home>
+                <away>20</away>
+                <winner> </winner>
+            </game>
+            <game id="11">
+                <home>21</home>
+                <away>22</away>
+                <winner> </winner>
+            </game>
+            <game id="12">
+                <home>23</home>
+                <away>24</away>
+                <winner> </winner>
+            </game>
+            <game id="13">
+                <home>25</home>
+                <away>26</away>
+                <winner> </winner>
+            </game>
+            <game id="14">
+                <home>27</home>
+                <away>28</away>
+                <winner> </winner>
+            </game>
+            <game id="15">
+                <home>29</home>
+                <away>30</away>
+                <winner> </winner>
+            </game>
+            <game id="16">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="17">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="18">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="19">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="20">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="21">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="22">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="23">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="24">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="25">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="26">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="27">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="28">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="29">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="30">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="31">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="32">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="2">
+            <completedBy>2019/03/03</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="3">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="4">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="5">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="6">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="7">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="8">
+                <home> </home>
+                <away>31</away>
+                <winner> </winner>
+            </game>
+            <game id="9">
+                <home>32</home>
+                <away>33</away>
+                <winner> </winner>
+            </game>
+            <game id="10">
+                <home>34</home>
+                <away>35</away>
+                <winner> </winner>
+            </game>
+            <game id="11">
+                <home>36</home>
+                <away>37</away>
+                <winner> </winner>
+            </game>
+            <game id="12">
+                <home>38</home>
+                <away>39</away>
+                <winner> </winner>
+            </game>
+            <game id="13">
+                <home>40</home>
+                <away>41</away>
+                <winner> </winner>
+            </game>
+            <game id="14">
+                <home>42</home>
+                <away>43</away>
+                <winner> </winner>
+            </game>
+            <game id="15">
+                <home>44</home>
+                <away>45</away>
+                <winner> </winner>
+            </game>
+            <game id="16">
+                <home>46</home>
+                <away>47</away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="3">
+            <completedBy>2019/03/24</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="3">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="4">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="5">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="6">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="7">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="8">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="4">
+            <completedBy>2019/04/14</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="3">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="4">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="5">
+            <completedBy>2019/05/12</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="6">
+            <completedBy>FINALS DAY</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+    </competition>
+    <competition id="7">
+        <name>Ladies Novices</name>
+        <team id="1">
+            <captain>Melana Selby</captain>
+        </team>
+        <team id="2">
+            <captain>Ansie Fourie</captain>
+        </team>
+        <team id="3">
+            <captain>Belinda Economakis</captain>
+        </team>
+        <team id="4">
+            <captain>Sybil Hurwitz</captain>
+        </team>
+        <team id="5">
+            <captain>Karen Barnes</captain>
+        </team>
+        <team id="6">
+            <captain>Rini Prinsloo</captain>
+        </team>
+        <team id="7">
+            <captain>Theresa Klein</captain>
+        </team>
+        <team id="8">
+            <captain>Elysses Heine</captain>
+        </team>
+        <league>
+            <section id="1">
+                <headerround id="1">
+                    <completedBy>2019/03/03</completedBy>
+                </headerround>
+                <headerround id="2">
+                    <completedBy>2019/03/24</completedBy>
+                </headerround>
+                <headerround id="3">
+                    <completedBy>2019/04/14</completedBy>
+                </headerround>
+                <team id="1">
+                    <leagueround id="1">
+                        <opponent>2</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="2">
+                        <opponent>3</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="3">
+                        <opponent>4</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <position> </position>
+                </team>
+                <team id="2">
+                    <leagueround id="1">
+                        <opponent>1</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="2">
+                        <opponent>4</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="3">
+                        <opponent>3</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <position> </position>
+                </team>
+                <team id="3">
+                    <leagueround id="1">
+                        <opponent>4</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="2">
+                        <opponent>1</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="3">
+                        <opponent>2</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <position> </position>
+                </team>
+                <team id="4">
+                    <leagueround id="1">
+                        <opponent>3</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="2">
+                        <opponent>2</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="3">
+                        <opponent>1</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <position> </position>
+                </team>
+            </section>
+            <section id="2">
+                <headerround id="1">
+                    <completedBy>2019/03/03</completedBy>
+                </headerround>
+                <headerround id="2">
+                    <completedBy>2019/03/24</completedBy>
+                </headerround>
+                <headerround id="3">
+                    <completedBy>2019/04/14</completedBy>
+                </headerround>
+                <team id="5">
+                    <leagueround id="1">
+                        <opponent>2</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="2">
+                        <opponent>3</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="3">
+                        <opponent>4</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <position> </position>
+                </team>
+                <team id="6">
+                    <leagueround id="1">
+                        <opponent>1</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="2">
+                        <opponent>4</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="3">
+                        <opponent>3</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <position> </position>
+                </team>
+                <team id="7">
+                    <leagueround id="1">
+                        <opponent>4</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="2">
+                        <opponent>1</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="3">
+                        <opponent>2</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <position> </position>
+                </team>
+                <team id="8">
+                    <leagueround id="1">
+                        <opponent>3</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="2">
+                        <opponent>2</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="3">
+                        <opponent>1</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <position> </position>
+                </team>
+            </section>
+        </league>
+        <round id="1">
+            <completedBy>2019/05/12</completedBy>
+            <game id="1">
+                <home>WINNER SECTION 1</home>
+                <away>RUNNER UP SECTION 2</away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home>WINNER SECTION 2</home>
+                <away>RUNNER UP SECTION 1</away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="2">
+            <completedBy>FINALS DAY</completedBy>
+            <game id="1">
+                <home> </home>
+                <away> </away>
+                <winner> </winner>
+            </game>
+        </round>
+    </competition>
+    <competition id="8">
+        <name>Men's Novices</name>
+        <team id="1">
+            <captain>Hans Bakker</captain>
+        </team>
+        <team id="2">
+            <captain>Niekie Bester</captain>
+        </team>
+        <team id="3">
+            <captain>Shane Hallam</captain>
+        </team>
+        <team id="4">
+            <captain>Gavin Heine</captain>
+        </team>
+        <team id="5">
+            <captain>Hannes Mentz</captain>
+        </team>
+        <team id="6">
+            <captain>Ken Tholet</captain>
+        </team>
+        <team id="7">
+            <captain>James Mnyalira</captain>
+        </team>
+        <team id="8">
+            <captain>Michael Walker</captain>
+        </team>
+        <league>
+            <section id="1">
+                <headerround id="1">
+                    <completedBy>2019/03/03</completedBy>
+                </headerround>
+                <headerround id="2">
+                    <completedBy>2019/03/24</completedBy>
+                </headerround>
+                <headerround id="3">
+                    <completedBy>2019/04/14</completedBy>
+                </headerround>
+                <team id="1">
+                    <leagueround id="1">
+                        <opponent>2</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="2">
+                        <opponent>3</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="3">
+                        <opponent>4</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <position> </position>
+                </team>
+                <team id="2">
+                    <leagueround id="1">
+                        <opponent>1</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="2">
+                        <opponent>4</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="3">
+                        <opponent>3</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <position> </position>
+                </team>
+                <team id="3">
+                    <leagueround id="1">
+                        <opponent>4</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="2">
+                        <opponent>1</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="3">
+                        <opponent>2</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <position> </position>
+                </team>
+                <team id="4">
+                    <leagueround id="1">
+                        <opponent>3</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="2">
+                        <opponent>2</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="3">
+                        <opponent>1</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <position> </position>
+                </team>
+            </section>
+            <section id="2">
+                <headerround id="1">
+                    <completedBy>2019/03/03</completedBy>
+                </headerround>
+                <headerround id="2">
+                    <completedBy>2019/03/24</completedBy>
+                </headerround>
+                <headerround id="3">
+                    <completedBy>2019/04/14</completedBy>
+                </headerround>
+                <team id="5">
+                    <leagueround id="1">
+                        <opponent>2</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="2">
+                        <opponent>3</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="3">
+                        <opponent>4</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <position> </position>
+                </team>
+                <team id="6">
+                    <leagueround id="1">
+                        <opponent>1</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="2">
+                        <opponent>4</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="3">
+                        <opponent>3</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <position> </position>
+                </team>
+                <team id="7">
+                    <leagueround id="1">
+                        <opponent>4</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="2">
+                        <opponent>1</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="3">
+                        <opponent>2</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <position> </position>
+                </team>
+                <team id="8">
+                    <leagueround id="1">
+                        <opponent>3</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="2">
+                        <opponent>2</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <leagueround id="3">
+                        <opponent>1</opponent>
+                        <shotsfor> </shotsfor>
+                        <shotsagst> </shotsagst>
+                    </leagueround>
+                    <position> </position>
+                </team>
+            </section>
+        </league>
+        <round id="1">
+            <completedBy>2019/05/12</completedBy>
+            <game id="1">
+                <home>WINNER SECTION 1</home>
+                <away>RUNNER UP SECTION 2</away>
+                <winner> </winner>
+            </game>
+            <game id="2">
+                <home>WINNER SECTION 2</home>
+                <away>RUNNER UP SECTION 1</away>
+                <winner> </winner>
+            </game>
+        </round>
+        <round id="2">
             <completedBy>FINALS DAY</completedBy>
             <game id="1">
                 <home> </home>

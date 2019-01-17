@@ -90,14 +90,14 @@
                         Events
                     </a>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item text-primary display-4" href="upcoming_events" aria-expanded="false">
-                            <span class="mbri-idea mbr-iconfont mbr-iconfont-btn"></span>
-                            Upcoming events
-                        </a>
-                        <a class="dropdown-item text-primary display-4" href="outside_competitions" aria-expanded="false">
-                            <span class="mbri-share mbr-iconfont mbr-iconfont-btn"></span>
-                            Outside Competitions
-                        </a>
+<!--                        <a class="dropdown-item text-primary display-4" href="upcoming_events" aria-expanded="false">-->
+<!--                            <span class="mbri-idea mbr-iconfont mbr-iconfont-btn"></span>-->
+<!--                            Upcoming events-->
+<!--                        </a>-->
+<!--                        <a class="dropdown-item text-primary display-4" href="outside_competitions" aria-expanded="false">-->
+<!--                            <span class="mbri-share mbr-iconfont mbr-iconfont-btn"></span>-->
+<!--                            Outside Competitions-->
+<!--                        </a>-->
                         <a class="dropdown-item text-primary display-4" href="calendar" aria-expanded="false">
                             <span class="mbri-calendar mbr-iconfont mbr-iconfont-btn"></span>
                             Calendar

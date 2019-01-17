@@ -88,6 +88,12 @@ function populateCompetitions(xml) {
             "</div>" +
             "</section>";
 
+        var league = competitions[i].getElementsByTagName("league");
+
+        if (league.length > 0) {
+            html += populateLeagueDraw(competitions[i], league[0], i)
+        }
+
         var knockoutDraw = populateKnockoutDrawHeader(competitions[i], i);
 
         html += "<section class=\"section-table competitionKnockout\" id=\"table1-1t\" data-rv-view=\"130\">" +
@@ -101,13 +107,94 @@ function populateCompetitions(xml) {
             "</section>"
     }
 
-    console.log(html);
-
     document.getElementById("competition_data").innerHTML = html;
 
     for (i = 0; i < competitions.length; i++) {
         populateKnockoutDraw(competitions[i], i)
     }
+}
+
+function populateLeagueDraw(competition, league, competitionNumber) {
+    var sections = league.getElementsByTagName("section");
+    var html = "<section class=\"section-table competitionKnockout\" id=\"table1-1t\" data-rv-view=\"130\">" +
+        "<div class=\"container container-table\">" +
+        "<div class=\"table-wrapper\">" +
+        "<div class=\"container\">" +
+        "<div class=\"container scroll\">" +
+        "<table id='myTable_league" + competitionNumber + "' class=\"table isSearch\" cellspacing=\"0\">";
+
+    for (var sec = 0; sec < sections.length; sec++) {
+        html += "<thead>" +
+            "<tr class=\"table-heads \">" +
+            "<th colspan=\"11\" class=\"head-item mbr-fonts-style display-7\">SECTION " + (sec + 1) + "</th>" +
+            "</tr>" +
+            "<tr class=\"table-heads \">" +
+            "<th class=\"head-item mbr-fonts-style display-7\"></th>";
+
+        var headerRounds = sections[sec].getElementsByTagName("headerround");
+
+        for (var hr = 0; hr < headerRounds.length; hr++) {
+            var completedBy = headerRounds[hr].getElementsByTagName("completedBy")[0].childNodes[0].nodeValue;
+
+            html += "<th colspan=\"3\" class=\"head-item mbr-fonts-style display-7\">" + completedBy + "</th>";
+        }
+
+        html += "<th class=\"head-item mbr-fonts-style display-7\"></th>" +
+                "</tr>" +
+                "<tr class=\"table-heads \">" +
+                "<th class=\"head-item mbr-fonts-style display-7\"></th>" +
+                "<th class=\"head-item mbr-fonts-style display-7\">Opponent</th>" +
+                "<th class=\"head-item mbr-fonts-style display-7\">Shots For</th>" +
+                "<th class=\"head-item mbr-fonts-style display-7\">Shots Agst</th>" +
+                "<th class=\"head-item mbr-fonts-style display-7\">Opponent</th>" +
+                "<th class=\"head-item mbr-fonts-style display-7\">Shots For</th>" +
+                "<th class=\"head-item mbr-fonts-style display-7\">Shots Agst</th>" +
+                "<th class=\"head-item mbr-fonts-style display-7\">Opponent</th>" +
+                "<th class=\"head-item mbr-fonts-style display-7\">Shots For</th>" +
+                "<th class=\"head-item mbr-fonts-style display-7\">Shots Agst</th>" +
+                "<th class=\"head-item mbr-fonts-style display-7\">Position</th>" +
+                "</tr>" +
+                "</thead>" +
+                "<tbody>";
+
+        var teams = sections[sec].getElementsByTagName("team");
+
+        for (var tea = 0; tea < teams.length; tea++) {
+
+            html += "<tr>" +
+                    "<td style='border: 1px solid #cccccc; font-weight: bold' class=\"body-item mbr-fonts-style display-7\">" + lookupTeamName(competition, teams[tea].id) + "</td>";
+
+            var leagueRounds = teams[tea].getElementsByTagName("leagueround");
+
+            for (var lr = 0; lr < leagueRounds.length; lr++) {
+                var opponentNumber = leagueRounds[lr].getElementsByTagName("opponent")[0].childNodes[0].nodeValue;
+                var shotsFor = leagueRounds[lr].getElementsByTagName("shotsfor")[0].childNodes[0].nodeValue;
+                var shotsAgainst = leagueRounds[lr].getElementsByTagName("shotsagst")[0].childNodes[0].nodeValue;
+
+                html += "<td style='border: 1px solid #cccccc;' class=\"body-item mbr-fonts-style display-7\">" + lookupTeamName(competition, opponentNumber) + "</td>" +
+                        "<td style='border: 1px solid #cccccc;' class=\"body-item mbr-fonts-style display-7\">" + shotsFor + "</td>" +
+                        "<td style='border: 1px solid #cccccc;' class=\"body-item mbr-fonts-style display-7\">" + shotsAgainst + "</td>";
+            }
+
+            var position = teams[tea].getElementsByTagName("position")[0].childNodes[0].nodeValue;
+
+            html += "<td style='border: 1px solid #cccccc;' class=\"body-item mbr-fonts-style display-7\">" + position + "</td>" +
+                    "</tr>";
+        }
+
+        html += "</tbody>";
+    }
+
+    html += "</table>" +
+            "<br>" +
+            "<br>" +
+            "</div>" +
+            "</div>" +
+            "</div>" +
+            "</section>";
+
+
+    return html;
 }
 
 function populateKnockoutDrawHeader(competition, competitionNumber) {
@@ -196,7 +283,7 @@ function populateKnockoutDraw(competition, competitionNumber) {
             if (homeTeamNumber === winningTeam) {
                 className = "winner-body-text mbr-fonts-style display-7";
             }
-            updateCell(competitionNumber, homeTeam, row, column, className);
+            updateCell(competition, competitionNumber, homeTeam, row, column, className);
             row++;
 
             if (awayTeamNumber === winningTeam) {
@@ -204,16 +291,16 @@ function populateKnockoutDraw(competition, competitionNumber) {
             } else {
                 className = "";
             }
-            updateCell(competitionNumber, awayTeam, row, column, className);
+            updateCell(competition, competitionNumber, awayTeam, row, column, className);
             row++;
 
             if (k < numberOfGames - 1) {
                 if (numberOfRounds > 1) {
-                    updateCell(competitionNumber, "", row, column, "right-border mbr-fonts-style display-7");
+                    updateCell(competition, competitionNumber, "", row, column, "right-border mbr-fonts-style display-7");
                 }
                 row++;
                 if (numberOfRounds > 1) {
-                    updateCell(competitionNumber, "", row, column, "right-border mbr-fonts-style display-7");
+                    updateCell(competition, competitionNumber, "", row, column, "right-border mbr-fonts-style display-7");
                     row++;
                 }
             }
@@ -222,7 +309,7 @@ function populateKnockoutDraw(competition, competitionNumber) {
                 var tempRow = row;
                 row += (startingRow * 2);
                 for (var z = tempRow; z < row; z++) {
-                    updateCell(competitionNumber, "", z, column, "right-border mbr-fonts-style display-7");
+                    updateCell(competition, competitionNumber, "", z, column, "right-border mbr-fonts-style display-7");
                 }
             }
         }
@@ -255,7 +342,7 @@ function addRow(text, competitionNumber) {
     }
 }
 
-function updateCell(competitionNumber, text, row, column, className) {
+function updateCell(competition, competitionNumber, text, row, column, className) {
     var tableName = "myTable" + competitionNumber;
     var table = document.getElementById(tableName);
     var emptyText = false;
@@ -264,11 +351,13 @@ function updateCell(competitionNumber, text, row, column, className) {
         emptyText = true;
     }
 
+    var league = competition.getElementsByTagName("league");
+
     if (className.trim().length > 0) {
         table.rows[row].cells[column].className  = className;
     } else {
         if (emptyText) {
-            if (column === 0) {
+            if (column === 0 && league.length === 0) {
                 text = "N/A"
             } else {
                 text = "TBC";
@@ -286,7 +375,7 @@ function lookupTeamName(competition, teamNumber) {
         var team = competition.getElementsByTagName("team")[teamNumber - 1];
         return team.getElementsByTagName("captain")[0].childNodes[0].nodeValue;
     }
-    return "";
+    return teamNumber;
 }
 
 function populateCompetitionsForMaintenance(xml) {
