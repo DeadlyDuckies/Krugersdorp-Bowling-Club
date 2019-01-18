@@ -1910,17 +1910,17 @@
                 </headerround>
                 <team id="5">
                     <leagueround id="1">
-                        <opponent>2</opponent>
+                        <opponent>6</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
                     <leagueround id="2">
-                        <opponent>3</opponent>
+                        <opponent>7</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
                     <leagueround id="3">
-                        <opponent>4</opponent>
+                        <opponent>8</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
@@ -1928,17 +1928,17 @@
                 </team>
                 <team id="6">
                     <leagueround id="1">
-                        <opponent>1</opponent>
+                        <opponent>5</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
                     <leagueround id="2">
-                        <opponent>4</opponent>
+                        <opponent>8</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
                     <leagueround id="3">
-                        <opponent>3</opponent>
+                        <opponent>7</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
@@ -1946,17 +1946,17 @@
                 </team>
                 <team id="7">
                     <leagueround id="1">
-                        <opponent>4</opponent>
+                        <opponent>8</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
                     <leagueround id="2">
-                        <opponent>1</opponent>
+                        <opponent>5</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
                     <leagueround id="3">
-                        <opponent>2</opponent>
+                        <opponent>6</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
@@ -1964,17 +1964,17 @@
                 </team>
                 <team id="8">
                     <leagueround id="1">
-                        <opponent>3</opponent>
+                        <opponent>7</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
                     <leagueround id="2">
-                        <opponent>2</opponent>
+                        <opponent>6</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
                     <leagueround id="3">
-                        <opponent>1</opponent>
+                        <opponent>5</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
@@ -2126,17 +2126,17 @@
                 </headerround>
                 <team id="5">
                     <leagueround id="1">
-                        <opponent>2</opponent>
+                        <opponent>6</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
                     <leagueround id="2">
-                        <opponent>3</opponent>
+                        <opponent>7</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
                     <leagueround id="3">
-                        <opponent>4</opponent>
+                        <opponent>8</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
@@ -2144,17 +2144,17 @@
                 </team>
                 <team id="6">
                     <leagueround id="1">
-                        <opponent>1</opponent>
+                        <opponent>5</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
                     <leagueround id="2">
-                        <opponent>4</opponent>
+                        <opponent>8</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
                     <leagueround id="3">
-                        <opponent>3</opponent>
+                        <opponent>7</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
@@ -2162,17 +2162,17 @@
                 </team>
                 <team id="7">
                     <leagueround id="1">
-                        <opponent>4</opponent>
+                        <opponent>8</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
                     <leagueround id="2">
-                        <opponent>1</opponent>
+                        <opponent>5</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
                     <leagueround id="3">
-                        <opponent>2</opponent>
+                        <opponent>6</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
@@ -2180,17 +2180,17 @@
                 </team>
                 <team id="8">
                     <leagueround id="1">
-                        <opponent>3</opponent>
+                        <opponent>7</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
                     <leagueround id="2">
-                        <opponent>2</opponent>
+                        <opponent>6</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
                     <leagueround id="3">
-                        <opponent>1</opponent>
+                        <opponent>5</opponent>
                         <shotsfor> </shotsfor>
                         <shotsagst> </shotsagst>
                     </leagueround>
