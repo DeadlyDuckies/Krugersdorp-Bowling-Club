@@ -79,7 +79,7 @@
             </game>
         </round>
         <round id="2">
-            <completedBy>2019/01/20</completedBy>
+            <completedBy>2019/02/20</completedBy>
             <game id="1">
                 <home>1</home>
                 <away>4</away>
@@ -102,7 +102,7 @@
             </game>
         </round>
         <round id="3">
-            <completedBy>2019/02/17</completedBy>
+            <completedBy>2019/03/17</completedBy>
             <game id="1">
                 <home>4</home>
                 <away>5</away>
@@ -316,7 +316,7 @@
             <game id="1">
                 <home>3</home>
                 <away>6</away>
-                <winner> </winner>
+                <winner>3</winner>
             </game>
             <game id="2">
                 <home>9</home>
@@ -337,7 +337,7 @@
         <round id="4">
             <completedBy>2019/03/17</completedBy>
             <game id="1">
-                <home> </home>
+                <home>3</home>
                 <away> </away>
                 <winner> </winner>
             </game>
@@ -808,7 +808,7 @@
             <game id="14">
                 <home>27</home>
                 <away>28</away>
-                <winner> </winner>
+                <winner>27</winner>
             </game>
             <game id="15">
                 <home>29</home>
@@ -935,7 +935,7 @@
             </game>
             <game id="7">
                 <home> </home>
-                <away> </away>
+                <away>27</away>
                 <winner> </winner>
             </game>
             <game id="8">
