@@ -278,7 +278,15 @@
                                                         <td class="body-item mbr-fonts-style display-7">2</td>
                                                     </tr>
                                                     <tr>
+                                                        <td class="body-item mbr-fonts-style display-7">Pretorius, Johan</td>
+                                                        <td class="body-item mbr-fonts-style display-7">3</td>
+                                                    </tr>
+                                                    <tr>
                                                         <td class="body-item mbr-fonts-style display-7">Rheeder, Barry</td>
+                                                        <td class="body-item mbr-fonts-style display-7">3</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="body-item mbr-fonts-style display-7">Rosslee, Bennie</td>
                                                         <td class="body-item mbr-fonts-style display-7">3</td>
                                                     </tr>
                                                     <tr>
@@ -446,6 +454,10 @@
                                                         <td class="body-item mbr-fonts-style display-7">7</td>
                                                     </tr>
                                                     <tr>
+                                                        <td class="body-item mbr-fonts-style display-7">van Rensburg, Dick</td>
+                                                        <td class="body-item mbr-fonts-style display-7">10</td>
+                                                    </tr>
+                                                    <tr>
                                                         <td class="body-item mbr-fonts-style display-7">Walker, Michael</td>
                                                         <td class="body-item mbr-fonts-style display-7">5</td>
                                                     </tr>
@@ -516,6 +528,10 @@
                                                     <tr>
                                                         <td class="body-item mbr-fonts-style display-7">Brenner, Yvonne</td>
                                                         <td class="body-item mbr-fonts-style display-7">-3</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="body-item mbr-fonts-style display-7">Lewis, Jacqui</td>
+                                                        <td class="body-item mbr-fonts-style display-7">-2</td>
                                                     </tr>
                                                     <tr>
                                                         <td class="body-item mbr-fonts-style display-7">Love, Maureen</td>
