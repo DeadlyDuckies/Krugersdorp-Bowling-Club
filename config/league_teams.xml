@@ -1,6 +1,6 @@
 <league>
     <title>Krugersdorp Bowling Club League Teams</title>
-    <date>2019/01/26</date>
+    <date>2019/02/02</date>
     <mens>
         <team id="1">
             <division_type>Super 7's</division_type>
@@ -8,7 +8,7 @@
             <fours>
                 <skip>Cobus Smit</skip>
                 <third>Rudo Botha</third>
-                <second>Martin Janse</second>
+                <second>Ray Rhodes</second>
                 <lead>Andy Selby</lead>
             </fours>
             <trips>
@@ -16,9 +16,9 @@
                 <second>Dylan Leader</second>
                 <lead>Lee Barnes</lead>
             </trips>
-            <venue>Leases</venue>
-            <opponent>Rustenburg (1)</opponent>
-            <depart>12:30</depart>
+            <venue>Krugersdorp</venue>
+            <opponent>Witpoortjie (1)</opponent>
+            <depart>N/A</depart>
             <captain>Dylan Leader</captain>
         </team>
         <team id="2">
@@ -26,8 +26,8 @@
             <division_no>3</division_no>
             <fours>
                 <skip>Ron McAslin</skip>
-                <third>Trevor Leader</third>
-                <second>Kobus Britz</second>
+                <third>Graeme Morton</third>
+                <second>Trevor Leader</second>
                 <lead>Willie Shaw</lead>
             </fours>
             <trips>
@@ -35,37 +35,14 @@
                 <second>Coenie Pieterse</second>
                 <lead>Stitch Economakis</lead>
             </trips>
-            <venue>Discovery</venue>
-            <opponent>Leases (3)</opponent>
+            <venue>Honeydew</venue>
+            <opponent>Honeydew (2)</opponent>
             <depart>12:30</depart>
             <captain>Coenie Pieterse</captain>
         </team>
-        <reserves>Hans Bakker, Niekie Bester, Arthur Daniel, Gavin Heine, Peter Jacobs, Tom Kneen, Johan Landman, Ian McLaren, Brian Muldoon, Joe Price, Barry Rheeder, Herman Sliep, Hans van der Merwe, George van der Westhuizen, Rick van Zyl, Micheal Walker</reserves>
-        <unavailable>Graeme Morton, Ray Rhodes</unavailable>
+        <reserves>Hans Bakker, Niekie Bester, Kobus Britz, Arthur Daniel, Gavin Heine, Peter Jacobs, Martin Janse, Tom Kneen, Johan Landman, Ian McLaren, Brian Muldoon, Joe Price, Barry Rheeder, Herman Sliep, Hans van der Merwe, George van der Westhuizen, Rick van Zyl, Micheal Walker</reserves>
+        <unavailable> </unavailable>
     </mens>
-    <ladies>
-        <team id="1">
-            <division_type>Super 7's</division_type>
-            <division_no>2</division_no>
-            <fours>
-                <skip>Ansie Fourie</skip>
-                <third>Shauna Sliep</third>
-                <second>Amanda Bekker</second>
-                <lead>Karen Pieterse</lead>
-            </fours>
-            <trips>
-                <skip>Yvonne Brenner</skip>
-                <second>Bokkie Delport</second>
-                <lead>Kirstin Leader</lead>
-            </trips>
-            <venue>Florida North</venue>
-            <opponent>Discovery (3)</opponent>
-            <depart>12:30</depart>
-            <captain>Shauna Sliep</captain>
-        </team>
-        <reserves>Karen Barnes, Linda Bosch, Belinda Economakis, Elysses Heine, Theresa Klein, Melana Selby, Cheryl van der Westhuizen</reserves>
-        <unavailable>Elzie Grobler, Hester Hattingh</unavailable>
-    </ladies>
     <selectionCommittee>Amanda Bekker, Dylan Leader, Kirstin Leader, Coenie Pieterse, Shauna Sliep, Cobus Smit, Jaco van Deventer (Convener)</selectionCommittee>
     <notes>
         <note id="1">1. NB! Please tick off your names if you are going straight to the venue.</note>

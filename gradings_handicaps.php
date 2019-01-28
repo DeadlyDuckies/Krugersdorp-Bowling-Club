@@ -766,6 +766,10 @@
                                                         <td class="body-item mbr-fonts-style display-7">6</td>
                                                     </tr>
                                                     <tr>
+                                                        <td class="body-item mbr-fonts-style display-7">Spangenberg, Suzie</td>
+                                                        <td class="body-item mbr-fonts-style display-7">8</td>
+                                                    </tr>
+                                                    <tr>
                                                         <td class="body-item mbr-fonts-style display-7">van der Merwe, Janet</td>
                                                         <td class="body-item mbr-fonts-style display-7">5</td>
                                                     </tr>
@@ -775,6 +779,10 @@
                                                     </tr>
                                                     <tr>
                                                         <td class="body-item mbr-fonts-style display-7">Van Staden, Erica</td>
+                                                        <td class="body-item mbr-fonts-style display-7">8</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="body-item mbr-fonts-style display-7">Vermooten, Ingrid</td>
                                                         <td class="body-item mbr-fonts-style display-7">8</td>
                                                     </tr>
                                                     <tr>
