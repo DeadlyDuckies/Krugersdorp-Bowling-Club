@@ -74,7 +74,7 @@
             <div class="container container-table">
                 <div class="table-wrapper">
                     <div class="container">
-                        <div id="ladies_league_html"></div>
+                        <p>League for the 2018-2019 season has concluded.</p>
                     </div>
                 </div>
             </div>
