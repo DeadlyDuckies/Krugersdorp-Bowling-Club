@@ -27,19 +27,28 @@
                         <h2 class="align-center pb-3 mbr-fonts-style display-2">
                             League Teams
                         </h2>
-                        <p id="conditions_of_play">
-                            <a href="assets/documents/League_COP.pdf">
-                                League Conditions of Play - Click Here
-                            </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section-table cid-qztItQMCpK" id="table1-1t" data-rv-view="84">
+            <div class="container container-table">
+                <div class="table-wrapper">
+                    <div class="container">
+                        <br>
+                        <p>
+                            League for the 2018/2019 Season has been concluded.
                         </p>
-                        <h2 id="title_date" class="align-center pb-3 mbr-fonts-style display-2">
-                        </h2>
-                        <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">
-                            <a href="league_teams_excel.php">
-                                <img src="assets/images/icons/microsoft_office_excel.svg" class="img-responsive clients-img" media-simple="true"
-                                     width="200" height="40">
-                            </a>
-                        </h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="mbr-section content4 cid-qztSxSN3he" id="content4-20" data-rv-view="130">
+            <div class="container">
+                <div class="media-container-row">
+                    <div class="title col-12 col-md-8">
                         <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">
                             Men
                         </h3>
@@ -51,8 +60,45 @@
         <section class="section-table cid-qztItQMCpK" id="table1-1t" data-rv-view="84">
             <div class="container container-table">
                 <div class="table-wrapper">
-                    <div class="container">
-                        <div id="mens_league_html"></div>
+                    <div class="container scroll">
+                        <table class="table isSearch" cellspacing="0">
+                            <thead>
+                                <tr class="table-heads ">
+                                    <th class="head-item mbr-fonts-style display-7">
+                                        TEAM NUMBER
+                                    </th>
+                                    <th class="head-item mbr-fonts-style display-7">
+                                        DIVISION
+                                    </th>
+                                    <th class="head-item mbr-fonts-style display-7">
+                                        FINAL STANDING
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td class="body-item mbr-fonts-style display-7">Krugersdorp 1</td>
+                                    <td class="body-item mbr-fonts-style display-7" style="text-align: center">Super 7's Division 1</td>
+                                    <td class="body-item mbr-fonts-style display-7" style="text-align: center">5th</td>
+                                </tr>
+                                <tr>
+                                    <td class="body-item mbr-fonts-style display-7">Krugersdorp 2</td>
+                                    <td class="body-item mbr-fonts-style display-7" style="text-align: center">Super 7's Division 3/4</td>
+                                    <td class="body-item mbr-fonts-style display-7" style="text-align: center">2nd</td>
+                                </tr>
+                                <tr>
+                                    <td class="body-item mbr-fonts-style display-7">Krugersdorp 3</td>
+                                    <td class="body-item mbr-fonts-style display-7" style="text-align: center">Super 7's Division 5</td>
+                                    <td class="body-item mbr-fonts-style display-7" style="text-align: center">2nd</td>
+                                </tr>
+                                <tr>
+                                    <td class="body-item mbr-fonts-style display-7" style="font-weight: bold">Krugersdorp 4</td>
+                                    <td class="body-item mbr-fonts-style display-7" style="text-align: center; font-weight: bold">Super 4's Division 2</td>
+                                    <td class="body-item mbr-fonts-style display-7" style="text-align: center; font-weight: bold">1st</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <br>
                     </div>
                 </div>
             </div>
@@ -73,8 +119,35 @@
         <section class="section-table cid-qztItQMCpK" id="table1-1t" data-rv-view="84">
             <div class="container container-table">
                 <div class="table-wrapper">
-                    <div class="container">
-                        <p>League for the 2018-2019 season has concluded.</p>
+                    <div class="container scroll">
+                        <table class="table isSearch" cellspacing="0">
+                            <thead>
+                                <tr class="table-heads ">
+                                    <th class="head-item mbr-fonts-style display-7">
+                                        TEAM NUMBER
+                                    </th>
+                                    <th class="head-item mbr-fonts-style display-7">
+                                        DIVISION
+                                    </th>
+                                    <th class="head-item mbr-fonts-style display-7">
+                                        FINAL STANDING
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td class="body-item mbr-fonts-style display-7">Krugersdorp 1</td>
+                                    <td class="body-item mbr-fonts-style display-7" style="text-align: center">Super 7's Division 2</td>
+                                    <td class="body-item mbr-fonts-style display-7" style="text-align: center">5th</td>
+                                </tr>
+                                <tr>
+                                    <td class="body-item mbr-fonts-style display-7">Krugersdorp 2</td>
+                                    <td class="body-item mbr-fonts-style display-7" style="text-align: center">Super 4's Division 1</td>
+                                    <td class="body-item mbr-fonts-style display-7" style="text-align: center">5th</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <br>
                     </div>
                 </div>
             </div>

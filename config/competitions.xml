@@ -1,5 +1,5 @@
 <competitions>
-    <lastUpdated>2018/01/11</lastUpdated>
+    <lastUpdated>2018/02/11</lastUpdated>
     <competition id="1">
         <name>Ladies Pairs</name>
         <team id="1">
@@ -93,7 +93,7 @@
             <game id="3">
                 <home>8</home>
                 <away>9</away>
-                <winner> </winner>
+                <winner>8</winner>
             </game>
             <game id="4">
                 <home>10</home>
@@ -109,7 +109,7 @@
                 <winner> </winner>
             </game>
             <game id="2">
-                <home> </home>
+                <home>8</home>
                 <away>11</away>
                 <winner> </winner>
             </game>
@@ -293,7 +293,7 @@
             <game id="5">
                 <home>13</home>
                 <away>14</away>
-                <winner> </winner>
+                <winner>13</winner>
             </game>
             <game id="6">
                 <home>15</home>
@@ -324,14 +324,14 @@
                 <winner> </winner>
             </game>
             <game id="3">
-                <home> </home>
+                <home>13</home>
                 <away>16</away>
                 <winner> </winner>
             </game>
             <game id="4">
                 <home>17</home>
                 <away>19</away>
-                <winner> </winner>
+                <winner>17</winner>
             </game>
         </round>
         <round id="4">
@@ -343,7 +343,7 @@
             </game>
             <game id="2">
                 <home> </home>
-                <away> </away>
+                <away>17</away>
                 <winner> </winner>
             </game>
         </round>
@@ -434,7 +434,7 @@
             <game id="2">
                 <home>3</home>
                 <away>4</away>
-                <winner> </winner>
+                <winner>3</winner>
             </game>
             <game id="3">
                 <home>5</home>
@@ -444,7 +444,7 @@
             <game id="4">
                 <home>7</home>
                 <away>8</away>
-                <winner> </winner>
+                <winner>7</winner>
             </game>
             <game id="5">
                 <home>9</home>
@@ -511,12 +511,12 @@
             <completedBy>2019/03/24</completedBy>
             <game id="1">
                 <home> </home>
-                <away> </away>
+                <away>3</away>
                 <winner> </winner>
             </game>
             <game id="2">
                 <home> </home>
-                <away> </away>
+                <away>7</away>
                 <winner> </winner>
             </game>
             <game id="3">
@@ -542,12 +542,12 @@
             <game id="7">
                 <home>19</home>
                 <away>20</away>
-                <winner> </winner>
+                <winner>20</winner>
             </game>
             <game id="8">
                 <home>21</home>
                 <away>22</away>
-                <winner> </winner>
+                <winner>21</winner>
             </game>
         </round>
         <round id="3">
@@ -568,8 +568,8 @@
                 <winner> </winner>
             </game>
             <game id="4">
-                <home> </home>
-                <away> </away>
+                <home>20</home>
+                <away>21</away>
                 <winner> </winner>
             </game>
         </round>
@@ -607,7 +607,7 @@
             <captain>Roland  De Gaye</captain>
         </team>
         <team id="4">
-            <captain>Sydney Rust</captain>
+            <captain>Sydney Rust (Withdrew)</captain>
         </team>
         <team id="5">
             <captain>Michael Walker</captain>
@@ -743,42 +743,42 @@
             <game id="1">
                 <home>1</home>
                 <away>2</away>
-                <winner> </winner>
+                <winner>1</winner>
             </game>
             <game id="2">
                 <home>3</home>
                 <away>4</away>
-                <winner> </winner>
+                <winner>3</winner>
             </game>
             <game id="3">
                 <home>5</home>
                 <away>6</away>
-                <winner> </winner>
+                <winner>6</winner>
             </game>
             <game id="4">
                 <home>7</home>
                 <away>8</away>
-                <winner> </winner>
+                <winner>8</winner>
             </game>
             <game id="5">
                 <home>9</home>
                 <away>10</away>
-                <winner> </winner>
+                <winner>10</winner>
             </game>
             <game id="6">
                 <home>11</home>
                 <away>12</away>
-                <winner> </winner>
+                <winner>12</winner>
             </game>
             <game id="7">
                 <home>13</home>
                 <away>14</away>
-                <winner> </winner>
+                <winner>14</winner>
             </game>
             <game id="8">
                 <home>15</home>
                 <away>16</away>
-                <winner> </winner>
+                <winner>15</winner>
             </game>
             <game id="9">
                 <home>17</home>
@@ -793,7 +793,7 @@
             <game id="11">
                 <home>21</home>
                 <away>22</away>
-                <winner> </winner>
+                <winner>21</winner>
             </game>
             <game id="12">
                 <home>23</home>
@@ -803,7 +803,7 @@
             <game id="13">
                 <home>25</home>
                 <away>26</away>
-                <winner> </winner>
+                <winner>25</winner>
             </game>
             <game id="14">
                 <home>27</home>
@@ -813,7 +813,7 @@
             <game id="15">
                 <home>29</home>
                 <away>30</away>
-                <winner> </winner>
+                <winner>30</winner>
             </game>
             <game id="16">
                 <home> </home>
@@ -904,23 +904,23 @@
         <round id="2">
             <completedBy>2019/03/03</completedBy>
             <game id="1">
-                <home> </home>
-                <away> </away>
+                <home>1</home>
+                <away>3</away>
                 <winner> </winner>
             </game>
             <game id="2">
-                <home> </home>
-                <away> </away>
+                <home>6</home>
+                <away>8</away>
                 <winner> </winner>
             </game>
             <game id="3">
-                <home> </home>
-                <away> </away>
+                <home>10</home>
+                <away>12</away>
                 <winner> </winner>
             </game>
             <game id="4">
-                <home> </home>
-                <away> </away>
+                <home>14</home>
+                <away>15</away>
                 <winner> </winner>
             </game>
             <game id="5">
@@ -929,17 +929,17 @@
                 <winner> </winner>
             </game>
             <game id="6">
-                <home> </home>
+                <home>21</home>
                 <away> </away>
                 <winner> </winner>
             </game>
             <game id="7">
-                <home> </home>
+                <home>25</home>
                 <away>27</away>
                 <winner> </winner>
             </game>
             <game id="8">
-                <home> </home>
+                <home>30</home>
                 <away>31</away>
                 <winner> </winner>
             </game>
@@ -951,7 +951,7 @@
             <game id="10">
                 <home>34</home>
                 <away>35</away>
-                <winner> </winner>
+                <winner>35</winner>
             </game>
             <game id="11">
                 <home>36</home>
@@ -966,12 +966,12 @@
             <game id="13">
                 <home>40</home>
                 <away>41</away>
-                <winner> </winner>
+                <winner>40</winner>
             </game>
             <game id="14">
                 <home>42</home>
                 <away>43</away>
-                <winner> </winner>
+                <winner>42</winner>
             </game>
             <game id="15">
                 <home>44</home>
@@ -981,7 +981,7 @@
             <game id="16">
                 <home>46</home>
                 <away>47</away>
-                <winner> </winner>
+                <winner>46</winner>
             </game>
         </round>
         <round id="3">
@@ -1008,7 +1008,7 @@
             </game>
             <game id="5">
                 <home> </home>
-                <away> </away>
+                <away>35</away>
                 <winner> </winner>
             </game>
             <game id="6">
@@ -1017,13 +1017,13 @@
                 <winner> </winner>
             </game>
             <game id="7">
-                <home> </home>
-                <away> </away>
+                <home>40</home>
+                <away>42</away>
                 <winner> </winner>
             </game>
             <game id="8">
                 <home> </home>
-                <away> </away>
+                <away>46</away>
                 <winner> </winner>
             </game>
         </round>
@@ -1459,17 +1459,17 @@
             <game id="1">
                 <home>1</home>
                 <away>2</away>
-                <winner> </winner>
+                <winner>2</winner>
             </game>
             <game id="2">
                 <home>3</home>
                 <away>4</away>
-                <winner> </winner>
+                <winner>4</winner>
             </game>
             <game id="3">
                 <home>5</home>
                 <away>6</away>
-                <winner> </winner>
+                <winner>5</winner>
             </game>
             <game id="4">
                 <home>7</home>
@@ -1479,12 +1479,12 @@
             <game id="5">
                 <home>9</home>
                 <away>10</away>
-                <winner> </winner>
+                <winner>9</winner>
             </game>
             <game id="6">
                 <home>11</home>
                 <away>12</away>
-                <winner> </winner>
+                <winner>11</winner>
             </game>
             <game id="7">
                 <home>13</home>
@@ -1494,22 +1494,22 @@
             <game id="8">
                 <home>15</home>
                 <away>16</away>
-                <winner> </winner>
+                <winner>15</winner>
             </game>
             <game id="9">
                 <home>17</home>
                 <away>18</away>
-                <winner> </winner>
+                <winner>18</winner>
             </game>
             <game id="10">
                 <home>19</home>
                 <away>20</away>
-                <winner> </winner>
+                <winner>19</winner>
             </game>
             <game id="11">
                 <home>21</home>
                 <away>22</away>
-                <winner> </winner>
+                <winner>21</winner>
             </game>
             <game id="12">
                 <home>23</home>
@@ -1519,17 +1519,17 @@
             <game id="13">
                 <home>25</home>
                 <away>26</away>
-                <winner> </winner>
+                <winner>26</winner>
             </game>
             <game id="14">
                 <home>27</home>
                 <away>28</away>
-                <winner> </winner>
+                <winner>28</winner>
             </game>
             <game id="15">
                 <home>29</home>
                 <away>30</away>
-                <winner> </winner>
+                <winner>29</winner>
             </game>
             <game id="16">
                 <home> </home>
@@ -1620,42 +1620,42 @@
         <round id="2">
             <completedBy>2019/03/03</completedBy>
             <game id="1">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
+                <home>2</home>
+                <away>4</away>
+                <winner>4</winner>
             </game>
             <game id="2">
-                <home> </home>
+                <home>5</home>
                 <away> </away>
                 <winner> </winner>
             </game>
             <game id="3">
-                <home> </home>
-                <away> </away>
+                <home>9</home>
+                <away>11</away>
                 <winner> </winner>
             </game>
             <game id="4">
                 <home> </home>
-                <away> </away>
+                <away>15</away>
                 <winner> </winner>
             </game>
             <game id="5">
-                <home> </home>
-                <away> </away>
+                <home>18</home>
+                <away>19</away>
                 <winner> </winner>
             </game>
             <game id="6">
-                <home> </home>
+                <home>21</home>
                 <away> </away>
                 <winner> </winner>
             </game>
             <game id="7">
-                <home> </home>
-                <away> </away>
+                <home>26</home>
+                <away>28</away>
                 <winner> </winner>
             </game>
             <game id="8">
-                <home> </home>
+                <home>29</home>
                 <away>31</away>
                 <winner> </winner>
             </game>
@@ -1667,7 +1667,7 @@
             <game id="10">
                 <home>34</home>
                 <away>35</away>
-                <winner> </winner>
+                <winner>35</winner>
             </game>
             <game id="11">
                 <home>36</home>
@@ -1677,7 +1677,7 @@
             <game id="12">
                 <home>38</home>
                 <away>39</away>
-                <winner> </winner>
+                <winner>39</winner>
             </game>
             <game id="13">
                 <home>40</home>
@@ -1703,7 +1703,7 @@
         <round id="3">
             <completedBy>2019/03/24</completedBy>
             <game id="1">
-                <home> </home>
+                <home>4</home>
                 <away> </away>
                 <winner> </winner>
             </game>
@@ -1724,12 +1724,12 @@
             </game>
             <game id="5">
                 <home> </home>
-                <away> </away>
+                <away>35</away>
                 <winner> </winner>
             </game>
             <game id="6">
                 <home> </home>
-                <away> </away>
+                <away>39</away>
                 <winner> </winner>
             </game>
             <game id="7">
@@ -1947,8 +1947,8 @@
                 <team id="7">
                     <leagueround id="1">
                         <opponent>8</opponent>
-                        <shotsfor> </shotsfor>
-                        <shotsagst> </shotsagst>
+                        <shotsfor>21</shotsfor>
+                        <shotsagst>8</shotsagst>
                     </leagueround>
                     <leagueround id="2">
                         <opponent>5</opponent>
@@ -1965,8 +1965,8 @@
                 <team id="8">
                     <leagueround id="1">
                         <opponent>7</opponent>
-                        <shotsfor> </shotsfor>
-                        <shotsagst> </shotsagst>
+                        <shotsfor>8</shotsfor>
+                        <shotsagst>21</shotsagst>
                     </leagueround>
                     <leagueround id="2">
                         <opponent>6</opponent>
@@ -2010,7 +2010,7 @@
             <captain>Hans Bakker</captain>
         </team>
         <team id="2">
-            <captain>Niekie Bester</captain>
+            <captain>Niekie Bester (Withdrew)</captain>
         </team>
         <team id="3">
             <captain>Shane Hallam</captain>
@@ -2044,8 +2044,8 @@
                 <team id="1">
                     <leagueround id="1">
                         <opponent>2</opponent>
-                        <shotsfor> </shotsfor>
-                        <shotsagst> </shotsagst>
+                        <shotsfor>21</shotsfor>
+                        <shotsagst>0</shotsagst>
                     </leagueround>
                     <leagueround id="2">
                         <opponent>3</opponent>
@@ -2062,18 +2062,18 @@
                 <team id="2">
                     <leagueround id="1">
                         <opponent>1</opponent>
-                        <shotsfor> </shotsfor>
-                        <shotsagst> </shotsagst>
+                        <shotsfor>0</shotsfor>
+                        <shotsagst>21</shotsagst>
                     </leagueround>
                     <leagueround id="2">
                         <opponent>4</opponent>
-                        <shotsfor> </shotsfor>
-                        <shotsagst> </shotsagst>
+                        <shotsfor>0</shotsfor>
+                        <shotsagst>21</shotsagst>
                     </leagueround>
                     <leagueround id="3">
                         <opponent>3</opponent>
-                        <shotsfor> </shotsfor>
-                        <shotsagst> </shotsagst>
+                        <shotsfor>0</shotsfor>
+                        <shotsagst>21</shotsagst>
                     </leagueround>
                     <position> </position>
                 </team>
@@ -2090,8 +2090,8 @@
                     </leagueround>
                     <leagueround id="3">
                         <opponent>2</opponent>
-                        <shotsfor> </shotsfor>
-                        <shotsagst> </shotsagst>
+                        <shotsfor>21</shotsfor>
+                        <shotsagst>0</shotsagst>
                     </leagueround>
                     <position> </position>
                 </team>
@@ -2103,8 +2103,8 @@
                     </leagueround>
                     <leagueround id="2">
                         <opponent>2</opponent>
-                        <shotsfor> </shotsfor>
-                        <shotsagst> </shotsagst>
+                        <shotsfor>21</shotsfor>
+                        <shotsagst>0</shotsagst>
                     </leagueround>
                     <leagueround id="3">
                         <opponent>1</opponent>
@@ -2127,8 +2127,8 @@
                 <team id="5">
                     <leagueround id="1">
                         <opponent>6</opponent>
-                        <shotsfor> </shotsfor>
-                        <shotsagst> </shotsagst>
+                        <shotsfor>5</shotsfor>
+                        <shotsagst>21</shotsagst>
                     </leagueround>
                     <leagueround id="2">
                         <opponent>7</opponent>
@@ -2145,8 +2145,8 @@
                 <team id="6">
                     <leagueround id="1">
                         <opponent>5</opponent>
-                        <shotsfor> </shotsfor>
-                        <shotsagst> </shotsagst>
+                        <shotsfor>21</shotsfor>
+                        <shotsagst>5</shotsagst>
                     </leagueround>
                     <leagueround id="2">
                         <opponent>8</opponent>
