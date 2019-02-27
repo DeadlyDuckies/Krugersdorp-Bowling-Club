@@ -429,7 +429,7 @@
             <game id="1">
                 <home>1</home>
                 <away>2</away>
-                <winner> </winner>
+                <winner>1</winner>
             </game>
             <game id="2">
                 <home>3</home>
@@ -510,7 +510,7 @@
         <round id="2">
             <completedBy>2019/03/24</completedBy>
             <game id="1">
-                <home> </home>
+                <home>1</home>
                 <away>3</away>
                 <winner> </winner>
             </game>
