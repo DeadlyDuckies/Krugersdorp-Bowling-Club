@@ -126,7 +126,7 @@
                             <div>
                                 Yours in Bowls
                                 <br>
-                                Rick van Zyl
+                                Dylan Leader
                                 <br>
                                 Club President
                             </div>
