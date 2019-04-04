@@ -47,7 +47,7 @@
                             Social Grading's and Handicaps
                         </h2>
                         <p>
-                            2018-2019 (Revised Jan '19)
+                            2018-2019 (Revised April '19)
                         </p>
                         <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">
                             Men
@@ -166,6 +166,10 @@
                                                         <td class="body-item mbr-fonts-style display-7">-1</td>
                                                     </tr>
                                                     <tr>
+                                                        <td class="body-item mbr-fonts-style display-7">Jeffery, Mike</td>
+                                                        <td class="body-item mbr-fonts-style display-7">0</td>
+                                                    </tr>
+                                                    <tr>
                                                         <td class="body-item mbr-fonts-style display-7">Leader, Trevor</td>
                                                         <td class="body-item mbr-fonts-style display-7">-1</td>
                                                     </tr>
@@ -184,6 +188,10 @@
                                                     <tr>
                                                         <td class="body-item mbr-fonts-style display-7">Nel, Felix</td>
                                                         <td class="body-item mbr-fonts-style display-7">2</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="body-item mbr-fonts-style display-7">Perry, Bruce</td>
+                                                        <td class="body-item mbr-fonts-style display-7">0</td>
                                                     </tr>
                                                     <tr>
                                                         <td class="body-item mbr-fonts-style display-7">Pieterse, Coenie</td>
@@ -238,6 +246,10 @@
                                                         <td class="body-item mbr-fonts-style display-7">7</td>
                                                     </tr>
                                                     <tr>
+                                                        <td class="body-item mbr-fonts-style display-7">de Beer, Pietie</td>
+                                                        <td class="body-item mbr-fonts-style display-7">2</td>
+                                                    </tr>
+                                                    <tr>
                                                         <td class="body-item mbr-fonts-style display-7">Economakis, Stitch</td>
                                                         <td class="body-item mbr-fonts-style display-7">1</td>
                                                     </tr>
@@ -264,6 +276,10 @@
                                                     <tr>
                                                         <td class="body-item mbr-fonts-style display-7">Kneen, Tom</td>
                                                         <td class="body-item mbr-fonts-style display-7">3</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="body-item mbr-fonts-style display-7">Lewis-Williams, Patrick</td>
+                                                        <td class="body-item mbr-fonts-style display-7">2</td>
                                                     </tr>
                                                     <tr>
                                                         <td class="body-item mbr-fonts-style display-7">McLaren, Ian</td>
@@ -386,6 +402,10 @@
                                                         <td class="body-item mbr-fonts-style display-7">5</td>
                                                     </tr>
                                                     <tr>
+                                                        <td class="body-item mbr-fonts-style display-7">Hechter, Chris</td>
+                                                        <td class="body-item mbr-fonts-style display-7">10</td>
+                                                    </tr>
+                                                    <tr>
                                                         <td class="body-item mbr-fonts-style display-7">Jones, Chris</td>
                                                         <td class="body-item mbr-fonts-style display-7">8</td>
                                                     </tr>
@@ -432,6 +452,10 @@
                                                     <tr>
                                                         <td class="body-item mbr-fonts-style display-7">Pavlou, Andreas</td>
                                                         <td class="body-item mbr-fonts-style display-7">4</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="body-item mbr-fonts-style display-7">Pereira, John</td>
+                                                        <td class="body-item mbr-fonts-style display-7">5</td>
                                                     </tr>
                                                     <tr>
                                                         <td class="body-item mbr-fonts-style display-7">Poole, Dave</td>
@@ -542,10 +566,6 @@
                                                         <td class="body-item mbr-fonts-style display-7">-3</td>
                                                     </tr>
                                                     <tr>
-                                                        <td class="body-item mbr-fonts-style display-7">Sliep, Shauna</td>
-                                                        <td class="body-item mbr-fonts-style display-7">0</td>
-                                                    </tr>
-                                                    <tr>
                                                         <td class="body-item mbr-fonts-style display-7">Syme, Eleanor</td>
                                                         <td class="body-item mbr-fonts-style display-7">-3</td>
                                                     </tr>
@@ -592,6 +612,10 @@
                                                     <tr>
                                                         <td class="body-item mbr-fonts-style display-7">Osborne, Lones</td>
                                                         <td class="body-item mbr-fonts-style display-7">2</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="body-item mbr-fonts-style display-7">Sliep, Shauna</td>
+                                                        <td class="body-item mbr-fonts-style display-7">0</td>
                                                     </tr>
                                                     <tr>
                                                         <td class="body-item mbr-fonts-style display-7">Twigg, Ingrid</td>
@@ -642,6 +666,14 @@
                                                         <td class="body-item mbr-fonts-style display-7">4</td>
                                                     </tr>
                                                     <tr>
+                                                        <td class="body-item mbr-fonts-style display-7">Jansen van Rensburg, Joey</td>
+                                                        <td class="body-item mbr-fonts-style display-7">3</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="body-item mbr-fonts-style display-7">Jeffrey, Sandy</td>
+                                                        <td class="body-item mbr-fonts-style display-7">3</td>
+                                                    </tr>
+                                                    <tr>
                                                         <td class="body-item mbr-fonts-style display-7">Keyter, Lucille</td>
                                                         <td class="body-item mbr-fonts-style display-7">0</td>
                                                     </tr>
@@ -672,6 +704,10 @@
                                                     <tr>
                                                         <td class="body-item mbr-fonts-style display-7">Selby, Melana</td>
                                                         <td class="body-item mbr-fonts-style display-7">3</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="body-item mbr-fonts-style display-7">Seller, Paddy</td>
+                                                        <td class="body-item mbr-fonts-style display-7">2</td>
                                                     </tr>
                                                     <tr>
                                                         <td class="body-item mbr-fonts-style display-7">Theron, Shirley</td>
@@ -732,6 +768,10 @@
                                                     <tr>
                                                         <td class="body-item mbr-fonts-style display-7">Herbst, Baby</td>
                                                         <td class="body-item mbr-fonts-style display-7">7</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="body-item mbr-fonts-style display-7">Herbst, Hettie</td>
+                                                        <td class="body-item mbr-fonts-style display-7">6</td>
                                                     </tr>
                                                     <tr>
                                                         <td class="body-item mbr-fonts-style display-7">Hurwitz, Sybil</td>
