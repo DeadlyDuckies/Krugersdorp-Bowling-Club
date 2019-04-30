@@ -25,9 +25,17 @@
                 <h2 class="mbr-section-title pb-3 mbr-fonts-style display-2">
                     Dress Code
                 </h2>
-<!--                <p>-->
-<!--                    This is to be worn when representing the club, during club competitions and Saturday social bowls.-->
-<!--                </p>-->
+                <p>
+                    <strong>As recognized by Bowls South Africa</strong>
+                    <br>
+                    LAWS OF THE SPORT OF BOWLS
+                    <br>
+                    SOUTH AFRICAN EDITION
+                    <br>
+                    Third Edition
+                    <br>
+                    These Laws take effect in South Africa from 1 October 2014
+                </p>
                 <div class="media-container-column">
                     <div class="row justify-content-center">
                         <div class="card p-4 col-12 col-md-6 col-lg-4">
@@ -46,26 +54,45 @@
                                 <p class="mbr-text mbr-fonts-style display-7">
                                     <strong>1. Head wear</strong>
                                     <br>
-                                    Headwear if worn shall be hats or peaked caps.
+                                    <u>Appendix A.3</u>
+                                    <br>
+                                    Headwear, if worn, may have approved insignia or hatbands.
                                     <br>
                                     <br>
                                     <strong>2. Footwear</strong>
                                     <br>
-                                    As recognized by Bowls South Africa
+                                    <u>Appendix A.2.2</u>
                                     <br>
-                                    An extract from the Conditions of Play, "Players, Umpires and Markers shall wear
-                                    heel-less footwear which has either a smooth or ribbed sole (maximum depth of section of the
-                                    sole making contact with the green may not exceed 2mm in depth or the thickness of a
-                                    matchstick) whilst playing on the green or acting as Umpires or Markers. Shoes with
-                                    protrusions are not acceptable. National authorities reserve the right to allow the use of
-                                    specific colours of footwar.
+                                    Players, Umpires and Markers shall wear conventional shoes or sports shoes which have
+                                    a continuous smooth sole or a sole with a channel rise in the middle of the sole, as
+                                    long as the sole is clearly in one piece and the heel area does not sit at a different
+                                    height to the front of the shoe. To assist in traction the sole can have indented
+                                    grooves up to 2 mm (thickness of matchstick), but no protuberances. The width of the
+                                    rear part of the shoe shall be at least 50% of the widest part of the sole. Conventional
+                                    sandals are acceptable providing they have a back strap. The National Authority
+                                    reserves the right to allow or disallow the use of specific colours and brands of
+                                    footwear. (Circular 40/2010)
                                     <br>
                                     <br>
                                     <strong>3. Representative Matches</strong>
                                     <br>
-                                    In all representative matches (all matches other than social games and club
-                                    competitions) the whole team shall dress uniformly. (The whole team is to wear the same
-                                    colour).
+                                    <u>Appendix A.3</u>
+                                    <br>
+                                    In all representatives matches (all matches other than social games and club
+                                    competitions) players shall wear either white or cream or official colours registered
+                                    by the club, district or Member National Authority for clothing as specified hereunder.
+                                    Controlling Bodies may authorize variations in these clothing specifications from time
+                                    to time. Furthermore, the Controlling Body shall also have the right, even
+                                    retrospectively, to declare any variation in dress unacceptable after which such
+                                    variation in dress shall not be worn. All players participating in a team event are
+                                    required to be uniformly dressed.
+                                    <br>
+                                    <strong>______________________________</strong>
+                                    <br>
+                                    <u>Krugersdorp Bowling Club Rule</u>
+                                    <br>
+                                    Official colours are club or white shirts and white, cream,
+                                    navy or black (ladies only) pants.
                                 </p>
                             </div>
                         </div>
@@ -85,11 +112,31 @@
                                 <p class="mbr-text mbr-fonts-style display-7">
                                     <strong>1. Shirts</strong>
                                     <br>
-                                    Club shirts or white shirts of the golf shirt type, with conventional collar and
+                                    <u>Appendix A.3</u>
+                                    <br>
+                                    Shirts shall have conventional collars and be adequately buttoned.
+                                    <br>
+                                    <strong>______________________________</strong>
+                                    <br>
+                                    <u>Krugersdorp Bowling Club Rule</u>
+                                    <br>
+                                    Club or white shirts of the golf shirt type, with conventional collar and
                                     sleeves. No shirt without a collar or sleeves may be worn.
                                     <br>
                                     <br>
                                     <strong>2. Trousers</strong>
+                                    <br>
+                                    <u>Appendix A.3</u>
+                                    <br>
+                                    Full length trousers or tailored shorts, (knee length) with pockets may be worn or
+                                    shorts approved by Bowls SA. (Under no circumstances shall Cargo, Combat, Denim
+                                    trousers or Rugby shorts be permitted). String tied trousers (cricket trousers),
+                                    tracksuit trousers or tracksuit shorts, without a front zip, approved by a club,
+                                    district or member authority are also acceptable.
+                                    <br>
+                                    <strong>______________________________</strong>
+                                    <br>
+                                    <u>Krugersdorp Bowling Club Rule</u>
                                     <br>
                                     White, navy or cream long tailored trousers, tailored shorts, BRT quad shorts or
                                     BRT long track pants. Rugby, soccer or running shorts are not acceptable. If a belt
@@ -98,8 +145,9 @@
                                     <br>
                                     <strong>3. Socks</strong>
                                     <br>
-                                    If shorts are worn, socks shall be of the stocking type or predominantly white
-                                    long or ankle socks.
+                                    <u>Appendix A.3</u>
+                                    <br>
+                                    Ankle socks, secret socks or golf hose must be worn with shorts.
                                 </p>
                             </div>
                         </div>
@@ -120,13 +168,27 @@
                                 <p class="mbr-text mbr-fonts-style display-7">
                                     <strong>1. Dress or slacks</strong>
                                     <br>
+                                    <u>Appendix A.3</u>
+                                    <br>
+                                    A bowling dress with collar, a skirt or tailored slacks of any length together with
+                                    a blouse with a collar, is permissible provided they are not manufactured from Lycra
+                                    or any other body clinging material.
+                                    <br>
+                                    Bowls South Africa has approved the 'Skort' as acceptable apparel for female bowlers.
+                                    This approval is subject to the 'Skort' being a branded garment. The homemade and
+                                    tennis 'Skort' remains unacceptable.
+                                    <br>
+                                    <strong>______________________________</strong>
+                                    <br>
+                                    <u>Krugersdorp Bowling Club Rule</u>
+                                    <br>
                                     A bowling dress with collar or skirt, divided skirt, walking shorts, tailored slacks
                                     of any length, BRT quad shorts or BRT long track pants in white, navy, cream or black.
                                     <br>
                                     <br>
                                     <strong>2. Blouse or Shirts</strong>
                                     <br>
-                                    A white blouse or club shirt or white shirt of the golf type with conventional
+                                    A club shirt, white blouse or white shirt of the golf type with conventional
                                     collar and sleeves may be worn. No blouse or shirt may be worn without a collar.
                                 </p>
                             </div>
