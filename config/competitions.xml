@@ -1,5 +1,5 @@
 <competitions>
-    <lastUpdated>2018/04/25</lastUpdated>
+    <lastUpdated>2018/08/10 @ 12:00</lastUpdated>
     <competition id="1">
         <name>Ladies Pairs</name>
         <team id="1">
@@ -119,7 +119,7 @@
             <game id="1">
                 <home>4</home>
                 <away>11</away>
-                <winner> </winner>
+                <winner>11</winner>
             </game>
         </round>
     </competition>
@@ -352,7 +352,7 @@
             <game id="1">
                 <home>3</home>
                 <away>17</away>
-                <winner> </winner>
+                <winner>17</winner>
             </game>
         </round>
     </competition>
@@ -578,20 +578,20 @@
             <game id="1">
                 <home>6</home>
                 <away>14</away>
-                <winner> </winner>
+                <winner>6</winner>
             </game>
             <game id="2">
                 <home>15</home>
                 <away>20</away>
-                <winner> </winner>
+                <winner>20</winner>
             </game>
         </round>
         <round id="5">
             <completedBy>FINALS DAY</completedBy>
             <game id="1">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
+                <home>6</home>
+                <away>20</away>
+                <winner>6</winner>
             </game>
         </round>
     </competition>
@@ -1055,19 +1055,19 @@
             <game id="1">
                 <home>6</home>
                 <away>17</away>
-                <winner> </winner>
+                <winner>17</winner>
             </game>
             <game id="2">
                 <home>35</home>
                 <away>44</away>
-                <winner> </winner>
+                <winner>44</winner>
             </game>
         </round>
         <round id="6">
             <completedBy>FINALS DAY</completedBy>
             <game id="1">
-                <home> </home>
-                <away> </away>
+                <home>17</home>
+                <away>44</away>
                 <winner> </winner>
             </game>
         </round>
@@ -1294,20 +1294,20 @@
             <game id="1">
                 <home>5</home>
                 <away>12</away>
-                <winner> </winner>
+                <winner>5</winner>
             </game>
             <game id="2">
                 <home>15</home>
                 <away>19</away>
-                <winner> </winner>
+                <winner>19</winner>
             </game>
         </round>
         <round id="5">
             <completedBy>FINALS DAY</completedBy>
             <game id="1">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
+                <home>5</home>
+                <away>19</away>
+                <winner>19</winner>
             </game>
         </round>
     </competition>
@@ -1771,20 +1771,20 @@
             <game id="1">
                 <home>5</home>
                 <away>26</away>
-                <winner> </winner>
+                <winner>5</winner>
             </game>
             <game id="2">
                 <home>35</home>
                 <away>47</away>
-                <winner> </winner>
+                <winner>35</winner>
             </game>
         </round>
         <round id="6">
             <completedBy>FINALS DAY</completedBy>
             <game id="1">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
+                <home>5</home>
+                <away>35</away>
+                <winner>5</winner>
             </game>
         </round>
     </competition>
@@ -1987,20 +1987,20 @@
             <game id="1">
                 <home>3</home>
                 <away>8</away>
-                <winner> </winner>
+                <winner>8</winner>
             </game>
             <game id="2">
                 <home>7</home>
                 <away>2</away>
-                <winner> </winner>
+                <winner>2</winner>
             </game>
         </round>
         <round id="2">
             <completedBy>FINALS DAY</completedBy>
             <game id="1">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
+                <home>8</home>
+                <away>2</away>
+                <winner>2</winner>
             </game>
         </round>
     </competition>
@@ -2203,20 +2203,20 @@
             <game id="1">
                 <home>4</home>
                 <away>6</away>
-                <winner> </winner>
+                <winner>4</winner>
             </game>
             <game id="2">
                 <home>8</home>
                 <away>3</away>
-                <winner> </winner>
+                <winner>3</winner>
             </game>
         </round>
         <round id="2">
             <completedBy>FINALS DAY</completedBy>
             <game id="1">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
+                <home>4</home>
+                <away>3</away>
+                <winner>4</winner>
             </game>
         </round>
     </competition>
@@ -2492,168 +2492,168 @@
             <game id="1">
                 <home>1</home>
                 <away>3</away>
-                <winner> </winner>
+                <winner>3</winner>
             </game>
             <game id="2">
                 <home>5</home>
                 <away>6</away>
-                <winner> </winner>
+                <winner>6</winner>
             </game>
             <game id="3">
                 <home>7</home>
                 <away>8</away>
-                <winner> </winner>
+                <winner>7</winner>
             </game>
             <game id="4">
                 <home>9</home>
                 <away>10</away>
-                <winner> </winner>
+                <winner>9</winner>
             </game>
             <game id="5">
                 <home>11</home>
                 <away>12</away>
-                <winner> </winner>
+                <winner>12</winner>
             </game>
             <game id="6">
                 <home>13</home>
                 <away>14</away>
-                <winner> </winner>
+                <winner>13</winner>
             </game>
             <game id="7">
                 <home>15</home>
                 <away>16</away>
-                <winner> </winner>
+                <winner>15</winner>
             </game>
             <game id="8">
                 <home>17</home>
                 <away>18</away>
-                <winner> </winner>
+                <winner>18</winner>
             </game>
             <game id="9">
                 <home>19</home>
                 <away>20</away>
-                <winner> </winner>
+                <winner>20</winner>
             </game>
             <game id="10">
                 <home>21</home>
                 <away>22</away>
-                <winner> </winner>
+                <winner>21</winner>
             </game>
             <game id="11">
                 <home>23</home>
                 <away>24</away>
-                <winner> </winner>
+                <winner>23</winner>
             </game>
             <game id="12">
                 <home>25</home>
                 <away>26</away>
-                <winner> </winner>
+                <winner>25</winner>
             </game>
             <game id="13">
                 <home>27</home>
                 <away>28</away>
-                <winner> </winner>
+                <winner>27</winner>
             </game>
             <game id="14">
                 <home>29</home>
                 <away>30</away>
-                <winner> </winner>
+                <winner>29</winner>
             </game>
             <game id="15">
                 <home>31</home>
                 <away>32</away>
-                <winner> </winner>
+                <winner>31</winner>
             </game>
             <game id="16">
                 <home>33</home>
                 <away>34</away>
-                <winner> </winner>
+                <winner>34</winner>
             </game>
         </round>
         <round id="3">
             <completedBy>2019/06/16</completedBy>
             <game id="1">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
+                <home>3</home>
+                <away>6</away>
+                <winner>6</winner>
             </game>
             <game id="2">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
+                <home>7</home>
+                <away>9</away>
+                <winner>7</winner>
             </game>
             <game id="3">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
+                <home>12</home>
+                <away>13</away>
+                <winner>13</winner>
             </game>
             <game id="4">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
+                <home>15</home>
+                <away>18</away>
+                <winner>18</winner>
             </game>
             <game id="5">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
+                <home>20</home>
+                <away>21</away>
+                <winner>20</winner>
             </game>
             <game id="6">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
+                <home>23</home>
+                <away>25</away>
+                <winner>23</winner>
             </game>
             <game id="7">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
+                <home>27</home>
+                <away>29</away>
+                <winner>27</winner>
             </game>
             <game id="8">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
+                <home>31</home>
+                <away>34</away>
+                <winner>31</winner>
             </game>
         </round>
         <round id="4">
             <completedBy>2019/07/07</completedBy>
             <game id="1">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
+                <home>6</home>
+                <away>7</away>
+                <winner>7</winner>
             </game>
             <game id="2">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
+                <home>13</home>
+                <away>18</away>
+                <winner>13</winner>
             </game>
             <game id="3">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
+                <home>20</home>
+                <away>23</away>
+                <winner>23</winner>
             </game>
             <game id="4">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
+                <home>27</home>
+                <away>34</away>
+                <winner>27</winner>
             </game>
         </round>
         <round id="5">
             <completedBy>2019/07/28</completedBy>
             <game id="1">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
+                <home>7</home>
+                <away>13</away>
+                <winner>7</winner>
             </game>
             <game id="2">
-                <home> </home>
-                <away> </away>
-                <winner> </winner>
+                <home>23</home>
+                <away>27</away>
+                <winner>27</winner>
             </game>
         </round>
         <round id="6">
             <completedBy>FINALS DAY</completedBy>
             <game id="1">
-                <home> </home>
-                <away> </away>
+                <home>7</home>
+                <away>27</away>
                 <winner> </winner>
             </game>
         </round>
