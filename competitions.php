@@ -65,6 +65,16 @@
                         </thead>
                         <tbody>
                             <tr>
+                                <td class="body-item mbr-fonts-style display-7">Victor Ludorum</td>
+                                <td class="body-item mbr-fonts-style display-7" style="text-align: center">Jaco van Deventer</td>
+                                <td class="body-item mbr-fonts-style display-7" style="text-align: center"> </td>
+                            </tr>
+                            <tr>
+                                <td class="body-item mbr-fonts-style display-7">Victrix Ludorum</td>
+                                <td class="body-item mbr-fonts-style display-7" style="text-align: center">Ansie Fourie</td>
+                                <td class="body-item mbr-fonts-style display-7" style="text-align: center"> </td>
+                            </tr>
+                            <tr>
                                 <td class="body-item mbr-fonts-style display-7">Men's Championship Singles</td>
                                 <td class="body-item mbr-fonts-style display-7" style="text-align: center">Jaco van Deventer</td>
                                 <td class="body-item mbr-fonts-style display-7" style="text-align: center">Rodney Gray</td>
