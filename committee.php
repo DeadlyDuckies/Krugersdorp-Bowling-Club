@@ -25,7 +25,7 @@
                 <div class="media-container-row">
                     <div class="title col-12 col-md-8">
                         <h2 class="align-center pb-3 mbr-fonts-style display-2">
-                            Committee 2018-2019
+                            Committee 2019-2020
                         </h2>
                     </div>
                 </div>
@@ -37,7 +37,7 @@
                 <div class="row media-row">
                    <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee_2018_2019/Dylan.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2019_2020/Dylan.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -50,9 +50,24 @@
                             </div>
                         </div>
                     </div>
+                   <div class="team-item col-lg-3 col-md-6">
+                        <div class="item-image">
+                            <img src="assets/images/committee_2019_2020/nophoto.png" height="340" alt="" title="" media-simple="true">
+                        </div>
+                        <div class="item-caption py-3">
+                            <div class="item-name px-2">
+                                <p class="mbr-fonts-style display-5">
+                                    Sean Letley
+                                </p>
+                            </div>
+                            <div class="item-role px-2">
+                                <p><strong>Vice President</strong></p>
+                            </div>
+                        </div>
+                    </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee_2018_2019/Ingrid.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2019_2020/Ingrid.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -67,7 +82,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee_2018_2019/Melana.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2019_2020/Melana.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -89,7 +104,7 @@
                 <div class="row media-row">
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee_2018_2019/Elysses.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2019_2020/Elysses.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -104,7 +119,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee_2018_2019/Trevor.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2019_2020/Trevor.jpg" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -119,44 +134,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee_2018_2019/nophoto.png" height="337" alt="" title="" media-simple="true">
-                        </div>
-                        <div class="item-caption py-3">
-                            <div class="item-name px-2">
-                                <p class="mbr-fonts-style display-5">
-                                    Sean Letley
-                                </p>
-                            </div>
-                            <div class="item-role px-2">
-                                <p>Committee Member</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="features16 cid-qyD3zBEXTs" id="features16-v" data-rv-view="32">
-            <div class="container align-center">
-                <div class="row media-row">
-                    <div class="team-item col-lg-3 col-md-6">
-                        <div class="item-image">
-                            <img src="assets/images/committee_2018_2019/Alan.jpg" alt="" title="" media-simple="true">
-                        </div>
-                        <div class="item-caption py-3">
-                            <div class="item-name px-2">
-                                <p class="mbr-fonts-style display-5">
-                                    Alan Lyall
-                                </p>
-                            </div>
-                            <div class="item-role px-2">
-                                <p>Committee Member</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="team-item col-lg-3 col-md-6">
-                        <div class="item-image">
-                            <img src="assets/images/committee_2018_2019/nophoto.png" height="337" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2019_2020/nophoto.png" height="337" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
@@ -171,12 +149,12 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee_2018_2019/Shauna.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2019_2020/nophoto.png" height="337" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
                                 <p class="mbr-fonts-style display-5">
-                                    Shauna Sliep
+                                    Cobus Smit
                                 </p>
                             </div>
                             <div class="item-role px-2">

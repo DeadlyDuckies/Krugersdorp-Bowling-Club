@@ -52,20 +52,6 @@
         <section class="section-table cid-qztItQMCpK" id="table1-1t" data-rv-view="84">
             <div class="container container-table">
                 <div class="table-wrapper">
-                    <div class="container">
-                        <div class="row search">
-                            <div class="col-md-6"></div>
-                            <div class="col-md-6">
-                                <div class="dataTables_filter">
-                                    <label class="searchInfo mbr-fonts-style display-7">Search:</label>
-                                    <label>
-                                        <input class="form-control input-sm" disabled="">
-                                    </label>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
                     <div class="container scroll">
                         <table class="table isSearch" cellspacing="0">
                             <thead>
@@ -96,34 +82,19 @@
                                     <td class="body-item mbr-fonts-style display-7">R 30.00</td>
                                 </tr>
                                 <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Gauteng Open Competition Entry - 2018</td>
+                                    <td class="body-item mbr-fonts-style display-7">Gauteng Open Competition Entry - 2019</td>
                                     <td class="body-item mbr-fonts-style display-7">R 130.00</td>
                                 </tr>
                                 <tr>
-                                    <td class="body-item mbr-fonts-style display-7">South African Nationals Competition Entry (Pairs and Fours) - 2018</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 100.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">South African Nationals Competition Entry (Pairs and Fours) - 2019</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 120.00</td>
                                 </tr>
                                 <tr>
-                                    <td class="body-item mbr-fonts-style display-7">South African Nationals Competition Entry (Singles) - 2018</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 25.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">South African Nationals Competition Entry (Singles) - 2019</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 40.00</td>
                                 </tr>
                             </tbody>
                         </table>
-                    </div>
-                    <div class="container table-info-container">
-                        <div class="row info">
-                            <div class="col-md-6">
-                                <div class="dataTables_info mbr-fonts-style display-7">
-                                    <span class="infoBefore">Showing</span>
-                                    <span class="inactive infoRows"></span>
-                                    <span class="infoAfter">entries</span>
-                                    <span class="infoFilteredBefore">(filtered from</span>
-                                    <span class="inactive infoRows"></span>
-                                    <span class="infoFilteredAfter"> total entries)</span>
-                                </div>
-                            </div>
-                            <div class="col-md-6"></div>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -146,20 +117,6 @@
         <section class="section-table cid-qztItQMCpK" id="table1-1t" data-rv-view="84">
             <div class="container container-table">
                 <div class="table-wrapper">
-                    <div class="container">
-                        <div class="row search">
-                            <div class="col-md-6"></div>
-                            <div class="col-md-6">
-                                <div class="dataTables_filter">
-                                    <label class="searchInfo mbr-fonts-style display-7">Search:</label>
-                                    <label>
-                                        <input class="form-control input-sm" disabled="">
-                                    </label>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
                     <div class="container scroll">
                         <table class="table isSearch" cellspacing="0">
                             <thead>
@@ -187,23 +144,23 @@
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Subs for ages 19 to 25 years of age (Scholars/Students)</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 632.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 680.00</td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Subs for ages 19 to 25 years of age (Non - Scholars/Students)</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 962.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 1,035.00</td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Subs for ages 26 to 59 (Normal subs)</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 1,285.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 1,380.00</td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Subs for ages 60 to 79</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 1,170.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 1,255.00</td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Subs for ages over 80</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 715.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 765.00</td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Life members</td>
@@ -215,19 +172,19 @@
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Bowls South Africa (BSA) affiliation fees (All bowlers must pay this)</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 235.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 250.00</td>
                                 </tr>
                                 <tr>
-                                    <td class="body-item mbr-fonts-style display-7">Sables affiliation fee for under 19</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 108.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">Sables affiliation fee for under 20</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 0.00</td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Sables affiliation fee for ages 20 to 59</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 282.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 290.00</td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Sables affiliation fee for ages 60 - 79 years</td>
-                                    <td class="body-item mbr-fonts-style display-7">R 217.00</td>
+                                    <td class="body-item mbr-fonts-style display-7">R 220.00</td>
                                 </tr>
                                 <tr>
                                     <td class="body-item mbr-fonts-style display-7">Sables affiliation fee for over 80</td>
@@ -235,21 +192,6 @@
                                 </tr>
                             </tbody>
                         </table>
-                    </div>
-                    <div class="container table-info-container">
-                        <div class="row info">
-                            <div class="col-md-6">
-                                <div class="dataTables_info mbr-fonts-style display-7">
-                                    <span class="infoBefore">Showing</span>
-                                    <span class="inactive infoRows"></span>
-                                    <span class="infoAfter">entries</span>
-                                    <span class="infoFilteredBefore">(filtered from</span>
-                                    <span class="inactive infoRows"></span>
-                                    <span class="infoFilteredAfter"> total entries)</span>
-                                </div>
-                            </div>
-                            <div class="col-md-6"></div>
-                        </div>
                     </div>
                 </div>
             </div>
