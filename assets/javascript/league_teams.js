@@ -3,7 +3,8 @@ function loadLeagueTeams() {
     loadXMLTitleDate();
     loadXMLData('mens');
     loadXMLData('ladies');
-    loadXMLSelectionCommittee();
+    loadXMLSelectionCommittee('mens');
+    loadXMLSelectionCommittee('ladies');
 }
 
 function loadXMLTitle() {
@@ -137,12 +138,13 @@ function populateLeagueTeams(xml, type) {
     document.getElementById(type + "_league_html").innerHTML = html;
 }
 
-function loadXMLSelectionCommittee() {
+function loadXMLSelectionCommittee(type) {
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.onreadystatechange = function() {
         if (this.readyState === 4 && this.status === 200) {
             var xmlDoc = this.responseXML;
-            document.getElementById("league_selection_committee").innerHTML = "<strong>Selection Committee</strong><br>" + xmlDoc.getElementsByTagName("selectionCommittee")[0].childNodes[0].nodeValue;
+            var menLadies = xmlDoc.getElementsByTagName(type);
+            document.getElementById(type + "_league_selection_committee").innerHTML = "<strong>" + convertToCamelCase(type) + "</strong><br>" + menLadies[0].getElementsByTagName("selectionCommittee")[0].childNodes[0].nodeValue;
         }
     };
     xmlHttp.open("GET", "../config/league_teams.xml", true);

@@ -31,7 +31,7 @@
     $objWriter->save('php://output');
 
     function columnWidth($columnWidth) {
-        return $columnWidth * 4;
+        return $columnWidth + 0.71;
     }
 
     function rowHeight($rowHeight) {
@@ -46,27 +46,44 @@
     function populateSheet($objSheet, $league_array, $type) {
         $objSheet->setTitle(strtoupper($type) . ' League Teams');
 
-        //Column Dimensions
-        $objSheet->getColumnDimension('A')->setAutoSize(false);
-        $objSheet->getColumnDimension('A')->setWidth(columnWidth(2.18));
-        $objSheet->getColumnDimension('B')->setWidth(columnWidth(1.54));
-        $objSheet->getColumnDimension('C')->setWidth(columnWidth(4.23));
-        $objSheet->getColumnDimension('D')->setWidth(columnWidth(0.53));
-        $objSheet->getColumnDimension('E')->setWidth(columnWidth(4.23));
-        $objSheet->getColumnDimension('F')->setWidth(columnWidth(0.53));
-        $objSheet->getColumnDimension('G')->setWidth(columnWidth(4.23));
-        $objSheet->getColumnDimension('H')->setWidth(columnWidth(0.53));
-        $objSheet->getColumnDimension('I')->setWidth(columnWidth(4.23));
-        $objSheet->getColumnDimension('J')->setWidth(columnWidth(0.53));
-        $objSheet->getColumnDimension('K')->setWidth(columnWidth(1.70));
-        $objSheet->getColumnDimension('L')->setWidth(columnWidth(2.60));
-        $objSheet->getColumnDimension('M')->setWidth(columnWidth(3.22));
-        $objSheet->getColumnDimension('N')->setWidth(columnWidth(1.70));
+        $objSheet->getPageSetup()->setOrientation(PHPExcel_Worksheet_PageSetup::ORIENTATION_LANDSCAPE);
+        $objSheet->getPageSetup()->setPaperSize(PHPExcel_Worksheet_PageSetup::PAPERSIZE_A4);
+        $objSheet->getPageSetup()->setFitToWidth(1);
+        $objSheet->getPageSetup()->setFitToHeight(0);
 
-        $objSheet->getColumnDimension('C')->setAutoSize(true);
-        $objSheet->getColumnDimension('E')->setAutoSize(true);
-        $objSheet->getColumnDimension('G')->setAutoSize(true);
-        $objSheet->getColumnDimension('I')->setAutoSize(true);
+        $objSheet->getPageMargins()->setTop(1/2.5);
+        $objSheet->getPageMargins()->setRight(1/2.5);
+        $objSheet->getPageMargins()->setLeft(1/2.5);
+        $objSheet->getPageMargins()->setBottom(1/2.5);
+
+        //Column Dimensions
+        $objSheet->getColumnDimension('A')->setWidth(columnWidth(7.5));
+        $objSheet->getColumnDimension('B')->setWidth(columnWidth(5.5));
+        $objSheet->getColumnDimension('C')->setWidth(columnWidth(20));
+        $objSheet->getColumnDimension('D')->setWidth(columnWidth(1.4));
+        $objSheet->getColumnDimension('E')->setWidth(columnWidth(20));
+        $objSheet->getColumnDimension('F')->setWidth(columnWidth(1.4));
+        $objSheet->getColumnDimension('G')->setWidth(columnWidth(20));
+        $objSheet->getColumnDimension('H')->setWidth(columnWidth(1.4));
+        $objSheet->getColumnDimension('I')->setWidth(columnWidth(20));
+        $objSheet->getColumnDimension('J')->setWidth(columnWidth(1.4));
+        $objSheet->getColumnDimension('K')->setWidth(columnWidth(6.1));
+        $objSheet->getColumnDimension('L')->setWidth(columnWidth(9.7));
+        $objSheet->getColumnDimension('M')->setWidth(columnWidth(12.2));
+
+        $objSheet->getColumnDimension('A')->setAutoSize(false);
+        $objSheet->getColumnDimension('B')->setAutoSize(false);
+        $objSheet->getColumnDimension('C')->setAutoSize(false);
+        $objSheet->getColumnDimension('D')->setAutoSize(false);
+        $objSheet->getColumnDimension('E')->setAutoSize(false);
+        $objSheet->getColumnDimension('F')->setAutoSize(false);
+        $objSheet->getColumnDimension('G')->setAutoSize(false);
+        $objSheet->getColumnDimension('H')->setAutoSize(false);
+        $objSheet->getColumnDimension('I')->setAutoSize(false);
+        $objSheet->getColumnDimension('J')->setAutoSize(false);
+        $objSheet->getColumnDimension('K')->setAutoSize(false);
+        $objSheet->getColumnDimension('L')->setAutoSize(false);
+        $objSheet->getColumnDimension('M')->setAutoSize(false);
 
         //Row Dimensions
         $objSheet->getRowDimension(1)->setRowHeight(rowHeight(0.66));
@@ -102,9 +119,10 @@
         $objSheet->getRowDimension(31)->setRowHeight(rowHeight(0.66));
 
         //Heading
-        $objSheet->getStyle('A1:N1')->getFont()->setBold(true);
-        $objSheet->getStyle('A1:N1')->getAlignment()->setHorizontal(PHPExcel_Style_Alignment::HORIZONTAL_CENTER);
-        $objSheet->mergeCells('A1:N1');
+        $objSheet->getStyle('A1:M1')->getFont()->setBold(true);
+        $objSheet->getStyle('A1:M1')->getFont()->setSize(18);
+        $objSheet->getStyle('A1:M1')->getAlignment()->setHorizontal(PHPExcel_Style_Alignment::HORIZONTAL_CENTER);
+        $objSheet->mergeCells('A1:M1');
         $objSheet->getCell('A1')->setValue('KRUGERSDORP BOWLING CLUB - ' . strtoupper($type) . ' LEAGUE SIDES - ' . $league_array["date"]);
 
         //Teams
@@ -167,7 +185,7 @@
             } else {
                 $objSheet->getStyle(cellReference('C', 1, $start) . ":" . cellReference('J', 1, $start))->applyFromArray($thickBorderOutline);
             }
-            $objSheet->getStyle(cellReference('A', 4, $start) . ":" . cellReference('N', 4, $start))->applyFromArray($thickBorderBottom);
+            $objSheet->getStyle(cellReference('A', 4, $start) . ":" . cellReference('M', 4, $start))->applyFromArray($thickBorderBottom);
 
             $objSheet->getCell(cellReference('A', 0, $start))->setValue($league_array[$type]["team"][$x]["division_type"]);
             $objSheet->getCell(cellReference('D', 0, $start))->setValue('D');
@@ -210,15 +228,5 @@
         $objSheet->getStyle(cellReference('B', 0, $start))->getFont()->setUnderline(true);
         $objSheet->getCell(cellReference('B', 0, $start))->setValue("Unavailable:");
         $objSheet->getCell(cellReference('D', 0, $start))->setValue($league_array[$type]["unavailable"]);
-
-        $start++;
-        $objSheet->getStyle(cellReference('B', 0, $start))->getFont()->setBold(true)->setUnderline(true);
-        $objSheet->getCell(cellReference('B', 0, $start))->setValue("NOTES");
-
-        $start++;
-        for ($x = 0; $x <= count($league_array["notes"]["note"])-1; $x++) {
-            $objSheet->getCell(cellReference('B', 0, $start))->setValue($league_array["notes"]["note"][$x]);
-            $start++;
-        }
     }
 ?>

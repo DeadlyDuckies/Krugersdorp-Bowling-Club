@@ -108,6 +108,7 @@
         </team>
         <reserves>Niekie Bester, Shane Hallam, Tom Kneen, Johan Lotriet, Hannes Mentz, Ray Rhodes</reserves>
         <unavailable>Rassie Erasmus, Willie Shaw, Herman Sliep</unavailable>
+        <selectionCommittee>Dylan Leader, Alan Lyall, Coenie Pieterse, Andy Selby, Jaco van Deventer (Convener)</selectionCommittee>
     </mens>
     <ladies>
         <team id="1">
@@ -122,12 +123,12 @@
             <trips>
                 <skip>Yvonne Brenner</skip>
                 <second>Hester Bothma</second>
-                <lead>Hester Hattingh</lead>
+                <lead>Bokkie Delport</lead>
             </trips>
             <venue>Florida North</venue>
             <opponent>Florida North</opponent>
             <depart>12:15</depart>
-            <captain> </captain>
+            <captain>TBC</captain>
         </team>
         <team id="2">
             <division_type>Super 7's</division_type>
@@ -146,7 +147,7 @@
             <venue>Maraisburg</venue>
             <opponent>Honeydew (2)</opponent>
             <depart>12:15</depart>
-            <captain> </captain>
+            <captain>TBC</captain>
         </team>
         <team id="2">
             <division_type>Super 4's</division_type>
@@ -160,12 +161,12 @@
             <venue>Honeydew</venue>
             <opponent>Honeydew (1)</opponent>
             <depart>12:15</depart>
-            <captain> </captain>
+            <captain>TBC</captain>
         </team>
-        <reserves> </reserves>
+        <reserves>TBC</reserves>
         <unavailable>Shauna Sliep</unavailable>
+        <selectionCommittee>Amanda Bekker (Convener), Bokkie Delport, Hester Bothma, Lucille Keyter, Yvonne Brenner</selectionCommittee>
     </ladies>
-    <selectionCommittee>Men: Dylan Leader, Alan Lyall, Coenie Pieterse, Andy Selby, Jaco van Deventer (Convener) | Ladies: Amanda Bekker (Convener), Bokkie Delport, Hester Bothma, Lucille Keyter, Yvonne Brenner</selectionCommittee>
     <notes>
         <note id="1">1. NB! Please tick off your names if you are going straight to the venue.</note>
         <note id="2">2. League selections are available on our website - https://www.krugersdorpbowlingclub.co.za/league_teams</note>

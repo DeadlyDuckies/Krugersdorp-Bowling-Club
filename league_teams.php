@@ -85,7 +85,7 @@
                 <div class="media-container-row">
                     <div class="title col-12 col-md-8">
                         <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">
-                            Selection Committee
+                            Selection Committees
                         </h3>
                     </div>
                 </div>
@@ -96,7 +96,8 @@
             <div class="container container-table">
                 <div class="table-wrapper">
                     <div class="container">
-                        <p id="league_selection_committee"></p>
+                        <p id="mens_league_selection_committee"></p>
+                        <p id="ladies_league_selection_committee"></p>
                         <div>
                             <br>
                             <br>
