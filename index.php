@@ -35,6 +35,7 @@
         <section class="cid-qztagOMwAz" id="image2-1m" data-rv-view="8">
             <figure class="mbr-figure container">
                 <div class="w3-content w3-display-container w3-section">
+                    <img class="mySlides" src="assets/images/GoldRush2019Winners.png" style="width:100%">
                     <img class="mySlides" src="assets/images/GoldRush2018Winners.JPG" style="width:100%">
                     <img class="mySlides" src="assets/images/KBC_U35_2018.jpg" style="width:100%">
                     <img class="mySlides" src="assets/images/GoldRush2017Winners.jpeg" style="width:100%">
@@ -70,35 +71,35 @@
                     <div class="mbr-text mbr-fonts-style display-7">
                         <div>
                             Krugersdorp Bowling Club is one of 11 clubs situated in the Sables district on the West Rand
-                            of Johannesburg. It is a thriving bowling club that has close to 120 members and continually
-                            growing.
+                            of Johannesburg. It is a thriving bowling club that has over 170 members (The biggest in the
+                            district) and is continually growing.
                             <br>
                             <br>
                             We at Krugersdorp Bowling Club pride ourselves on being a competitive club as much as we do
-                            being a social attraction. We currently have 4 of our members representing our district at
-                            the Bowls South Africa inter-district tournament and 3 of our members that represent
-                            our district in the u/30 inter-districts.
+                            being a social attraction. We have many members that represent us in our district at
+                            the Bowls South Africa inter-district tournament.
                             <br>
                             <br>
                             Our bar as at many bowling clubs is the heart of the club, open 7 days at week with
                             friendly staff that are always willing to show you the friendly side of Krugersdorp Bowling
-                            Club. Card facilities are available, ensuring that you do not need to carry cash on hand when you want to pop in
-                            for a quick drink and a chat.
+                            Club. Card facilities are available, ensuring that you do not need to carry cash on hand when
+                            you want to pop in for a quick drink and a chat.
                             <br>
                             <br>
-                            We have 6 registered coaches always available to assist anyone from first time bowlers to the most experienced. Their training is in line with both
-                            Bowls South Africa and Sables coaching guidelines which ensures that Krugersdorp Bowling
-                            Club fits into the bigger bowls picture.
+                            We have 6 registered coaches always available to assist anyone from first time bowlers to
+                            the most experienced. Their training is in line with both Bowls South Africa and Sables
+                            coaching guidelines which ensures that Krugersdorp Bowling Club fits into the bigger bowls
+                            picture.
                             <br>
                             <br>
                             At Krugersdorp Bowling Club we have 3 greens which gives us the benefit of hosting many
-                            players at a time, such as our annual "Gold Rush" tournament held in November each year and
-                            soon our Invitational Under 35's Singles tournament in April. Our green keepers work hard
-                            throughout the year to give us the best available surfaces to play the sport we love.
+                            players at a time, such as our annual "Gold Rush" tournament held in October/November each
+                            year and our Invitational Under 35's Singles tournament in April/May. Our green keepers work
+                            hard throughout the year to give us the best available surfaces to play the sport we love.
                             <br>
                             <br>
                             Krugersdorp Bowling Club also hires out our hall, bar and kitchen facilities for functions
-                            and can accommodate approximately 100 people making it the perfect venue for small to
+                            and can accommodate approximately 200 people making it the perfect venue for small to
                             medium size functions.
                             <br>
                             <br>
