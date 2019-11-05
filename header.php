@@ -14,7 +14,7 @@
             <div class="navbar-brand">
                 <span class="navbar-logo">
                     <a href="index">
-                         <img src="assets/images/kbc-logo-trans-181x172.png" alt="Home" title="Home" media-simple="true"
+                         <img src="assets/images/kbc-logo-blue-white-transparent.png" alt="Home" title="Home" media-simple="true"
                               style="height: 4rem;">
                     </a>
                 </span>

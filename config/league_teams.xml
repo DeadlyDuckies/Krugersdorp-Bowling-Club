@@ -1,6 +1,6 @@
 <league>
     <title>Krugersdorp Bowling Club League Teams</title>
-    <date>2019/10/26</date>
+    <date>2019/11/09</date>
     <mens>
         <team id="1">
             <division_type>Super 7's</division_type>
@@ -16,9 +16,9 @@
                 <second>Dylan Leader</second>
                 <lead>Robert Scott</lead>
             </trips>
-            <venue>Witpoortjie</venue>
-            <opponent>Witpoortjie (1)</opponent>
-            <depart>12:45</depart>
+            <venue>Leases</venue>
+            <opponent>Discovery (2)</opponent>
+            <depart>12:30</depart>
             <captain>Dylan Leader</captain>
         </team>
         <team id="2">
@@ -35,9 +35,9 @@
                 <second>Coenie Pieterse</second>
                 <lead>Glenn Minnaar</lead>
             </trips>
-            <venue>Krugersdorp</venue>
-            <opponent>Honeydew (2)</opponent>
-            <depart>N/A</depart>
+            <venue>Witpoortjie</venue>
+            <opponent>Discovery (4)</opponent>
+            <depart>12:45</depart>
             <captain>Lex Morton</captain>
         </team>
         <team id="3">
@@ -54,9 +54,9 @@
                 <second>Martin Janse</second>
                 <lead>Gavin Heine</lead>
             </trips>
-            <venue>Honeydew</venue>
-            <opponent>Discovery (5)</opponent>
-            <depart>12:30</depart>
+            <venue>Krugersdorp</venue>
+            <opponent>Honeydew (4)</opponent>
+            <depart>N/A</depart>
             <captain>Trevor Leader</captain>
         </team>
         <team id="4">
@@ -73,8 +73,8 @@
                 <second>Allan Thomson</second>
                 <lead>Herman Sliep</lead>
             </trips>
-            <venue>Krugersdorp</venue>
-            <opponent>Honeydew (5)</opponent>
+            <venue>Bye</venue>
+            <opponent>Bye</opponent>
             <depart>N/A</depart>
             <captain>Mike Sampson</captain>
         </team>
@@ -87,8 +87,8 @@
                 <second>Barry Rheeder</second>
                 <lead>Hans Bakker</lead>
             </fours>
-            <venue>Randfontein</venue>
-            <opponent>Randfontein</opponent>
+            <venue>Florida North</venue>
+            <opponent>Florida North</opponent>
             <depart>12:30</depart>
             <captain>Brian Muldoon</captain>
         </team>
@@ -97,17 +97,17 @@
             <division_no>1</division_no>
             <fours>
                 <skip>Dave Parker</skip>
-                <third>Arthur Daniel</third>
+                <third>Tom Kneen</third>
                 <second>Ian McLaren</second>
                 <lead>John Pereira</lead>
             </fours>
-            <venue>Randfontein</venue>
-            <opponent>Witpoortjie</opponent>
+            <venue>Florida North</venue>
+            <opponent>Randfontein</opponent>
             <depart>12:30</depart>
             <captain>Dave Parker</captain>
         </team>
-        <reserves>Niekie Bester, Shane Hallam, Tom Kneen, Johan Lotriet, Hannes Mentz, Ray Rhodes, John Wolff</reserves>
-        <unavailable>Peter Jacobs</unavailable>
+        <reserves>Niekie Bester, Arthur Daniel, Shane Hallam, Peter Jacobs, Johan Lotriet, Hannes Mentz, Ray Rhodes, John Wolff</reserves>
+        <unavailable>N/A</unavailable>
         <selectionCommittee>Dylan Leader, Alan Lyall, Coenie Pieterse, Andy Selby, Jaco van Deventer (Convener)</selectionCommittee>
     </mens>
     <ladies>
@@ -118,17 +118,17 @@
                 <skip>Mabs Rees</skip>
                 <third>Maureen Love</third>
                 <second>Lucille Keyter</second>
-                <lead>Hester Hattingh</lead>
+                <lead>Elysses Heine</lead>
             </fours>
             <trips>
                 <skip>Yvonne Brenner</skip>
                 <second>Hester Bothma</second>
                 <lead>Bokkie Delport</lead>
             </trips>
-            <venue>Honeydew</venue>
-            <opponent>Honeydew (1)</opponent>
-            <depart>12:15</depart>
-            <captain>Mabs Rees</captain>
+            <venue>Discovery</venue>
+            <opponent>Florida North</opponent>
+            <depart>12:30</depart>
+            <captain>Yvonne Brenner</captain>
         </team>
         <team id="2">
             <division_type>Super 7's</division_type>
@@ -137,7 +137,7 @@
                 <skip>Jacqui Lewis</skip>
                 <third>Shauna Sliep</third>
                 <second>Theresa Klein</second>
-                <lead>Elysses Heine</lead>
+                <lead>Belinda Economakis</lead>
             </fours>
             <trips>
                 <skip>Joey Jansen van Rensburg</skip>
@@ -145,7 +145,7 @@
                 <lead>Charne Westerveld</lead>
             </trips>
             <venue>Honeydew</venue>
-            <opponent>Honeydew (3)</opponent>
+            <opponent>Honeydew (2)</opponent>
             <depart>12:15</depart>
             <captain>Kirstin Leader</captain>
         </team>
@@ -153,19 +153,19 @@
             <division_type>Super 4's</division_type>
             <division_no>1</division_no>
             <fours>
-                <skip>Linda Bosch</skip>
-                <third>Ansie Fourie</third>
-                <second>Belinda Economakis</second>
+                <skip>Amanda Bekker</skip>
+                <third>Linda Bosch</third>
+                <second>Ansie Fourie</second>
                 <lead>Melana Selby</lead>
             </fours>
-            <venue>Bye</venue>
-            <opponent>Bye</opponent>
+            <venue>Krugersdorp</venue>
+            <opponent>Randfontein</opponent>
             <depart>N/A</depart>
-            <captain>N/A</captain>
+            <captain>Amanda Bekker</captain>
         </team>
-        <reserves>Karen Barnes, Amanda Bekker, Anrie du Toit, Suzette Kirsten, Belinda Letley, Anneke Pereira, Brenda Thomson</reserves>
+        <reserves>Karen Barnes, Anrie du Toit, Belinda Letley, Anneke Pereira, Brenda Thomson</reserves>
         <unavailable>N/A</unavailable>
-        <selectionCommittee>Amanda Bekker (Convener), Bokkie Delport, Hester Bothma, Lucille Keyter, Yvonne Brenner</selectionCommittee>
+        <selectionCommittee>Amanda Bekker, Hester Bothma, Yvonne Brenner (Convener), Bokkie Delport, Lucille Keyter</selectionCommittee>
     </ladies>
     <notes>
         <note id="1">1. NB! Please tick off your names if you are going straight to the venue.</note>

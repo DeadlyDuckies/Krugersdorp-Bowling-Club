@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="shortcut icon" href="assets/images/kbc-logo-trans-181x172.png" type="image/x-icon">
+        <link rel="shortcut icon" href="assets/images/kbc-logo-blue-white-transparent.png" type="image/x-icon">
         <meta name="description" content="Krugersdorp Bowling Club History">
         <title>History - Krugersdorp Bowling Club</title>
         <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
