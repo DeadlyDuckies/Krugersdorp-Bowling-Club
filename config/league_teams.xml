@@ -1,6 +1,6 @@
 <league>
     <title>Krugersdorp Bowling Club League Teams</title>
-    <date>2019/11/09</date>
+    <date>2019/11/16</date>
     <mens>
         <team id="1">
             <division_type>Super 7's</division_type>
@@ -16,9 +16,9 @@
                 <second>Dylan Leader</second>
                 <lead>Robert Scott</lead>
             </trips>
-            <venue>Leases</venue>
-            <opponent>Discovery (2)</opponent>
-            <depart>12:30</depart>
+            <venue>Krugersdorp</venue>
+            <opponent>Discovery (1)</opponent>
+            <depart>N/A</depart>
             <captain>Dylan Leader</captain>
         </team>
         <team id="2">
@@ -35,10 +35,10 @@
                 <second>Coenie Pieterse</second>
                 <lead>Glenn Minnaar</lead>
             </trips>
-            <venue>Witpoortjie</venue>
-            <opponent>Discovery (4)</opponent>
-            <depart>12:45</depart>
-            <captain>Lex Morton</captain>
+            <venue>Discovery</venue>
+            <opponent>Leases (3)</opponent>
+            <depart>12:30</depart>
+            <captain>Ian Morton</captain>
         </team>
         <team id="3">
             <division_type>Super 7's</division_type>
@@ -54,16 +54,16 @@
                 <second>Martin Janse</second>
                 <lead>Gavin Heine</lead>
             </trips>
-            <venue>Krugersdorp</venue>
-            <opponent>Honeydew (4)</opponent>
-            <depart>N/A</depart>
+            <venue>Honeydew</venue>
+            <opponent>Honeydew (3)</opponent>
+            <depart>12:15</depart>
             <captain>Trevor Leader</captain>
         </team>
         <team id="4">
             <division_type>Super 7's</division_type>
             <division_no>5</division_no>
             <fours>
-                <skip>Joe Price</skip>
+                <skip>Michael Nysschen</skip>
                 <third>Johan Landman</third>
                 <second>Sydney Rust</second>
                 <lead>Willie Shaw</lead>
@@ -73,9 +73,9 @@
                 <second>Allan Thomson</second>
                 <lead>Herman Sliep</lead>
             </trips>
-            <venue>Bye</venue>
-            <opponent>Bye</opponent>
-            <depart>N/A</depart>
+            <venue>Florida North</venue>
+            <opponent>Witpoortjie (3)</opponent>
+            <depart>12:30</depart>
             <captain>Mike Sampson</captain>
         </team>
         <team id="5">
@@ -87,9 +87,9 @@
                 <second>Barry Rheeder</second>
                 <lead>Hans Bakker</lead>
             </fours>
-            <venue>Florida North</venue>
-            <opponent>Florida North</opponent>
-            <depart>12:30</depart>
+            <venue>Bye</venue>
+            <opponent>Bye</opponent>
+            <depart>N/A</depart>
             <captain>Brian Muldoon</captain>
         </team>
         <team id="6">
@@ -101,13 +101,13 @@
                 <second>Ian McLaren</second>
                 <lead>John Pereira</lead>
             </fours>
-            <venue>Florida North</venue>
-            <opponent>Randfontein</opponent>
-            <depart>12:30</depart>
+            <venue>Witpoortjie</venue>
+            <opponent>Florida North</opponent>
+            <depart>12:45</depart>
             <captain>Dave Parker</captain>
         </team>
         <reserves>Niekie Bester, Arthur Daniel, Shane Hallam, Peter Jacobs, Johan Lotriet, Hannes Mentz, Ray Rhodes, John Wolff</reserves>
-        <unavailable>N/A</unavailable>
+        <unavailable>Joe Price</unavailable>
         <selectionCommittee>Dylan Leader, Alan Lyall, Coenie Pieterse, Andy Selby, Jaco van Deventer (Convener)</selectionCommittee>
     </mens>
     <ladies>
@@ -125,9 +125,9 @@
                 <second>Hester Bothma</second>
                 <lead>Bokkie Delport</lead>
             </trips>
-            <venue>Discovery</venue>
-            <opponent>Florida North</opponent>
-            <depart>12:30</depart>
+            <venue>Florida North</venue>
+            <opponent>Honeydew (1)</opponent>
+            <depart>12:15</depart>
             <captain>Yvonne Brenner</captain>
         </team>
         <team id="2">
@@ -144,9 +144,9 @@
                 <second>Kirstin Leader</second>
                 <lead>Charne Westerveld</lead>
             </trips>
-            <venue>Honeydew</venue>
-            <opponent>Honeydew (2)</opponent>
-            <depart>12:15</depart>
+            <venue>Krugersdorp</venue>
+            <opponent>Honeydew (3)</opponent>
+            <depart>N/A</depart>
             <captain>Kirstin Leader</captain>
         </team>
         <team id="2">
@@ -158,9 +158,9 @@
                 <second>Ansie Fourie</second>
                 <lead>Melana Selby</lead>
             </fours>
-            <venue>Krugersdorp</venue>
-            <opponent>Randfontein</opponent>
-            <depart>N/A</depart>
+            <venue>Honeydew</venue>
+            <opponent>Noordheuwel (2)</opponent>
+            <depart>12:15</depart>
             <captain>Amanda Bekker</captain>
         </team>
         <reserves>Karen Barnes, Anrie du Toit, Belinda Letley, Anneke Pereira, Brenda Thomson</reserves>
