@@ -1,43 +1,43 @@
 <league>
     <title>Krugersdorp Bowling Club League Teams</title>
-    <date>2019/11/23</date>
+    <date>2019/11/30</date>
     <mens>
         <team id="1">
             <division_type>Super 7's</division_type>
             <division_no>1</division_no>
             <fours>
-                <skip>Cobus Smit</skip>
-                <third>Rudo Botha</third>
+                <skip>Lex Morton</skip>
+                <third>Jaco van Deventer</third>
                 <second>Stitch Economakis</second>
-                <lead>Lee Barnes</lead>
+                <lead>Glenn Minnaar</lead>
             </fours>
             <trips>
                 <skip>Graeme Morton</skip>
                 <second>Andy Selby</second>
                 <lead>Dylan Leader</lead>
             </trips>
-            <venue>Discovery</venue>
-            <opponent>Leases (1)</opponent>
-            <depart>12:30</depart>
+            <venue>Witpoortjie</venue>
+            <opponent>Witpoortjie (1)</opponent>
+            <depart>12:45</depart>
             <captain>Dylan Leader</captain>
         </team>
         <team id="2">
             <division_type>Super 7's</division_type>
             <division_no>3</division_no>
             <fours>
-                <skip>Lex Morton</skip>
-                <third>Jaco van Deventer</third>
-                <second>Robert Scott</second>
+                <skip>Michael Nysschen</skip>
+                <third>Trevor Leader</third>
+                <second>Martin Janse</second>
                 <lead>Ian Morton</lead>
             </fours>
             <trips>
                 <skip>Rodney Gray</skip>
                 <second>Coenie Pieterse</second>
-                <lead>Glenn Minnaar</lead>
+                <lead>Lee Barnes</lead>
             </trips>
-            <venue>Krugersdorp</venue>
-            <opponent>Maraisburg (1)</opponent>
-            <depart>N/A</depart>
+            <venue>Maraisburg</venue>
+            <opponent>Honeydew (2)</opponent>
+            <depart>12:15</depart>
             <captain>Ian Morton</captain>
         </team>
         <team id="3">
@@ -50,33 +50,33 @@
                 <lead>JP van Tonder</lead>
             </fours>
             <trips>
-                <skip>Trevor Leader</skip>
-                <second>Martin Janse</second>
+                <skip>Mike Sampson</skip>
+                <second>Johan Landman</second>
                 <lead>Gavin Heine</lead>
             </trips>
-            <venue>Discovery</venue>
-            <opponent>Noordheuwel (2)</opponent>
-            <depart>12:30</depart>
-            <captain>Trevor Leader</captain>
+            <venue>Krugersdorp</venue>
+            <opponent>Discovery (5)</opponent>
+            <depart>N/A</depart>
+            <captain>Mike Sampson</captain>
         </team>
         <team id="4">
             <division_type>Super 7's</division_type>
             <division_no>5</division_no>
             <fours>
-                <skip>Michael Nysschen</skip>
-                <third>Johan Landman</third>
+                <skip>Louis Van Rensburg</skip>
+                <third>Herman Sliep</third>
                 <second>Sydney Rust</second>
                 <lead>Willie Shaw</lead>
             </fours>
             <trips>
-                <skip>Mike Sampson</skip>
+                <skip>Arthur Daniel</skip>
                 <second>Allan Thomson</second>
-                <lead>Herman Sliep</lead>
+                <lead>Shane Hallam</lead>
             </trips>
-            <venue>Krugersdorp</venue>
-            <opponent>Maraisburg (2)</opponent>
-            <depart>N/A</depart>
-            <captain>Mike Sampson</captain>
+            <venue>Honeydew</venue>
+            <opponent>Honeydew (5)</opponent>
+            <depart>12:15</depart>
+            <captain>Herman Sliep</captain>
         </team>
         <team id="5">
             <division_type>Super 4's</division_type>
@@ -84,11 +84,11 @@
             <fours>
                 <skip>Peter Jacobs</skip>
                 <third>Rassie Erasmus</third>
-                <second>Brian Muldoon</second>
+                <second>Johan Lotriet</second>
                 <lead>Hans Bakker</lead>
             </fours>
-            <venue>Randfontein</venue>
-            <opponent>Witpoortjie</opponent>
+            <venue>Florida North</venue>
+            <opponent>Randfontein</opponent>
             <depart>12:30</depart>
             <captain>Peter Jacobs</captain>
         </team>
@@ -98,16 +98,16 @@
             <fours>
                 <skip>Dave Parker</skip>
                 <third>Tom Kneen</third>
-                <second>Ian McLaren</second>
+                <second>Niekie Bester</second>
                 <lead>John Pereira</lead>
             </fours>
-            <venue>Bye</venue>
-            <opponent>Bye</opponent>
-            <depart>N/A</depart>
+            <venue>Florida North</venue>
+            <opponent>Witpoortjie</opponent>
+            <depart>12:30</depart>
             <captain>Dave Parker</captain>
         </team>
-        <reserves>Niekie Bester, Arthur Daniel, Shane Hallam, Johan Lotriet, Hannes Mentz, Ray Rhodes</reserves>
-        <unavailable>Joe Price, Barry Rheeder, John Wolff</unavailable>
+        <reserves>Hannes Mentz</reserves>
+        <unavailable>Rudo Botha, Dick Jacobs, Ian McLaren, Brian Muldoon, Joe Price, Barry Rheeder, Robert Scott, John Wolff</unavailable>
         <selectionCommittee>Dylan Leader, Alan Lyall, Coenie Pieterse, Andy Selby, Jaco van Deventer (Convener)</selectionCommittee>
     </mens>
     <ladies>
@@ -125,46 +125,46 @@
                 <second>Hester Bothma</second>
                 <lead>Bokkie Delport</lead>
             </trips>
-            <venue>Honeydew</venue>
-            <opponent>Discovery (2)</opponent>
-            <depart>12:15</depart>
+            <venue>Discovery</venue>
+            <opponent>Florida North</opponent>
+            <depart>12:30</depart>
             <captain>Yvonne Brenner</captain>
         </team>
         <team id="2">
             <division_type>Super 7's</division_type>
             <division_no>3</division_no>
             <fours>
-                <skip>Jacqui Lewis</skip>
-                <third>Shauna Sliep</third>
-                <second>Joey Jansen van Rensburg</second>
-                <lead>Belinda Economakis</lead>
+                <skip>Shauna Sliep</skip>
+                <third>Amanda Bekker</third>
+                <second>Linda Bosch</second>
+                <lead>Karen Barnes</lead>
             </fours>
             <trips>
                 <skip>Monique Van Rensburg</skip>
                 <second>Kirstin Leader</second>
-                <lead>Charne Westerveld</lead>
+                <lead>Theresa Klein</lead>
             </trips>
-            <venue>Honeydew</venue>
-            <opponent>Maraisburg</opponent>
-            <depart>12:15</depart>
+            <venue>Krugersdorp</venue>
+            <opponent>Honeydew (2)</opponent>
+            <depart>N/A</depart>
             <captain>Kirstin Leader</captain>
         </team>
         <team id="2">
             <division_type>Super 4's</division_type>
             <division_no>1</division_no>
             <fours>
-                <skip>Amanda Bekker</skip>
-                <third>Linda Bosch</third>
-                <second>Anneke Pereira</second>
-                <lead>Melana Selby</lead>
+                <skip> </skip>
+                <third> </third>
+                <second> </second>
+                <lead> </lead>
             </fours>
-            <venue>Noordheuwel</venue>
-            <opponent>Honeydew (1)</opponent>
-            <depart>12:45</depart>
-            <captain>Amanda Bekker</captain>
+            <venue>Bye</venue>
+            <opponent>Bye</opponent>
+            <depart>N/A</depart>
+            <captain> </captain>
         </team>
-        <reserves>Karen Barnes, Anrie du Toit, Belinda Letley, Brenda Thomson</reserves>
-        <unavailable>Ansie Fourie, Theresa Klein</unavailable>
+        <reserves>Anrie du Toit, Belinda Economakis, Belinda Letley, Jacqui Lewis, Anneke Pereira, Melana Selby, Brenda Thomson, Joey Jansen van Rensburg</reserves>
+        <unavailable>Ansie Fourie, Charne Westerveld</unavailable>
         <selectionCommittee>Amanda Bekker, Hester Bothma, Yvonne Brenner (Convener), Bokkie Delport, Lucille Keyter</selectionCommittee>
     </ladies>
     <notes>
