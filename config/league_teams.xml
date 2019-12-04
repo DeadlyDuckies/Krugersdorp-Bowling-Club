@@ -71,7 +71,7 @@
             <trips>
                 <skip>Arthur Daniel</skip>
                 <second>Allan Thomson</second>
-                <lead>Shane Hallam</lead>
+                <lead>Hannes Mentz</lead>
             </trips>
             <venue>Maraisburg</venue>
             <opponent>Florida North</opponent>
@@ -82,8 +82,8 @@
             <division_type>Super 4's</division_type>
             <division_no>1</division_no>
             <fours>
-                <skip>Peter Jacobs</skip>
-                <third>Rassie Erasmus</third>
+                <skip>Rassie Erasmus</skip>
+                <third>Niekie Bester</third>
                 <second>Johan Lotriet</second>
                 <lead>Hans Bakker</lead>
             </fours>
@@ -106,8 +106,8 @@
             <depart>N/A</depart>
             <captain>Dave Parker</captain>
         </team>
-        <reserves>Niekie Bester, Dick Jacobs, Hannes Mentz</reserves>
-        <unavailable>Rudo Botha, Ian Morton, Brian Muldoon, Joe Price, Barry Rheeder, John Wolff</unavailable>
+        <reserves>Dick Jacobs</reserves>
+        <unavailable>Rudo Botha, Shane Hallam, Peter Jacobs, Ian Morton, Brian Muldoon, Joe Price, Barry Rheeder, John Wolff</unavailable>
         <selectionCommittee>Dylan Leader, Alan Lyall, Coenie Pieterse, Andy Selby, Jaco van Deventer (Convener)</selectionCommittee>
     </mens>
     <ladies>
