@@ -67,12 +67,12 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee_2019_2020/Ingrid.jpg" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2019_2020/nophoto.png" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
                                 <p class="mbr-fonts-style display-5">
-                                    Ingrid Twigg
+                                    Belinda Letley
                                 </p>
                             </div>
                             <div class="item-role px-2">
@@ -154,7 +154,7 @@
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
                                 <p class="mbr-fonts-style display-5">
-                                    Cobus Smit
+                                    Charne Westerveld
                                 </p>
                             </div>
                             <div class="item-role px-2">

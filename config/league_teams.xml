@@ -1,44 +1,44 @@
 <league>
     <title>Krugersdorp Bowling Club League Teams</title>
-    <date>2019/12/07</date>
+    <date>2020/01/25</date>
     <mens>
         <team id="1">
             <division_type>Super 7's</division_type>
             <division_no>1</division_no>
             <fours>
-                <skip>Jaco van Deventer</skip>
-                <third>Michael Nysschen</third>
-                <second>Stitch Economakis</second>
-                <lead>Glenn Minnaar</lead>
+                <skip>Cobus Smit</skip>
+                <third>Andy Selby</third>
+                <second>Jaco van Deventer</second>
+                <lead>Robert Scott</lead>
             </fours>
             <trips>
                 <skip>Graeme Morton</skip>
-                <second>Andy Selby</second>
+                <second>Michael Nysschen</second>
                 <lead>Dylan Leader</lead>
             </trips>
-            <venue>Rustenburg</venue>
-            <opponent>Rustenburg (1)</opponent>
-            <depart>11:00</depart>
+            <venue>Leases</venue>
+            <opponent>Discovery (2)</opponent>
+            <depart>12:30</depart>
             <captain>Dylan Leader</captain>
         </team>
         <team id="2">
             <division_type>Super 7's</division_type>
             <division_no>3</division_no>
             <fours>
-                <skip>Lex Morton</skip>
-                <third>Trevor Leader</third>
+                <skip>Stitch Economakis</skip>
+                <third>Rudo Botha</third>
                 <second>Martin Janse</second>
-                <lead>Robert Scott</lead>
+                <lead>Lee Barnes</lead>
             </fours>
             <trips>
-                <skip>Rodney Gray</skip>
+                <skip>Lex Morton</skip>
                 <second>Coenie Pieterse</second>
-                <lead>Lee Barnes</lead>
+                <lead>Glenn Minnaar</lead>
             </trips>
-            <venue>Honeydew</venue>
-            <opponent>Witpoortjie (2)</opponent>
-            <depart>12:15</depart>
-            <captain>Trevor Leader</captain>
+            <venue>Discovery</venue>
+            <opponent>Discovery (4)</opponent>
+            <depart>12:30</depart>
+            <captain>Coenie Pieterse</captain>
         </team>
         <team id="3">
             <division_type>Super 7's</division_type>
@@ -54,42 +54,42 @@
                 <second>Johan Landman</second>
                 <lead>Gavin Heine</lead>
             </trips>
-            <venue>Bye</venue>
-            <opponent>Bye</opponent>
-            <depart>N/A</depart>
+            <venue>Discovery</venue>
+            <opponent>Honeydew (4)</opponent>
+            <depart>12:30</depart>
             <captain>Mike Sampson</captain>
         </team>
         <team id="4">
             <division_type>Super 7's</division_type>
             <division_no>5</division_no>
             <fours>
-                <skip>Louis Van Rensburg</skip>
-                <third>Herman Sliep</third>
-                <second>Sydney Rust</second>
-                <lead>Willie Shaw</lead>
+                <skip> </skip>
+                <third> </third>
+                <second> </second>
+                <lead> </lead>
             </fours>
             <trips>
-                <skip>Arthur Daniel</skip>
-                <second>Allan Thomson</second>
-                <lead>Hannes Mentz</lead>
+                <skip> </skip>
+                <second> </second>
+                <lead> </lead>
             </trips>
-            <venue>Maraisburg</venue>
-            <opponent>Florida North</opponent>
-            <depart>12:15</depart>
-            <captain>Herman Sliep</captain>
+            <venue>Bye</venue>
+            <opponent>Bye</opponent>
+            <depart>N/A</depart>
+            <captain> </captain>
         </team>
         <team id="5">
             <division_type>Super 4's</division_type>
             <division_no>1</division_no>
             <fours>
-                <skip>Rassie Erasmus</skip>
-                <third>Niekie Bester</third>
+                <skip>Peter Jacobs</skip>
+                <third>Rassie Erasmus</third>
                 <second>Johan Lotriet</second>
                 <lead>Hans Bakker</lead>
             </fours>
-            <venue>Krugersdorp</venue>
-            <opponent>Krugersdorp (2)</opponent>
-            <depart>N/A</depart>
+            <venue>Florida North</venue>
+            <opponent>Florida North</opponent>
+            <depart>12:30</depart>
             <captain>Peter Jacobs</captain>
         </team>
         <team id="6">
@@ -101,13 +101,13 @@
                 <second>Ian McLaren</second>
                 <lead>John Pereira</lead>
             </fours>
-            <venue>Krugersdorp</venue>
-            <opponent>Krugersdorp (1)</opponent>
-            <depart>N/A</depart>
+            <venue>Florida North</venue>
+            <opponent>Randfontein</opponent>
+            <depart>12:30</depart>
             <captain>Dave Parker</captain>
         </team>
-        <reserves>Dick Jacobs</reserves>
-        <unavailable>Rudo Botha, Shane Hallam, Peter Jacobs, Ian Morton, Brian Muldoon, Joe Price, Barry Rheeder, John Wolff</unavailable>
+        <reserves>Niekie Bester, Arthur Daniel, Rodney Gray, Dick Jacobs, Hannes Mentz, Ian Morton, Brian Muldoon, Joe Price, Ray Rhodes, Willie Shaw, Herman Sliep, Allan Thomson, John Wolff</reserves>
+        <unavailable>Trevor Leader, Barry Rheeder, Sydney Rust, Louis van Rensburg</unavailable>
         <selectionCommittee>Dylan Leader, Alan Lyall, Coenie Pieterse, Andy Selby, Jaco van Deventer (Convener)</selectionCommittee>
     </mens>
     <ladies>
@@ -125,29 +125,29 @@
                 <second>Kirstin Leader</second>
                 <lead>Elysses Heine</lead>
             </trips>
-            <venue>Krugersdorp</venue>
-            <opponent>Honeydew (1)</opponent>
-            <depart>N/A</depart>
-            <captain>Kirstin Leader</captain>
+            <venue>Florida North</venue>
+            <opponent>Discovery (2)</opponent>
+            <depart>12:15</depart>
+            <captain>Mabs Rees</captain>
         </team>
         <team id="2">
             <division_type>Super 7's</division_type>
             <division_no>3</division_no>
             <fours>
-                <skip>Amanda Bekker</skip>
-                <third>Linda Bosch</third>
+                <skip>Linda Bosch</skip>
+                <third>Joey Jansen van Rensburg</third>
                 <second>Melana Selby</second>
                 <lead>Belinda Letley</lead>
             </fours>
             <trips>
                 <skip>Jacqui Lewis</skip>
                 <second>Theresa Klein</second>
-                <lead>Anri du Toit</lead>
+                <lead>Charne Westerveld</lead>
             </trips>
-            <venue>Honeydew</venue>
-            <opponent>Honeydew (3)</opponent>
+            <venue>Maraisburg</venue>
+            <opponent>Maraisburg</opponent>
             <depart>12:15</depart>
-            <captain>Amanda Bekker</captain>
+            <captain>Jacqui Lewis</captain>
         </team>
         <team id="2">
             <division_type>Super 4's</division_type>
@@ -158,13 +158,13 @@
                 <second>Hester Bothma</second>
                 <lead>Karen Barnes</lead>
             </fours>
-            <venue>Krugersdorp</venue>
-            <opponent>Noordheuwel (1)</opponent>
-            <depart>N/A</depart>
+            <venue>Honeydew</venue>
+            <opponent>Randfontein</opponent>
+            <depart>12:15</depart>
             <captain>Yvonne Brenner</captain>
         </team>
-        <reserves>Belinda Economakis, Anneke Pereira, Brenda Thomson, Joey Jansen van Rensburg</reserves>
-        <unavailable>Ansie Fourie, Charne Westerveld</unavailable>
+        <reserves>Belinda Economakis, Ansie Fourie, Anneke Pereira, Brenda Thomson</reserves>
+        <unavailable>Amanda Bekker</unavailable>
         <selectionCommittee>Amanda Bekker, Hester Bothma, Yvonne Brenner (Convener), Bokkie Delport, Lucille Keyter</selectionCommittee>
     </ladies>
     <notes>
