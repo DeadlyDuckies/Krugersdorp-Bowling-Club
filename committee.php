@@ -67,7 +67,7 @@
                     </div>
                     <div class="team-item col-lg-3 col-md-6">
                         <div class="item-image">
-                            <img src="assets/images/committee_2019_2020/nophoto.png" alt="" title="" media-simple="true">
+                            <img src="assets/images/committee_2019_2020/nophoto.png" height="340" alt="" title="" media-simple="true">
                         </div>
                         <div class="item-caption py-3">
                             <div class="item-name px-2">
