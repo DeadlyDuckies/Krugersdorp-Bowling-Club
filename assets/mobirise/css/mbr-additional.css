@@ -531,6 +531,10 @@ body {
     border-color: #ffffff;
 }
 
+.covid-19 {
+    background-color: lightgrey;
+}
+
 .text-primary {
     color: #0c379b !important;
 }
