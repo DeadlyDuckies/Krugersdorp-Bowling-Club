@@ -36,11 +36,6 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true">
                 <li class="nav-item">
-                    <a class="nav-link link text-primary covid-19 display-4" href="https://sacoronavirus.co.za" aria-expanded="false">
-                        Keep updated on COVID-19: https://sacoronavirus.co.za
-                    </a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link link text-primary display-4" href="contact" aria-expanded="false">
                         Phone: (011) 664 6062
                     </a>
@@ -95,14 +90,6 @@
                         Events
                     </a>
                     <div class="dropdown-menu">
-<!--                        <a class="dropdown-item text-primary display-4" href="upcoming_events" aria-expanded="false">-->
-<!--                            <span class="mbri-idea mbr-iconfont mbr-iconfont-btn"></span>-->
-<!--                            Upcoming events-->
-<!--                        </a>-->
-<!--                        <a class="dropdown-item text-primary display-4" href="outside_competitions" aria-expanded="false">-->
-<!--                            <span class="mbri-share mbr-iconfont mbr-iconfont-btn"></span>-->
-<!--                            Outside Competitions-->
-<!--                        </a>-->
                         <a class="dropdown-item text-primary display-4" href="calendar" aria-expanded="false">
                             <span class="mbri-calendar mbr-iconfont mbr-iconfont-btn"></span>
                             Calendar
@@ -140,4 +127,15 @@
             </ul>
         </div>
     </nav>
+</section>
+<section class="mbr-section content4 important-info-section" id="important-info-section" data-rv-view="14">
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <a class="nav-link link text-primary important-info display-4" href="https://sacoronavirus.co.za" aria-expanded="false">
+                    Keep updated on COVID-19: https://sacoronavirus.co.za
+                </a>
+            </div>
+        </div>
+    </div>
 </section>
